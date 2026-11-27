@@ -1,0 +1,14 @@
+# Dipendenze per il deploy su Coolify / Railpack
+#
+# NLP
+spacy>=3.8,<4
+simplemma>=1.1,<2
+
+# Modello italiano di spaCy (scaricato come pacchetto pip)
+https://github.com/explosion/spacy-models/releases/download/it_core_news_lg-3.8.0/it_core_news_lg-3.8.0-py3-none-any.whl
+
+# PDF
+pypdf>=5,<6
+
+# Utilità già richieste da spaCy ma fissate per sicurezza
+numpy>=1,<3

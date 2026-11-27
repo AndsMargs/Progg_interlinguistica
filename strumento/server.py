@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import shutil
 import threading
@@ -24,7 +25,7 @@ from pipeline import (
 
 WEB = Path(__file__).resolve().parent / "web"
 RADICE = Path(__file__).resolve().parent.parent
-PORTA = 8765
+PORTA = int(os.environ.get("PORT", "8765"))
 LAVORI: dict[str, dict] = {}
 BLOCCO = threading.Lock()
 
@@ -373,8 +374,9 @@ class Gestore(BaseHTTPRequestHandler):
 def main() -> None:
     RISULTATI.mkdir(parents=True, exist_ok=True)
     prepara_lemmatizzatore()
-    server = ThreadingHTTPServer(("127.0.0.1", PORTA), Gestore)
-    print(f"Interfaccia su http://127.0.0.1:{PORTA}", flush=True)
+    host = os.environ.get("HOST", "0.0.0.0")
+    server = ThreadingHTTPServer((host, PORTA), Gestore)
+    print(f"Interfaccia su http://{host}:{PORTA}", flush=True)
     server.serve_forever()
 
 
