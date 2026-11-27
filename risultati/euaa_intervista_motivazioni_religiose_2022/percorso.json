@@ -1,0 +1,335 @@
+{
+  "id": "euaa_intervista_motivazioni_religiose_2022",
+  "nome_file": "euaa_intervista_motivazioni_religiose_2022.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T17:14:50.961837+00:00",
+  "usage": {
+    "prompt_tokens": 88168,
+    "completion_tokens": 21343,
+    "total_tokens": 109511
+  },
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "estratti": [
+        {
+          "testo": "2. L’intervista personale\n\nIl presente capitolo contiene raccomandazioni specifiche su come preparare l’intervista personale, sul modo in cui l’intervista dovrebbe essere condotto e sugli elementi che devono essere esaminati in relazione alle domande di asilo basate su motivazioni religiose. Le migliori pratiche e i principi individuati che garantiscono un’intervista di alta qualità saranno applicati direttamente ai punti di attenzione e agli esempi pratici specifici delle domande di asilo basate su motivazioni religiose.\n\nStrumento EUAA correlato\n\nPer orientamenti più generali sull’intervista personale, cfr. la Guida pratica: il colloquio personale, dicembre 2014.\n\n## Come preparare l’intervista\n\nNelle sezioni che seguono indicheremo ciò cui occorre prestare particolare attenzione nella preparazione di un’intervista con richiedenti che presentano domande di asilo basate su motivazioni religiose. Una buona preparazione consentirà di concentrarsi sulla raccolta di informazioni pertinenti per decidere in merito all’ammissibilità del richiedente alla protezione internazionale e contribuirà a evitare interviste inutilmente lunghe o ripetute.\n\n### 2.1.1. Come creare un ambiente sicuro per l’intervista\n\nLa neutralità e la riservatezza sono elementi chiave per garantire un ambiente in cui l’intervista personale possa svolgersi in sicurezza.\n\nL’abbigliamento del funzionario esaminatore e dell’interprete o l’allestimento della sala (ad esempio presenza di certi simboli religiosi o filosofici) possono ostacolare la capacità del richiedente di presentare la propria domanda. Occorre pertanto prestare attenzione all’abbigliamento e all’allestimento della sala dell’intervista al fine di mostrare un atteggiamento professionale e neutrale.\n\nLa neutralità e la riservatezza dovrebbero essere sempre garantite, anche quando l’intervista si svolge a distanza. Gli interpreti e i funzionari esaminatori dovrebbero avere uno sfondo neutro e trovarsi in uno spazio in cui è garantita la riservatezza dell’intervista (ad esempio in una stanza in cui il richiedente non può essere ascoltato da altri). Per maggiori informazioni su questo aspetto, cfr. le Raccomandazioni pratiche per condurre l’intervista personale a distanza ( 46 ).\n\nIn alcuni casi si potrebbero ricevere dal richiedente richieste di un interprete di un determinato sesso, di un paese o di una regione specifici, o addirittura di una determinata religione. Le\n\n( 46 ) EASO, Practical Recommendations on Conducting the Personal Interview Remotely (Raccomandazioni pratiche dell’EASO per condurre l’intervista personale a distanza), maggio 2020.\n\n28 richieste di interpreti dello stesso sesso sono esplicitamente disciplinate dalla direttiva sulle procedure di asilo (rifusione) [DPA (rifusione)]. Ove possibile, le richieste di un interprete dello stesso sesso dovrebbero essere soddisfatte, «a meno che l’autorità accertante abbia motivo di ritenere che tale domanda si basi su motivi non connessi alle difficoltà del richiedente di presentare i motivi della sua domanda in modo comprensibile» ( 47 ).\n\nLa possibilità di accogliere le richieste di un interprete o di un intervistatore di una determinata religione, tuttavia, non è specificamente prevista dalla direttiva sulle procedure di asilo (rifusione). Occorre tenere presente che tali richieste sono presentate da richiedenti che spesso temono che le loro dichiarazioni non siano interpretate con precisione o che possono associare l’interprete all’agente responsabile di persecuzione e quindi non sentirsi a loro agio nel parlare della loro domanda.\n\nPoiché l’accoglimento di tali richieste non è obbligatorio e non sempre possibile nel contesto nazionale, è opportuno rassicurare sempre il richiedente, per quanto possibile, che nella procedura di asilo l’interprete è neutrale, formato professionalmente e ha il solo ruolo di tradurre completamente e accuratamente la conversazione tra il funzionario istruttore e il richiedente. Tali richieste possono quindi essere valutate caso per caso per consentire al richiedente di presentare la propria domanda in modo completo.\n\n### 2.1.2. Come prepararsi mentalmente\n\nPrepararsi mentalmente prima di condurre un’intervista relativa a una domanda di asilo basata su motivazioni religiose consentirà di gestire nel miglior modo possibile il contenuto e la situazione dell’intervista.\n\n✓ Essere consapevoli delle proprie prospettive culturali e religiose e non.\n\nNel valutare la religione come motivo di persecuzione, è particolarmente importante che il funzionario esaminatore sia consapevole delle proprie prospettive culturali, religiose o non religiose. Uno dei principali rischi nella valutazione delle domande di asilo basate su motivazioni religiose è che il funzionario esaminatore adotti come punto di riferimento la propria percezione o esperienza religiosa.\n\nCiò che i richiedenti provano, pensano o esprimono sulla propria religione può variare. Mentre alcune narrazioni potrebbero essere elaborate e razionali, altre possono essere semplici e basate su sentimenti personali. Bisogna essere sempre consapevoli dei propri possibili pregiudizi a tale riguardo e mantenere una mentalità aperta. Evitare di giungere a conclusioni basate unicamente sulle proprie esperienze religiose o culturali. Ciò è ancora più importante quando il funzionario esaminatore appartiene alla stessa religione del richiedente, in quanto ciò può dare al funzionario un falso senso di familiarità con l’argomento o la narrazione del richiedente.\n\n✓ Essere consapevoli della complessità della religione, delle convinzioni e delle pratiche religiose.\n\nÈ essenziale riconoscere che la religione è un concetto complesso e che esistono molti modi diversi in cui può essere vissuta o percepita. Fare attenzione a non generalizzare i risultati delle COI specifiche. Occorre mantenere una mentalità aperta ed essere consapevoli del fatto che le pratiche, le tradizioni e le convinzioni religiose possono variare notevolmente da una confessione religiosa all’altra, ma anche all’interno dei paesi, delle regioni e persino delle comunità.\n\n( 47 ) Articolo 15, paragrafo 3, lettera c), DPA (rifusione).\n\nRiconoscere che le dinamiche culturali basate su motivazioni religiose possono influenzare le interviste.\n\nOccorre prendere in considerazione determinate dinamiche che possono influenzare l’intervista. Ad esempio, i richiedenti possono percepire il funzionario esaminatore o l’interprete come un rappresentante della loro religione di recente adozione e fare eccessivo affidamento sulla loro comprensione. Al contrario, il richiedente può anche percepire il funzionario esaminatore o l’interprete come appartenente alla sua religione precedente e nutrire nei loro confronti sentimenti di apprensione o addirittura ostili. Tali distorsioni, da parte sia del richiedente sia del funzionario esaminatore, potrebbero ostacolare la comunicazione aperta e incidere negativamente sull’intervista. A questo proposito, cfr. anche la sezione 2.1.6 «Come preparare l’interprete».\n\nAvere aspettative ragionevoli circa la conoscenza teorica da parte del richiedente della sua religione.\n\nInfine, potrebbe esserci la tentazione di concentrarsi, durante l’intervista, sulla conoscenza teorica da parte del richiedente della sua religione. Infatti, la conoscenza può essere considerata un elemento tangibile, e quindi più semplice, da analizzare. Tuttavia, le aspettative riguardo alla conoscenza da parte del richiedente della sua religione dovrebbero essere ragionevoli e tenere conto non solo del livello di istruzione del richiedente, ma anche del modo in cui egli si rapporta alla sua religione. Cfr. anche la sezione 2.3.1 «Esame dell’appartenenza religiosa».\n\nPreparazione mentale per le interviste personali basate su motivazioni religiose\n\n- Vivere la religione è una questione molto individuale e vi sono molti modi diversi in cui una persona può esprimere il proprio convincimento religioso (attenzione a non adottare la propria esperienza religiosa come punto di riferimento).\n- Le convinzioni e le pratiche religiose sono diverse, anche all’interno di un’unica religione o confessione (evitare di formulare ipotesi generali su una determinata religione).\n- Le dinamiche culturali basate su motivazioni religiose possono influenzare l’intervista.\n- Le aspettative circa la conoscenza da parte del richiedente della sua religione devono essere ragionevoli.\n\n### 2.1.3. Come acquisire dimestichezza con il singolo caso\n\nLa principale fonte di informazioni sul richiedente, prima dell’intervista, è il fascicolo del caso. La natura e la quantità di informazioni disponibili nel fascicolo prima dell’intervista personale dipenderanno dall’assetto nazionale, in particolare per quanto riguarda la registrazione e la possibilità per il richiedente di presentare documenti prima dell’intervista personale.\n\nInformazioni pertinenti sono reperibili in documenti quali i moduli di domanda di asilo, i fascicoli di registrazione, i verbali delle interviste di registrazione, eventuali altre dichiarazioni scritte e documenti giustificativi. Le informazioni pertinenti in materia di religione contenute nel fascicolo possono essere esplicite, ma potrebbero anche essere presenti sotto forma di riferimenti che possono fornire un’indicazione dell’appartenenza religiosa del richiedente.\n\nEsempi di informazioni dirette sull’appartenenza religiosa del richiedente\n\n- Dichiarazioni del richiedente in merito alla sua appartenenza religiosa.\n- Documenti d’identità e di stato civile.\n\nIn alcuni paesi, le carte d’identità attuali o precedenti riportano la religione del titolare. Per i richiedenti provenienti da paesi in cui le questioni inerenti allo status personale sono disciplinate da istituzioni religiose, anche i documenti civili quali i certificati di nascita e di matrimonio possono indicare l’appartenenza religiosa. Inoltre, altri tipi di documenti contenuti nel fascicolo possono riguardare direttamente la «vita religiosa» del richiedente (ad esempio, certificati di battesimo e di attività religiosa).\n\nEsempi di informazioni indirette sull’appartenenza religiosa del richiedente\n\n- Nome del richiedente.\n\nNei paesi in cui certi nomi sono chiaramente associati a un gruppo religioso o a un altro, il nome del richiedente o quello dei suoi familiari può potenzialmente indicare il suo contesto religioso.\n\n- Luogo di nascita o residenza.\n\nLe informazioni sul luogo di nascita del richiedente e sul luogo in cui il richiedente o la maggior parte della sua famiglia vivono o vivevano nel paese di origine possono fornire possibili indicazioni sull’appartenenza religiosa. È il caso di zone (ad esempio quartieri, città, province) notoriamente abitate in via prevalente o esclusiva da gruppi religiosi specifici.\n\n- Livello di istruzione.\n\nIl richiedente può indicare di essere stato istruito in istituti religiosi (ad esempio scuole coraniche, scuole parrocchiali). Tuttavia, va osservato che, in alcuni paesi, i genitori possono mandare i propri figli in scuole affiliate a una religione diversa dalla propria, semplicemente perché l’istruzione è di qualità superiore.\n\nL’analisi del fascicolo per ottenere informazioni rilevanti per la religione è utile non solo per adattare l’intervista alla specifica appartenenza religiosa del richiedente, compreso il suo contesto locale, ma anche per consentire al funzionario esaminatore di individuare potenziali incongruenze o contraddizioni che devono essere esaminate durante l’intervista. Ad esempio, se un richiedente sostiene di essersi convertito dall’Islam al cristianesimo nel paese di origine, ma il suo certificato di matrimonio è stato rilasciato da un tribunale di Shari’a, ciò dimostra che il richiedente ha sposato una donna musulmana dopo la sua presunta conversione.\n\nOltre al fascicolo, è possibile prepararsi per l’intervista cercando informazioni pertinenti sull’appartenenza religiosa del richiedente, le attività religiose, il contesto familiare e la comunicazione con i familiari o altre persone interessate consultando i profili pubblici del richiedente sui social media (ad esempio su Facebook o Instagram) o altre informazioni di libero accesso. Le ricerche sui social media dovrebbero essere effettuate rispettando la vita privata della persona, il che significa che la ricerca dovrebbe limitarsi a quanto strettamente necessario per raccogliere informazioni pertinenti al caso e dovrebbe rispettare le norme applicabili in materia di protezione dei dati (il regolamento generale sulla protezione dei dati ( 48 ) e le norme nazionali in materia di protezione dei dati).\n\nRicordare che tutti i risultati raccolti durante la preparazione dell’intervista devono essere considerati indicazioni da esaminare ulteriormente durante l’intervista. L’intervista dovrebbe sempre essere affrontata con di apertura mentale.\n\n( 48 ) Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU L 119 del 4.5.2016).\n\n### 2.1.4. In che modo le informazioni sul paese di origine possono aiutare\n\n### a prepararsi\n\nL’uso delle COI non è essenziale solo nella preparazione dell’intervista personale: continua a svolgere un ruolo importante durante e dopo l’intervista, al momento di redigere la decisione sulla domanda di protezione internazionale.\n\nData la diversità delle pratiche, delle tradizioni e delle convinzioni religiose è importante che il funzionario esaminatore abbia accesso a informazioni affidabili, accurate, aggiornate e specifiche per paese/regione.\n\nStrumento EUAA correlato\n\nPer ulteriori informazioni sull’uso delle COI da parte dei funzionari esaminatori, consultare la Guida pratica sull’uso delle informazioni sui paesi d’origine da parte dei funzionari che istruiscono le domande di asilo, dicembre 2020 ( 49 ).\n\nIl seguente elenco non esaustivo di domande può essere particolarmente pertinente per le richieste di asilo basate su motivazioni religiose, a seconda del paese di origine e del profilo del richiedente. ( 49 )\n\nEsempi di domande pertinenti per la ricerca di COI\n\n- Qual è la composizione religiosa del paese di origine del richiedente (ossia la distribuzione demografica e geografica dei gruppi religiosi)?\n- Il paese di origine del richiedente ha una religione di Stato ufficiale?\n- Esiste una normativa specifica che disciplina la religione del richiedente?\n- Qual è la situazione della libertà di religione nel paese di origine del richiedente? Esistono leggi che interferiscono con la libertà di religione?\n- Se la religione del richiedente è una religione minoritaria è formalmente riconosciuta? Qual è la posizione delle donne, degli uomini e dei bambini nell’ambito della religione? Qual è la situazione dei figli nati da matrimoni interreligiosi?\n- La protezione dello Stato concessa agli uomini e alle donne appartenenti a un determinato gruppo religioso è diversa? In caso affermativo, sotto quale aspetto e in che misura?\n- Quali sono le tendenze demografiche riguardanti un particolare gruppo religioso nel paese di origine (ad esempio, si sono verificati sviluppi importanti come movimenti migratori al di fuori del paese di origine o di un’area specifica? Il numero di aderenti allo specifico gruppo religioso si è ridotto?)?\n- Quali sono le caratteristiche della religione del richiedente nel paese di origine (struttura, luoghi di culto, divisioni e affiliazioni, convinzioni, istruzione religiosa, celebrazioni, eventi noti, terminologia utilizzata, ecc.)?\n- Come viene percepita l’appartenenza religiosa del richiedente nel suo paese di origine dallo Stato e/o da altri gruppi dominanti?\n- Vi sono segnalazioni di discriminazione nei confronti di membri del gruppo religioso o segnalazioni di violenze o altre forme di maltrattamenti?\n\n( 49 ) EASO, Guida pratica sull’uso delle informazioni sui paesi d’origine da parte dei funzionari addetti ai casi per l’esame delle domande di asilo, dicembre 2020.\n\nEsempi di domande pertinenti per la ricerca di COI\n\n- Gli aderenti al gruppo religioso del richiedente ricevono protezione dallo Stato?\n- Laddove le COI indicano che i membri di determinati gruppi religiosi sono presi di mira, in particolare da soggetti non statali, a causa della loro appartenenza religiosa, esiste una parte del paese di origine in cui i membri di tale gruppo religioso vivono in condizioni di sicurezza? È un indicatore di una potenziale alternativa di protezione interna (IPA)?\n\n(a) Limiti delle COI specifiche per le domande di asilo basate su motivazioni religiose\n\nNonostante l’importanza delle COI per l’esame di una domanda, bisogna sempre essere consapevoli dei loro limiti. Le COI, per sé stesse, sono raramente decisive quanto al merito di una specifica domanda di asilo e di norma non possono fornire informazioni che coprano tutti gli aspetti di un caso.\n\nLe COI disponibili per un caso specifico possono non essere specifiche per paese, regione o comunità, o potrebbero essere obsolete, ad esempio quando la situazione del paese di origine cambi rapidamente durante un conflitto. Occorre inoltre tenere presente che il timore del richiedente di subire persecuzioni può essere molto specifico per l’individuo e non riflettersi nella situazione generale del paese di origine. È inoltre importante essere consapevoli in che misura le informazioni su un argomento specifico siano documentate in un determinato paese di origine. Restrizioni o difficoltà di segnalazione nel paese di origine possono limitare la disponibilità di informazioni su un argomento specifico; ciò dovrebbe essere sempre tenuto in considerazione. Infine, occorre sempre ricordare che, anche quando determinati fatti non sono riportati nelle COI disponibili, ciò non significa che non esistano o non si siano verificati.\n\n(b) Fonti pertinenti per le domande di asilo basate su motivazioni religiose\n\nIn generale, COI pertinenti possono essere ottenute da una serie di portali/banche dati, come quelli delle unità COI nazionali, il portale COI dell’EUAA ( 50 ), la rete COI europea ( 51 ), Refworld ( 52 ) e Reliefweb ( 53 ).\n\nMolte fonti specializzate sulla libertà di religione possono essere utili per la preparazione, l’esame e la valutazione delle domande di asilo basate su motivazioni religiose. Di seguito è riportato un elenco non esaustivo di tali fonti.\n\nRelatore speciale delle Nazioni Unite sulla libertà di religione o di credo: il relatore speciale è un esperto indipendente nominato dal Consiglio dei diritti umani delle Nazioni Unite con il mandato di individuare gli ostacoli all’esercizio del diritto alla libertà di religione o di credo e di fornire raccomandazioni agli Stati membri e alle altre parti interessate. A tal fine, ogni anno vengono pubblicate relazioni annuali con un diverso interesse tematico ( 54 ).\n\n( 50 ) Portale COI dell’EUAA (https://coi.euaa.europa.eu/). ( 51 ) https://www.ecoi.net/ ( 52 ) Refworld (https://www.refworld.org/). Si noti che l’UNHCR non ospita più prodotti COI su refworld. ( 53 ) Reliefweb (https://reliefweb.int/). ( 54 ) Ufficio dell’Alto Commissario delle Nazioni Unite per i diritti umani, «Relazioni annuali – Relatore speciale sulla libertà di religione o di credo» (https://www.ohchr.org/en/issues/freedomreligion/pages/annual.aspx).\n\nRelazioni internazionali del Dipartimento di Stato degli Stati Uniti sulla libertà di religione: il Dipartimento di Stato degli Stati Uniti pubblica relazioni annuali per paese sullo «stato della libertà di religione, sulle politiche governative che violano le convinzioni e le pratiche religiose di gruppi, confessioni religiose e individui, nonché sulle politiche statunitensi che promuovono la libertà di religione in quasi tutti i paesi e territori in tutto il mondo» ( 55 ).\n\nRelazioni per paese del Dipartimento di Stato degli Stati Uniti sulle pratiche in materia di diritti umani: il Dipartimento di Stato degli Stati Uniti pubblica relazioni annuali per paese sulle pratiche in materia di diritti umani che «riguardano i diritti individuali, civili, politici e dei lavoratori riconosciuti a livello internazionale, come stabilito nella Dichiarazione universale dei diritti dell’uomo e in altri accordi internazionali» ( 56 ).\n\nHuman Rights Without Frontiers: questa organizzazione non governativa indipendente, non associata ad alcun sistema religioso o di credo, pubblica documenti di sensibilizzazione e relazioni riguardanti, tra l’altro, la libertà di religione e di credo. Gestisce inoltre una banca dati di notizie pertinenti organizzate per paese, raccogliendo informazioni da diverse fonti esterne ( 57 ).\n\nForum 18: questa organizzazione cristiana non a scopo di lucro fornisce un servizio stampa specializzato, relazioni e commenti periodici sulle violazioni della libertà di culto in Asia centrale, Russia, Caucaso meridionale, Bielorussia e, occasionalmente, Turchia ( 58 ).\n\nOpen Doors: si tratta di un’organizzazione cristiana con filiali nazionali. Sostiene i cristiani perseguitati in tutto il mondo fornendo Bibbie, formazione, sostegno pratico e sensibilizzazione ( 59 ). Open Doors mira inoltre a sensibilizzare in merito alla persecuzione contro i cristiani e mantiene una «lista di controllo mondiale», che fornisce una «classifica annuale dei paesi in cui i cristiani sono maggiormente perseguitati».\n\n### 2.1.5. In che modo gli orientamenti specifici per paese possono essere utili\n\nGli orientamenti specifici per paese possono aiutare a rivolgere l’attenzione alle questioni chiave e ad adattare di conseguenza la strategia dell’intervista.\n\nOltre agli orientamenti nazionali disponibili su determinati paesi, il funzionario esaminatore dovrebbe consultare le guide per paese dell’EUAA ( 60 ) disponibili per i paesi di interesse, come stabilito all’articolo 11, paragrafo 3, del regolamento EUAA. Sulla base dell’analisi comune della situazione in un determinato paese di origine da parte di alti funzionari dei paesi UE +, i documenti di orientamento per paese forniscono indicazioni su come valutare i profili comunemente incontrati (compresi quello che hanno un collegamento con la motivazione religiosa) per quanto riguarda i requisiti per poter beneficiare della protezione internazionale. A seconda del paese, le sezioni pertinenti possono includere i temi della blasfemia, dell’apostasia e della conversione, i profili di particolari minoranze (etno)religiose e altri profili che possono essere considerati avere un fondato timore di persecuzione per motivi religiosi\n\n( 55 ) Dipartimento di Stato degli Stati Uniti, «International religious freedom reports» (Relazioni internazionali sulla libertà di religione) (https://www.state.gov/international-religious-freedom-reports/). ( 56 ) Dipartimento di Stato degli Stati Uniti «Country Reports on Human Rights Practices» (Relazioni annuali per paese sulle pratiche in materia di diritti umani) (https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices). ( 57 ) Human Rights Without Frontiers (https://hrwf.eu/). ( 58 ) Forum 18 (https://www.forum18.org/forum18.php). ( 59 ) Open Doors International (https://www.opendoors.org). ( 60 ) Orientamenti per paese EUAA (https://euaa.europa.eu/asylum-knowledge/country-guidance).\n\n(spesso interconnessi con altri motivi, ad esempio l’opinione politica). Anche l’UNHCR ( 61 ) pubblica simili materiali di orientamento per paese, come le linee guida sull’ammissibilità e le considerazioni in materia di protezione internazionale.\n\n### 2.1.6. Come preparare l’interprete\n\nLa specifica terminologia utilizzata durante le interviste per le domande di asilo basate su motivazioni religiose potrebbe rendere difficile per un interprete tradurre in modo accurato e imparziale. Comunicare con l’interprete sull’argomento dell’intervista aiuta l’interprete a prepararsi meglio all’intervista.\n\n✓ Informare in anticipo l’interprete dell’argomento dell’intervista.\n\nLa condivisione di alcune informazioni di base sul richiedente e sulla natura della sua domanda, come l’età, le condizioni di salute, la presunta appartenenza religiosa, la zona di origine e il timore di persecuzioni, prima dell’inizio dell’intervista personale, può aiutare l’interprete a prepararsi mentalmente allo svolgimento del suo incarico. Ciò al fine di garantire una comunicazione più agevole ed evitare potenziali malintesi tra il richiedente e l’interprete durante l’intervista personale. Può inoltre contribuire a prevenire potenziali conflitti di interessi, ad esempio se il richiedente e l’interprete si conoscono perché frequentano le stesse organizzazioni religiose minoritarie nel paese di asilo.\n\n✓ Se possibile, mettere la terminologia a disposizione dell’interprete in anticipo.\n\nUn altro vantaggio di informare l’interprete sull’argomento dell’intervista prima della stessa è di dare modo all’interprete di prepararsi sulla terminologia specifica. È buona prassi fornire all’interprete un elenco di termini e di definizioni pertinenti (nella lingua dell’intervistatore o, se disponibile, in entrambe le lingue) relativi alla religione in questione durante l’intervista. Ciò garantirà che l’interprete abbia accesso a tutti i concetti pertinenti che potrebbero essere rilevanti durante l’intervista. Cfr. anche la sezione 3.2 «Raccomandazioni per le autorità competenti in materia di asilo». Per i concetti rilevanti per le domande di asilo basate su motivazioni religiose, cfr. la sezione 1.2 «Concetti pertinenti le domande di asilo basate su motivazioni religiose».\n\n✓ Sottolineare l’importanza di un linguaggio neutrale.\n\nOccorre ricordare all’interprete l’importanza di tradurre le domande dell’intervistatore e le risposte del richiedente esattamente nel modo in cui sono formulate. L’interprete dovrebbe, inoltre, assicurarsi di evitare l’uso di parole che potrebbero essere dispregiative e avere una connotazione negativa, ad esempio termini che non sono comunemente utilizzati per auto-identificarsi (ad esempio, «ateo» o «convertito» non dovrebbero essere tradotti con «infedele» o «apostata»). Tuttavia, occorre chiarire all’interprete che, se il richiedente ricorre all’uso di una parola con connotazione negativa, il termine dovrebbe, ovviamente, essere tradotto come tale.\n\n### 2.2. Come condurre l’intervista\n\nLa presente sezione si concentra su aspetti particolarmente rilevanti per le domande di asilo basate su motivazioni religiose e va letta assieme alla Guida pratica: il colloquio personale ( 62 ), che integra. Particolare attenzione dovrebbe essere prestata anche ai minori e ai richiedenti vulnerabili (per ulteriori informazioni consultare lo strumento per l’identificazione delle\n\n( 61 ) Manuali e guide dell’UNHCR (https://www.unhcr.org/search?comid=4a2789926&cid=49aea93ae2&tags=GIP). ( 62 ) La sezione 3 della Guida pratica: il colloquio personale è particolarmente importante a tale riguardo.\n\n35 persone con esigenze particolari ( 63 ) e la guida pratica sull’interesse superiore del minore nelle procedure di asilo ( 64 )).\n\nCostruire un rapporto con il richiedente.\n\nLa costruzione e il mantenimento del rapporto sono considerati il fattore più influente per garantire interviste produttive. Ciò è particolarmente importante nel contesto delle interviste legate alla religione. Per garantire una comunicazione senza ostacoli, è possibile che il funzionario esaminatore debba compiere ulteriori sforzi per rassicurare il richiedente.\n\nIn alcuni casi (ad esempio, quelli relativi alla conversione) può essere necessario sottolineare il principio della riservatezza, non solo nella fase di inizio, ma anche durante l’intera intervista. Sottolineare il principio di neutralità può anche essere importante per chiarire che le opinioni personali e le convinzioni religiose e non del funzionario esaminatore e dell’interprete non influiranno in alcun modo sulla valutazione della domanda del richiedente.\n\nPuò essere importante anche fornire al richiedente informazioni sulla libertà di religione. Infatti, i richiedenti possono temere potenziali ripercussioni derivanti dal parlare della loro appartenenza religiosa. Se il richiedente sembra riluttante ad aprirsi in merito all’appartenenza e alle esperienze religiose, si dovrebbe prendere in considerazione la possibilità di ribadire durante tutta l’intervista il principio del diritto alla libertà di religione.\n\nEsempio di come informare il richiedente sul diritto di esprimere convinzioni religiose\n\nLei ci ha riferito di avere presentato domanda di protezione internazionale a causa delle sue convinzioni religiose (o non religiose). Prima di chiederle di dirmi di più su questo aspetto, è importante che lei sappia che in questo paese tutti hanno il diritto di esprimere il proprio credo religioso. Nessuno dovrebbe essere discriminato, minacciato o essere vittima di abusi a causa delle sue convinzioni. Ciò significa che, durante l’intervista odierna, lei può condividere apertamente le sue esperienze, i suoi pensieri e le sue riflessioni.\n\n✓ Chiarire l’importanza dei termini e dei concetti.\n\nÈ altresì importante essere consapevoli del fatto che gli stessi termini possono avere significati diversi a seconda delle diverse religioni e/o confessioni e possono variare a seconda dell’esperienza religiosa di una persona. Ad esempio, una persona può dire di essersi «convertita al cristianesimo» senza essere necessariamente stata battezzata formalmente. Allo stesso modo, dovrebbero essere chiarite le affermazioni potenzialmente soggettive. Ad esempio, una persona può definirsi «non religiosa», ma intendere in realtà che crede, ma non pratica attivamente la propria religione al momento. Per questo motivo si dovrebbe informare il richiedente dell’importanza di spiegare il significato dei termini e dei concetti pertinenti fin dall’inizio dell’intervista.\n\nEsempio dell’importanza di spiegare i termini pertinenti\n\nPossono esserci termini che lei o io utilizziamo che possono essere compresi in modi diversi. Pertanto, a volte le chiederò di spiegare cosa intende con alcuni termini. Voglio anche che lei mi faccia sapere se utilizzo termini che lei non capisce.\n\n( 63 ) EASO, «Strumento per l’individuazione di persone con esigenze particolari». ( 64 ) EASO, Guida pratica sull’interesse superiore del minore nelle procedure di asilo, 2019.\n\nUtilizzare i termini stessi del richiedente come ‘chiavi di accesso’ alle informazioni pertinenti.\n\nInoltre, occorre assicurarsi di parlare di questioni religiose in un modo che funga da vero e proprio «apripista» per consentire al richiedente di fornire le informazioni pertinenti. Le domande dovrebbero essere formulate in modo da invitare il richiedente a fornire maggiori informazioni sull’argomento. Formulare le domande nel modo più vicino al modo in cui il richiedente esprime le proprie convinzioni religiose può portare a risposte più produttive da parte del richiedente.\n\nUn buon modo per farlo è formulare domande utilizzando le stesse parole del richiedente come punto di partenza. Ad esempio, se il richiedente ha affermato di «amare Gesù», di potrebbe proseguire chiedendo «Che cosa le ha fatto amare Gesù?», invece di chiedere «La prego di precisare la sua relazione con il cristianesimo».\n\n✓ Utilizzare, ove possibile, domande aperte.\n\nNell’esaminare argomenti pertinenti individuati dalla narrazione libera del richiedente, occorre tenere presente che iniziare con domande aperte è importante per consentire al richiedente di fornire informazioni sulle proprie esperienze o pratiche religiose individuali e di spiegare quale è per lui il significato personale della religione.\n\nEsempi di domande aperte\n\n- Descriva il suo percorso per diventare cristiano, dal primo pensiero che si trattava di qualcosa che lei desiderava fino alla decisione di convertirsi.\n- Descriva la sua esperienza di cristiano.\n- La prego di dirmi che cosa significa per lei essere cristiano.\n- Spieghi quali sono per lei le principali differenze tra il cristianesimo e l’Islam.\n\nQuando viene individuato un problema di credibilità, ciò dovrebbe essere sfruttato, in primo luogo, come opportunità per un ulteriore esame e chiarimento. Ciò dovrebbe essere effettuato in modo da incoraggiare il richiedente a dire la verità e, nel contempo, in modo da rafforzare la capacità del funzionario esaminatore di individuare le informazioni che non sono credibili.\n\nEsempio di come dare al richiedente l’opportunità di spiegare le questioni riguardanti la credibilità\n\nLei mi ha detto di avere deciso di convertirsi quando è arrivato in questo paese e che il fatto di diventare cristiano ha cambiato la sua vita. Le ho chiesto di fornire maggiori informazioni sui motivi che l’hanno portata a questa decisione. Tuttavia, lei mi sta dicendo solo pochissimo sulla sua motivazione a convertirsi. Potrebbe aiutarmi a capire perché non può dirmi di più?\n\n✓ Al termine dell’intervista, ricordate al richiedente il suo diritto alla libertà di religione nel paese in cui si trova.\n\nAl termine dell’intervista ci si dovrebbe assicurare che tutti gli argomenti pertinenti siano stati sufficientemente analizzati. Chiedete al richiedente se ha avuto l’opportunità di includere tutte le informazioni pertinenti e prendete in considerazione la possibilità di ripetere le informazioni sul diritto alla libertà di avere convinzioni religiose. Valutate la possibilità di informare il richiedente che, qualora subisca discriminazioni, minacce o violenze nel paese in cui si trova, ciò può essere segnalato alla polizia o al centro di accoglienza. Fornite informazioni pertinenti su ciò che accadrà in futuro e sulla possibilità di presentare documenti di supporto (supplementari) conformemente alla prassi nazionale e sulla procedura per farlo.\n\n### 2.3. Aspetti da esaminare durante l’intervista\n\nLa presente sezione riassume gli elementi da esaminare durante l’intervista personale in generale, concentrandosi su ciò che può essere particolarmente pertinente quando si esaminano le domande basate su motivazioni religiose. Fornisce orientamenti generali sul contenuto dell’intervista elencando argomenti pertinenti per tutti i tipi di domande basate su motivazioni religiose. Nel capitolo 4 «Domande di asilo basate su motivazioni religiose comunemente riscontrate» sono forniti orientamenti sugli argomenti da esaminare per tipi specifici di domande di asilo basate su motivazioni religiose.\n\nI riquadri grigi che seguono mostrano gli elementi pertinenti che dovrebbero essere esaminati nel valutare l’ammissibilità del richiedente alla protezione internazionale sulla base di motivazioni religiose. Per ciascuno degli elementi sono forniti diversi esempi di argomenti pertinenti. Si noti che gli esempi forniti non sono esaustivi. Inoltre, non tutti gli argomenti proposti saranno pertinenti in ogni singolo caso e, ove pertinenti, la misura in cui devono essere esaminati varierà in ciascun caso. ( 65 )\n\nStrumento EUAA correlato\n\nPer orientamenti generali sulla valutazione dell’ammissibilità alla protezione internazionale, cfr. la Guida pratica: requisiti per poter beneficiare della protezione internazionale, aprile 2018 ( 65 ).\n\n### 2.3.1. Esame dell’appartenenza religiosa\n\nNella maggior parte delle domande basate su motivazioni religiose occorre raccogliere informazioni pertinenti per stabilire l’appartenenza religiosa (attuale o precedente) del richiedente. Ciò comprende informazioni sul «credo», sull’«identità» e sullo «stile di vita» religiosi del richiedente, a seconda del rapporto con la sua religione (cfr. la sezione 1.2 «Concetti pertinenti le domande di asilo basate su motivazioni religiose»).\n\nSi noti che le domande sulla natura dell’appartenenza religiosa del richiedente sono state suddivise di seguito in base ai tre aspetti della religione (credo, identità e stile di vita religiosi). Nella pratica, tuttavia, questi tre aspetti possono sovrapporsi. Inoltre, le prove documentali dell’appartenenza religiosa contribuiranno ad accertare l’appartenenza religiosa durante l’intervista personale.\n\n(a) Conoscenza della religione\n\nCome punto di partenza, occorre esaminare in che modo il richiedente intende la propria appartenenza religiosa. Ciò consentirà di comprendere il rapporto del richiedente con la sua religione, vale a dire comprendere quale/i aspetti/i della religione (credo, identità, stile di vita) è/sono importante/i per il richiedente. Ciò consentirà di analizzare gli aspetti religiosi della vita del richiedente e aiuterà a decidere quali sottotemi siano più pertinenti per stabilire l’appartenenza religiosa nel singolo caso.\n\n( 65 ) EASO, Guida pratica:requisiti per poter beneficiare della protezione internazionale, aprile 2018.\n\nLa religione come credo\n\nNell’esaminare l’appartenenza religiosa, la conoscenza teorica della dottrina e degli insegnamenti della religione può essere pertinente, a seconda del profilo del richiedente. Si tenga presente che il livello di conoscenza teorica può variare notevolmente a seconda del richiedente e che molti motivi legittimi possono spiegare la mancanza di tale conoscenza.\n\nEsempi di argomenti da analizzare relativi alla religione come credo\n\n- Il credo religioso cui aderisce o ha aderito il richiedente, le sue convinzioni e ciò che significa/significava per lui.\n- Conoscenza teorica da parte del richiedente della sua religione (dottrina religiosa, comprese le regole religiose e l’assetto istituzionale).\n\nLa religione come stile di vita\n\nOltre alla conoscenza teorica, è possibile chiedere ai richiedenti come praticano/praticavano la loro (precedente) religione. Occorre tenere presente che la misura in cui un richiedente è stato in grado di praticare la sua religione nel paese di origine dipenderà in gran parte dalla situazione nel paese specifico e dai rischi associati a tale pratica.\n\nEsempi di argomenti da analizzare relativi alla religione come stile di vita\n\n- Il significato della religione per il richiedente, ad esempio ciò che significa/significava per lui, quanto è o era importante nella sua vita quotidiana e se ciò si è evoluto nel corso del tempo.\n- La pratica della religione, ad esempio quali pratiche segue o non segue/ha seguito o non ha seguito, e le modalità con cui esercita/esercitava la pratica, se in alcune istituzioni religiose, gruppi, all’interno della famiglia o privatamente.\n\nState attenti a non accontentarvi delle etichette utilizzate dal richiedente. Si cerchi di chiarirle, poiché alcuni termini possono avere un significato relativo. Ad esempio, se il richiedente dichiara di essere «religioso» o, al contrario, afferma che non lo è, è necessario chiedergli per quali motivi si descrive in quel modo. Eventualmente gli si può chiedere di illustrare le sue dichiarazioni con esempi concreti. A tale riguardo, si può anche chiedere al richiedente come si rapporta/rapportava con gli altri membri della sua comunità in termini di pratica religiosa.\n\n- Scolarizzazione religiosa, ad esempio se frequentava corsi di religione a scuola o come attività parascolastica, e ciò che ricorda di tali lezioni.\n- Pratiche, tradizioni e riti religiosi, quali battesimi, matrimoni o festività religiose, e i sentimenti e i ricordi che vi associa.\n\nLa religione come identità\n\nOltre alla conoscenza teologica della religione e delle pratiche del richiedente, si dovrebbero chiedere informazioni sulla comunità religiosa del richiedente, compresa la sua famiglia e la comunità in senso lato nel paese di origine e, se del caso, nel paese di asilo.\n\nEsempi di argomenti da analizzare relativi alla religione come identità\n\n- Contesto religioso del richiedente (ad esempio, proveniente da una famiglia praticante o non praticante).\n- La natura del ruolo, delle responsabilità e delle attività del richiedente all’interno della sua comunità religiosa.\n- Il modo in cui il richiedente si identifica con la propria comunità religiosa nel suo paese di origine e/o nel paese di asilo.\n- Composizione della comunità religiosa locale del richiedente (nel paese di origine e/o nel paese di asilo).\n- Conoscenza della propria comunità religiosa (compresi importanti eventi religiosi storici, capi della comunità, evoluzione della situazione della comunità nel corso degli anni, episodi pregressi in cui la comunità religiosa è stata presa di mira).\n\nFattori che incidono sulla conoscenza da parte del richiedente della propria religione\n\nLa conoscenza teorica e pratica da parte del richiedente della propria religione può costituire un elemento rilevante per stabilire la credibilità della precedente e nuova appartenenza religiosa. Fattori generali (ad esempio età, livello di istruzione) avranno un impatto sulla capacità del richiedente di fornire informazioni. Inoltre, le domande da porre sulla conoscenza e la loro portata varieranno a seconda del modo in cui il richiedente ha vissuto la propria religione.\n\nFattori che spiegano i diversi gradi di conoscenza da parte del richiedente della sua",
+          "inizio": 67887,
+          "fine": 108885
+        }
+      ],
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.15,
+          "livello": "Per niente comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.55,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 51
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.5,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 21
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": 0.6,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 4
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+          "condizioni": [],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 7,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    }
+  ]
+}

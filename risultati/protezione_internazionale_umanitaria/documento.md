@@ -1,0 +1,235 @@
+Fonte: `protezione_internazionale_umanitaria.pdf`.
+
+## VIVERE, STUDIARE,
+
+## LAVORARE IN ITALIA
+
+## GUIDA PRATICA PER CITTADINI
+
+## STRANIERI E OPERATORI
+
+## WWW.PIEMONTEIMMIGRAZIONE.IT
+
+## Protezione
+
+internazionale
+
+## PROTEZIONE
+
+## INTERNAZIONALE
+
+## Che cos’è la protezione internazionale?
+
+La protezione internazionale rappresentata il sistema di norme volte a ga-rantire, tutelare e proteggere i diritti fondamentali della persona costretta a fuggire dal Paese di cittadinanza o di dimora abituale per il fondato timore di subire persecuzioni personali o danni gravi, che si trova in uno degli Stati in cui è in vigore la Convenzione di Ginevra sullo status dei rifugiati. La protezione Internazionale include lo status di rifugiato e lo status di pro-tezione sussidiaria.
+
+## Che cos’è lo status di rifugiato?
+
+Lo status di rifugiato è riconosciuto allo straniero o apolide, il quale, temen-do a ragione di essere perseguitato per motivi di razza, religione, naziona-lità, appartenenza ad un determinato gruppo sociale o per le sue opinioni politiche, si trova fuori del Paese di cui è cittadino e non può o non vuole, a causa di questo timore, avvalersi della protezione del proprio Paese; oppu-re che, non avendo una cittadinanza (apolide) e trovandosi fuori del Paese in cui aveva residenza abituale a seguito di tali avvenimenti, non può o non vuole tornarvi per il timore di cui sopra.
+
+## Che cos’è la protezione sussidiaria?
+
+Qualora lo straniero o apolide, richiedente la protezione internazionale, non possieda i requisiti per ottenere il riconoscimento dello status di rifugiato, potrà ottenere il riconoscimento della protezione sussidiaria se nei suoi con-fronti sussistono fondati motivi per ritenere che, qualora egli ritornasse nel Paese di origine (o nel Paese nel quale aveva precedentemente la dimora abituale, se apolide) correrebbe un rischio effettivo di subire un grave dan-no. È considerato danno grave, il rischio fondato di subire una condanna a morte o all’esecuzione della pena di morte, tortura o altra forma di pena o trattamento inumano o degradante, e la minaccia grave e individuale alla vita o alla persona di un civile derivante dalla violenza indiscriminata in si-tuazioni di con itto armato interno o internazionale
+
+## Che cos’è la protezione umanitaria?
+
+La protezione per motivi umanitari era un sistema di protezione che tutelava tre distinte ed autonome posizioni in osservanza di obblighi umanitari, ob-blighi internazionali e obblighi costituzionali dello Stato, compreso il divieto di estradizione per reati politici. La protezione umanitaria è stata abrogata dalla Legge n ma ci ovviamente non significa che risultino sta-ti abrogati gli obblighi costituzionali ed internazionali dello Stato avendo quest’ultimi origine nella Costituzione e nei Trattati Internazionali. Ed inve-ro, con legge n.173/2020 è stato opportunamente reintrodotto nel TUIMM il “rispetto degli obblighi costituzionali o internazionali dello Stato italiano” e si modificata la norma sui divieti di espulsione e respingimento dal terri-torio italiano nel senso di riconoscere il diritto della persona a ricevere una protezione interna per motivi di protezione speciale, anche in ipotesi ulte-riori rispetto a quelle già previste dalla Legge n. 132/2018. Come da prin-cipio sancito dalla Corte di Cassazione a Sezioni Unite, coloro che hanno presentato una richiesta di protezione prima dell’entrata in vigore del D.L. 113/2018 potranno oggi vedersi ancora riconosciuta la protezione umani-taria ai sensi e per gli effetti dell’art. 5 comma 6 D.lgs. 286/98 attraverso l’attribuzione di un permesso di soggiorno motivato per “casi speciali” della durata biennale e convertibile.
+
+## Che cos’è il permesso per protezione speciale?
+
+È un permesso di soggiorno rilasciato al richiedente asilo che cui confron-ti non sussistono i presupposti per riconoscere la protezione internaziona-le, ma nei cui confronti la Commissione Territoriale ritenga sussistenti altri pregiudizi in capo soggetto meritevoli di tutela, in caso di rimpatrio dello stesso nel paese di origine. In particolare, la norma che regola le ipotesi in cui può essere attribuito un permesso di soggiorno per motivi di protezione speciale, protegge la persona dall’espulsione o dal respingimento verso uno Stato in cui lo straniero possa essere oggetto di persecuzione per motivi di razza, di sesso, di orientamento sessuale, di identità di genere di lingua, di cittadinanza, di religione, di opinioni politiche, di condizioni personali o sociali, ovvero possa rischiare di essere rinviato verso un altro Stato nel quale non sia protetto dalla persecuzione. Parallelamente ven-gono protette tutte le situazioni in cui una persona debba essere estradata verso uno Stato qualora esistano fondati motivi di ritenere che essa rischi di essere sottoposta a tortura o a trattamenti inumani o degradanti o qualora ricorrano gli obblighi di cui all’articolo 5, comma 6 tenendo conto anche dell’esistenza, di violazioni sistematiche e gravi di diritti umani. L istituto della protezione speciale, per come modificata dalla L esclude espressamente la possibilità di allontanamento del soggetto dal territorio nazionale, qualora ciò comporti una violazione del diritto al ri-spetto della propria vita privata e familiare. In particolare, l’amministrazione deve obbligatoriamente tenere di conto dei vincoli familiari dell’interessato, del suo effettivo inserimento sociale in Italia, della durata del suo soggiorno nel territorio nazionale nonché dell’esistenza di legami familiari, culturali o sociali con il Paese di origine”. L’attuale assetto normativo, sottolinea come il legislatore abbia inteso rico-noscere una forma di protezione interna, nel pieno rispetto dei diritti fon-damentali dell’individuo, protetti a livello costituzionale ed internazionale ed oggi espressamente estesi anche al rispetto della vita privata e familiare. Ove ricorrano i presupposti sopra indicati, la Commissione territoriale tra-smette gli atti al Questore per il rilascio di un permesso di soggiorno che reca la dicitura “protezione speciale”. l permesso per protezione speciale, come da modifiche operate dalla Leg-ge 173/2020 alle previgenti previsioni introdotte dalla Legge 132/2018 ha durata biennale e può essere convertito in altro titolo di soggiorno. La domanda di rilascio del permesso di soggiorno per motivi di protezione speciale, può altresì essere formalizzata dall’interessato direttamente innan-zi alla Questura territorialmente competente, esternamente alla procedura per il riconoscimento della protezione internazionale. La Commissione Nazionale Asilo, ha invero fornito alle Questure chiare indi-cazioni sulla procedura interna da seguire in questo caso, affermando, quan-to ai relativi percorsi, la necessità di trasmissione da parte delle Questure ai competenti ollegi erritoriali al fine di ottenere un parere, la cui natura obbligatoria e vincolante poiché il legislatore ha delineato un procedimento ad hoc del tutto autonomo e distinto dalla procedura di protezione inter-nazionale la cui titolarit per l appunto rimessa alle uesture nell am ito del quale, però, il Collegio riveste una determinante funzione decisionale essendo chiamato ad esprimere un parere.
+
+## Che cos’è il permesso di soggiorno per calamità?
+
+È un permesso di soggiorno rilasciato nei casi in cui il Paese verso il quale lo straniero dovrebbe fare ritorno si trova in una situazione di contingente ed eccezionale calamità che non consente il rientro e la permanenza in condi-zioni di sicurezza. Il titolo ha durata di sei mesi, rinnovabile per ulteriori sei mesi se permangono le condizioni che hanno determinato il rilascio ed convertibile in un permesso di soggiorno per motivi di lavoro come da mo-difiche operate dalla Legge alle previgenti previsioni introdotte dalla Legge 132/2018. Il titolo di soggiorno per calamità consente l’iscrizione obbligatoria al Ser-vizio Sanitario Nazionale.
+
+Che cos’è il permesso per atti di particolare valore civile? È un permesso di soggiorno concesso dal Ministro dell’Interno su propo-sta del Prefetto territorialmente competente a coloro che compiono atti di particolare valore, esponendo la propria vita ad un manifesto pericolo per salvare persone, per impedire o diminuire il danno di un grave disastro pub-blico o privato, per ristabilire l’ordine pubblico, per arrestare o partecipare all’arresto di malfattori, per mantenere forza alla legge, per progredire la scienza od in genere per bene dell’umanità o per tenere alti il nome ed il prestigio della Patria. Il permesso ha durata di 2 anni, è rinnovabile, consente di studiare o di svolgere attività lavorativa e può essere convertito in permesso per motivi di lavoro.
+
+## Come si presenta la richiesta di protezione
+
+internazionale? La domanda di protezione internazionale è presentata personalmente dal richiedente presso l u ficio di polizia di rontiera, all atto dell ingresso nel territorio nazionale, oppure all u ficio della uestura competente in ase al luogo di dimora del richiedente. Al momento della domanda l’autorità che la riceve è tenuta ad informare il richiedente sulla procedura da seguire, sui suoi diritti e doveri durante la procedura, sui tempi ed a consegnare un opuscolo informativo. La domanda può essere presentata in ogni momento e non può essere respinta, né esclusa, per il solo fatto di non essere stata presentata tempestivamente. La verbalizzazione della domanda di prote-zione avviene attraverso la sottoscrizione di un modello, chiamato “C3” nel uale, il richiedente, dovr ornire i suoi dati anagrafici, l indicazione dei suoi più stretti familiari, della sua cittadinanza, della lingua parlata, dell’e-ventuale orientamento religioso e/o appartenenza etnica, nonché dei Paesi da lui attraversati prima di arrivare in Italia. Se il modello “C3” presenta degli errori di traduzione e/o di trascrizione, il richiedente, innanzi alla Com-missione Territoriale per il riconoscimento della protezione Internazionale, con ermer o meno i suoi dati anagrafici ed i motivi posti a ondamento della sua domanda di protezione. Il C3 rappresenta pertanto il necessario presupposto per l’avvio della procedura che porterà all’audizione del richie-dente innanzi alla Commissione Territoriale.
+
+## Qual è lo Stato competente per la domanda?
+
+I criteri di competenza per l’esame della domanda di protezione interna-zionale sono individuati dal cd “Regolamento Dublino” e devono essere applicati secondo il seguente ordine gerarchico: 1) criteri familiari: - è competente ad esaminare la domanda lo Stato che ha autorizzato a soggiornare come eneficiario della protezione internazionale un a-miliare del richiedente oppure che ha in esame la domanda di prote-zione internazionale di un familiare del richiedente, a prescindere dal fatto che la famiglia fosse già costituita nel Paese di origine, purché gli interessati abbiano espresso consenso scritto in tal senso; - è competente per l’esame di più domande presentate da più familia-ri simultaneamente lo Stato che sarebbe competente per il maggior numero di domande oppure lo Stato competente per il membro più anziano della famiglia; 2) criteri relativi ai permessi di soggiorno: - se il richiedente è titolare di un permesso di soggiorno o di un visto di ingresso è competente lo Stato che ha rilasciato il permesso o il visto e se il richiedente è titolare di più permessi d soggiorno o più visti è competente lo Stato che ha rilasciato il permesso o il visto più lungo o con scadenza più lontana. Tali criteri si applicano anche se il permes-so di soggiorno è scaduto da meno di 2 anni ed il visto da meno di 6 mesi; - se il permesso di soggiorno è scaduto da più di 2 anni ed il visto è scaduto da più di 6 mesi è competente lo Stato in cui è presentata la domanda; 3) criterio relativo al soggiorno o ingresso illegale: - è competente il primo Stato dell’Unione europea di cui il richiedente ha varcato illegalmente la frontiera.
+
+## Cosa sono le Commissioni Territoriali?
+
+Le Commissioni Territoriali per il riconoscimento della Protezione Interna-zionale (CT) sono organi amministrativi con sede presso le Prefetture con il compito di accertare la sussistenza dei requisiti per il riconoscimento della protezione internazionale o per motivi di protezione speciale del richieden-te, sulla base del racconto della propria vicenda personale e dei motivi che lo hanno costretto a lasciare il Paese di cittadinanza o di dimora. Le CT operano sotto il controllo della Commissione Nazionale Asilo che ha competenza in materia di revoca e cessazione degli status di protezione internazionale già riconosciuti dalle CT, nonché di coordinamento, aggior-namento e formazione dei componenti delle Commissioni.
+
+## Come sono composte le Commissioni Territoriali?
+
+on le modifiche introdotte dal lgs in vigore dal gennaio stata delineata la nuova composizione delle , attualmente orma-te da unzionari amministrativi con poteri istruttori, da un unzionario di carriera pre ettizia con unzioni di Presidente e da un esperto in materia di protezione internazionale e tutela dei diritti umani designato dall ttualmente uindi non sono pi mem ri della il unzionario della Polizia di Stato ed il rappresentante dell nte Locale l Presidente, i unzionari componenti la ommissione, il personale di sup-porto, gli interpreti e tutti i soggetti che lavorano nella ommissione sono chiamati ad osservare il odice di condotta adottato il che sta ilisce le norme di comportamento che regolano le responsa ilit pro-essionali ed etiche
+
+## Cosa fanno le Commissioni Territoriali?
+
+Le hanno il compito di ascoltare il richiedente in una lingua da lui indi-cata, esaminare la domanda in modo o iettivo ed imparziale ed adottare un provvedimento motivato in relazione alle circostanze di atto e di diritto, sulla sua domanda di protezione La decisione della ommissione deve es-sere presa con ri erimento alla situazione aggiornata del Paese di origine e o di provenienza del richiedente La decisione pu essere di accoglimen-to o di rigetto
+
+## Come si svolge l’audizione?
+
+L audizione del richiedente si svolge innanzi alla ommissione erritoriale per il riconoscimento della protezione nternazionale in una lingua da lui indicata l richiedente ha l o ligo di comparire personalmente e di conse-gnare tutti i documenti in suo possesso pertinenti alla sua domanda, incluso il passaporto l collo uio si svolge in seduta non pu lica, alla presenza del componente unzionario amministrativo, ove possi ile dello stesso sesso del richiedente l collo uio pu essere rinviato ualora le condizioni di salute del cittadino straniero non lo rendano possi ile o l interessato ne accia richiesta per gra-vi motivi n presenza di richiedente vulnera ile perch portatore di partico-lari esigenze, al collo uio pu essere ammesso personale di sostegno per prestare la necessaria assistenza La ommissione territoriale pu comun-ue omettere l audizione del richiedente uando ritiene di avere su ficienti motivi per accogliere la domanda in relazione agli elementi da lui orniti n ase alle norme introdotte con la L del , il collo uio video-registrato con mezzi audiovisivi e trascritto in lingua italiana con l ausilio di sistemi automatici di riconoscimento vocale l richiedente pu propor-re un’istanza motivata e chiedere di non avvalersi della videoregistrazione. Della trascrizione del colloquio è data lettura al richiedente in una lingua a lui comprensibile ed in ogni caso, tramite interprete. Il componente della Commissione territoriale che ha condotto il colloquio, subito dopo la lettu-ra e in cooperazione con il richiedente e l interprete, verifica la correttezza della trascrizione, vi apporta le correzioni necessarie e rilascia copia della trascrizione al richiedente in lingua italiana.
+
+## Come funziona la procedura per il richiedente
+
+minorenne? La domanda presentata da un genitore si estende anche ai figli minori non coniugati presenti sul territorio nazionale con il genitore, al momento della presentazione della richiesta. La domanda può essere presentata dal mino-re anche in un momento diverso, per il tramite del genitore. Il minore non accompagnato che voglia accedere alla domanda di protezione internazio-nale ha diritto di ricevere ogni informazione necessaria nonché di parteci-pare a tutti i procedimenti giurisdizionali e amministrativi che lo riguardano, e di essere ascoltato nel merito, alla presenza di un mediatore culturale e linguistico. L’autorità che riceve la domanda dà immediata comunicazione al Tribunale per i minorenni per l’apertura della tutela e per la nomina del tutore che assiste il minore in ogni fase della procedura. La domanda può essere presentata personalmente dal minore o dal suo tutore. Il colloquio del minore si svolge innanzi ad un componente della Commissione con spe-cifica ormazione, alla presenza del genitore che esercita la responsa ilit genitoriale o del tutore n presenza di giustificati motivi, la ommissione territoriale può procedere nuovamente all’ascolto del minore anche senza la presenza del genitore o del tutore, fermo restando la presenza del per-sonale di sostegno, tenuto conto del suo grado di maturità e di sviluppo, nell’esclusivo interesse del minore.
+
+## Come funziona la procedura di relocation?
+
+Il programma di “relocation” (ricollocazione) è stato varato nel settembre 2015 con riferimento a Italia e Grecia per far fronte all’alto numero di do-mande presentate in questi paese e prevede che i richiedenti protezione internazionale appartenenti a nazionalità per le quali il tasso di riconosci-mento della protezione è pari o superiore al 75% possano essere trasferiti in altro Stato che diventa competente ad esaminare la domanda in base alle quote messe a disposizione dagli altri Paesi dell’UE (ad esclusione di Italia e recia l richiedente deve essere previamente identificato e otosegnalato nello Stato in cui si trova e dove formalizza la domanda di protezione inter-nazionale, che sarà poi trasferita al Paese competente individuato secondo i criteri previsti dalla procedura di “relocation”.
+
+## Come funziona l’accoglienza del richiedente
+
+protezione internazionale? Il richiedente che ha formalizzato la domanda di protezione internazionale e che risulta privo di mezzi su ficienti a garantire una ualit di vita adeguata per il sostentamento proprio e dei propri familiari, ha accesso, con i propri amiliari, alle misure di accoglienza, che devono garantire il rispetto della s era privata comprese le di erenze di genere, e delle esigenze connesse all et la tutela della salute fisica e mentale dei richiedenti, l unit dei nu-clei familiari, l’apprestamento delle misure necessarie per le persone porta-trici di particolari esigenze e idonee a prevenire ogni orma di violenza per garantire la sicurezza e la protezione dei richiedenti La L. 173/2020 ha rinominato il Sistema di protezione per titolari di prote-zione internazionale e per minori non accompagnati S P M in S Siste-ma di accoglienza e integrazione, sta ilendo che vi possano essere accolti:
+
+- i richiedenti la protezione internazionale;
+
+- titolari della protezione internazionale;
+
+- i minori non accompagnati
+
+- gli stranieri in prosieguo amministrativo a fidati ai servizi sociali al compi-mento della maggiore et e ualora non accedano a sistemi di protezione specificamente dedicati:
+
+- i titolari di permesso di soggiorno per protezione speciale, ad eccezione dei casi per i uali siano state applicate le cause di esclusione della pro-tezione internazionale;
+
+- i titolari di permesso di soggiorno per casi speciali rilasciati ai sensi dell art , co , L umanitari in regime transitorio , dell art protezione sociale , dell art is vittime di violenza domestica , dell art , co uater s ruttamento lavorativo , d lgs n
+
+- i titolari di permesso di soggiorno per cure mediche rilasciato ai sensi dell art , co , lett is, d lgs n , di permesso di soggiorno per calamit , di permesso di soggiorno per atti di particolare valore ci-vile.
+
+## Quanto dura l’accoglienza del richiedente protezione
+
+internazionale? L accoglienza garantita per tutto il tempo necessario a completare la pro-cedura di esame della domanda in via amministrativa innanzi alla Commis-sione erritoriale n caso di rigetto della domanda da parte della ommis-sione erritoriale l accoglienza permane per tutta la durata della procedura giudiziaria innanzi al Tribunale ordinario nei casi in cui la presentazione del ricorso determina la sospensione automatica degli effetti del provvedimen-to di rigetto della Commissione Territoriale. Negli altri casi, previsti dall’art. 35-bis, co. 3, d.lgs. n. 25/2008, la permanenza in accoglienza è subordinata all’adozione da parte del Tribunale di un provvedimento di sospensione dell e ficacia esecutiva della decisione impugnata
+
+## Che tipo di decisione può prendere la Commissione
+
+Territoriale? La decisione può essere di accoglimento o di rigetto. Nel caso di accogli-mento la Commissione riconosce il diritto del richiedente a ricevere una protezione internazionale – e relativo permesso di soggiorno della durata di 5 anni – accertando lo status di rifugiato o la protezione sussidiaria. Qualora la Commissione ritenga di non riconoscere la protezione interna-zionale, dovrà accertare se il richiedente ha diritto al riconoscimento della protezione speciale, e quindi al rilascio di un permesso di soggiorno di du-rata biennale, convertibile in permesso di soggiorno per motivi di lavoro, ad eccezione dei casi per i quali siano state applicate le cause di diniego ed esclusione della protezione internazionale. Se invece la CT ritenga che il richiedente non abbia diritto ad alcuna forma di protezione internazionale e speciale, adotterà un decreto di rigetto impugnabile innanzi al Tribunale ordinario.
+
+Cosa fare in caso di rigetto della domanda di protezione internazionale? In caso di rigetto della domanda di protezione internazionale il richiedente può presentare ricorso al Tribunale territorialmente competente. Per la pre-sentazione del ricorso è necessaria l’assistenza di un avvocato, ma il richie-dente privo delle risorse necessarie per sostenere il pagamento delle spe-se legali può presentare istanza di ammissione al patrocinio a spese dello Stato, personalmente o tramite l’avvocato incaricato. Il ricorso deve essere presentato, a pena d’inammissibilità, nel termine di 30 giorni dalla data di notificazione della decisione della ommissione erritoriale, ovvero nel ter-mine ridotto di 15 giorni se la domanda è stata esaminata dalla Commissio-ne Territoriale secondo una procedura accelerata. Il richiedente protezione internazionale ha diritto a rimanere sul territorio italiano sino alla scadenza del termine per proporre il ricorso. La presentazione del ricorso sospende automaticamente l e ficacia esecutiva del provvedimento impugnato, atta eccezione per le ipotesi in cui il ricorso è proposto:
+
+- da richiedente protezione internazionale nei cui confronti sia stato adot-tato un provvedimento di trattenimento;
+
+- avverso la decisione che dichiara inammissibile la domanda di protezione internazionale;
+
+- avverso la decisione di rigetto per manifesta infondatezza;
+
+- avverso la decisione adottata nei confronti di richiedente la protezione internazionale proveniente da un Paese di origine sicuro;
+
+- avverso la decisione che ha ritenuto che il richiedente la protezione in-ternazionale abbia presentato la domanda in condizioni di soggiorno ir-regolare, al solo scopo di ritardare o impedire l’esecuzione di un provve-dimento di espulsione o respingimento;
+
+- da richiedente la protezione internazionale sottoposto a procedimento penale o condannato anche con sentenza non definitiva per alcuni speci-fici reati o si trova nelle condizioni previste dall art , co , lettere a , e c , d lgs n
+
+In questi ultimi casi il provvedimento impugnato può essere sospeso dal ri unale previa presentazione di apposita istanza La proposizione del ricorso o dell istanza cautelare non sospende l e ficacia esecutiva della decisione di rigetto della Commissione Territoriale che di-chiara inammissibile, per la seconda volta, la domanda di protezione inter-nazionale reiterata, o nel caso di prima domanda reiterata presentata però in ase di esecuzione di un provvedimento di allontanamento Il richiedente autorizzato a permanere sul territorio a seguito della presen-tazione del ricorso ha diritto al rilascio del permesso di soggiorno per richie-sta asilo, tranne nell ipotesi in cui si trovi trattenuto in un P Il ricorso contro la decisione della Commissione Territoriale può essere pre-sentato sia nel caso in cui la Commissione Territoriale abbia negato il rico-noscimento della protezione internazionale e di quella speciale, sia nel caso in cui sia stata riconosciuta al richiedente una forma di protezione, ma lo stesso ritenga di aver diritto ad una protezione maggiore
+
+## Il richiedente protezione internazionale può svolgere
+
+attività lavorativa? ecorsi giorni dalla presentazione della domanda di protezione inter-nazionale il richiedente pu svolgere attivit lavorativa ei casi in cui la Questura non rilasci il permesso di soggiorno per richiesta asilo contestual-mente alla ricezione della domanda di protezione internazionale, provvede comunque a rilasciare una ricevuta attestante la formalizzazione della do-manda, che costituisce un permesso di soggiorno provvisorio e che consen-te la stipula di un contratto di lavoro In pendenza della procedura di rinnovo del permesso di soggiorno, e sem-pre che non sia stata adottata una decisione definitiva sulla domanda di protezione internazionale, il richiedente pu svolgere l attivit lavorativa
+
+Il permesso di soggiorno per richiesta asilo non può essere convertito in un permesso di soggiorno per motivi di lavoro.
+
+## Il richiedente della protezione internazionale può
+
+uscire dall’Italia? Il richiedente protezione internazionale ha diritto a permanere in Italia sino all’adozione della decisione sulla sua domanda e, in caso di proposizione del ricorso contro la decisione negativa della Commissione Territoriale, per tutto il tempo in cui è autorizzato a rimanere sul territorio nazionale. Al richiedente è rilasciato un permesso di soggiorno per richiesta asilo di durata semestrale, rinnovabile, che ha validità limitatamente al territorio italiano. Il richiedente non è, dunque, autorizzato a circolare e soggiornare negli altri Stati UE e, laddove rintracciato in uno Stato membro, privo di un diverso titolo di soggiorno valido su quel territorio, sarà riaccompagnato in Italia. Il richiedente la protezione internazionale è altresì tenuto ad informare le autorità competenti in ordine ad ogni suo mutamento di residenza o domi-cilio, per consentire di ricevere le comunicazioni inerenti alla sua domanda. Il richiedente è tenuto a comparire personalmente avanti alla Commissione erritoriale per lo svolgimento del collo uio personale finalizzato all esame della sua domanda di protezione internazionale e, in caso di regolare con-vocazione e mancata comparizione, senza una preventiva richiesta di rinvio, la Commissione Territoriale decide la domanda sulla base della documenta-zione a sua disposizione.
+
+## È possibile convertire il permesso di soggiorno per
+
+## motivi di protezione speciale?
+
+Con la Legge 173/2020 è stata stabilita la convertibilità del permesso di soggiorno per motivi di protezione speciale in un permesso di soggiorno per motivi di lavoro, subordinato o autonomo, in presenza delle condizioni previste dalla legge per questi titoli di soggiorno. Per la conversione del permesso di soggiorno per motivi di protezione spe-ciale è sempre necessario il possesso del passaporto.
+
+## Il titolare di protezione internazionale può ottenere il
+
+## Permesso UE per soggiornanti di lungo periodo?
+
+ecorsi anni di permanenza in talia il eneficiario di protezione interna-zionale, in presenza di determinati requisiti, ha il diritto di chiedere il rilascio del Permesso di soggiorno UE per soggiornanti di lungo periodo.
+
+Il calcolo del periodo di soggiorno è effettuato a partire dalla data di pre-sentazione della domanda di protezione internazionale. Il titolare di protezione internazionale, a differenza dei titolari di diverso ti-tolo di soggiorno, non deve produrre la documentazione relativa all’idonei-tà dell’alloggio, né dimostrare il superamento del test di conoscenza della lingua italiana, ma deve indicare un luogo di residenza. Il permesso UE per soggiornanti di lungo periodo riporta l’indicazione dello Stato che ha riconosciuto la protezione internazionale e la data del ricono-scimento.
+
+## Il titolare di protezione internazionale può fare il
+
+ricongiungimento familiare? l eneficiario della protezione internazionale ha diritto al ricongiungimento familiare a condizioni privilegiate rispetto ai titolari di un diverso titolo di soggiorno. La procedura di ricongiungimento familiare e le categorie di familiari ricon-giungibili sono le medesime previste in via generale dal T. U. Immigrazione ma se il titolare di protezione internazionale è un minore non accompagna-to, è consentito l’ingresso ed il soggiorno per ricongiungimento familiare ai suoi ascendenti diretti di primo grado senza le limitazioni previste in via generale. l titolare di protezione internazionale ai fini dell esercizio del diritto al ricon-giungimento familiare non deve fornire la prova del possesso di un alloggio idoneo e di un reddito minimo. Se impossi ilitato a ornire documenti u ficiali che provino i vincoli amilia-ri può ricorrere ad altri mezzi atti a dimostrarne l’esistenza, e le medesime rappresentanze diplomatiche o consolari italiane nel Paese di origine sono tenute a svolgere le verifiche di volta in volta ritenute necessarie al fine di rilasciare adeguate certificazioni sostitutive n ogni caso la domanda di ri-congiungimento familiare del titolare di protezione internazionale non può essere rifiutata unicamente per l assenza di documenti pro atori i vincoli familiari.
+
+## Il titolare di protezione internazionale può andare a
+
+lavorare all’estero? Il titolare di protezione internazionale ha libertà di circolazione nell’Area Schengen, in esenzione dal visto, per un periodo massimo di novanta giorni. Il permesso di soggiorno per protezione internazionale rilasciato dallo Stato italiano non consente lo svolgimento di attività lavorativa in un altro Stato membro dell’UE.
+
+## La tratta di
+
+esseri umani
+
+## LA TRATTA DI ESSERI UMANI
+
+## Che cos’è la tratta di esseri umani?
+
+La tratta di esseri umani, punita dall’art. 601 c.p., è una pratica che consiste nel forzare o indurre una persona a fare ingresso o a soggiornare sul territo-rio per s ruttarla a fini lavorativi, sessuali, nell accattonaggio, nel compimen-to di attivit illecite o per sottoporla al prelievo di organi La legge punisce penalmente uesto comportamento, prevedendo una pena detentiva com-presa tra otto e venti anni
+
+## Che Cos’è il Sistema Antitratta?
+
+Il Piano nazionale di azione antitratta (PNA) stabilisce le strategie di inter-vento dello Stato sul enomeno della tratta e del grave s ruttamento, con l o iettivo di migliorare la risposta nazionale al enomeno in termini di pre-venzione, contrasto e repressione del crimine, protezione e integrazione delle vittime e cooperazione con i paesi d origine l Piano definisce le priorit di intervento, le possi ili onti di finanziamento, le principali azioni che devono essere sviluppate sul territorio e le ammini-strazioni competenti per ciascuna azione.
+
+Co si i n ifi a na i i a i ra a gra sfruttamento? Per aiutare gli operatori ad individuare presunte vittime di tratta e grave s ruttamento, il P ha sviluppato le Linee guida per la definizione di un meccanismo di rapida identificazione delle vittime di tratta e grave s rutta-mento (all. 2 al PNA): le linee guida contengono disposizioni utili sull’ap-proccio alle presunte vittime, sulle modalit di intervista delle stesse e sul processo di identificazione, nonch un elenco, non esaustivo, di indicatori utili all individuazione di una presunta situazione di tratta
+
+C os i r sso i soggiorno r o i i i protezione sociale? La vittima di tratta ha diritto ad ottenere uno speciale permesso di sog-giorno per motivi di protezione sociale , che viene per rilasciato con la dicitura “per motivi umanitari” a tutela del diritto alla riservatezza del titola-re. Ha una durata di sei mesi e può essere rinnovato per un anno, o per un ulteriore periodo qualora sia necessario per motivi di giustizia. Dà diritto ad accedere ai servizi assistenziali ed allo studio, ad iscriversi nelle liste per la disponibilità lavorativa ed a svolgere lavoro subordinato. Se alla conclusione del programma di assistenza e integrazione sociale il eneficiario ha in corso un rapporto di lavoro, il permesso pu essere rin-novato per la durata del rapporto stesso e, in caso di lavoro a tempo inde-terminato, per due anni. Il permesso può, inoltre, essere convertito in un permesso per motivi di lavoro o in un permesso per motivi di studio.
+
+Quali sono i presupposti per il rilascio del permesso di
+
+## soggiorno alla vittima di tratta?
+
+Lo straniero vittima di violenza o grave sfruttamento otterrà il rilascio del permesso di soggiorno nel caso in cui la sua incolumità sia in pericolo per effetto del tentativo di sottrarsi al controllo di un’associazione criminale, o per e etto delle dichiarazioni rese nel procedimento penale contro i suoi sfruttatori. Prima di rilasciare il permesso di soggiorno, la uestura verifica inoltre che la vittima abbia aderito al programma individuale di assistenza e di inte-grazione sociale concordato con il responsabile della struttura presso cui il programma dovrà essere realizzato.
+
+Quali sono le procedure per il rilascio del permesso di
+
+## soggiorno per motivi di protezione sociale?
+
+L’ordinamento prevede due distinti percorsi, alternativi tra loro, per il rila-scio del permesso di soggiorno (c.d. doppio binario):
+
+- percorso giudiziario: la vittima denuncia alle autorità i responsabili dei fatti di violenza e grave sfruttamento subìti. Il permesso di soggiorno viene rilasciato dalla Questura su proposta o previo parere favorevole del Procuratore della Repubblica a cui è stato assegnato il procedimento penale relativo ai fatti denunciati;
+
+- percorso sociale: la vittima non sporge denuncia nei confronti dei suoi s ruttatori, ma si a fida ad un ente preposto all assistenza delle vittime di tratta e aderisce al programma di assistenza e integrazione sociale. In questo caso, il permesso di soggiorno viene rilasciato dalla Questura su proposta dell ente che ha preso in carico la vittima, senza la preventiva acquisizione del parere della Procura della Repubblica.
+
+Quali sono i casi di revoca del permesso di soggiorno
+
+## per protezione sociale?
+
+Il permesso viene revocato in caso di interruzione del programma di assi-stenza e integrazione sociale, di condotta incompati ile con le finalit del programma o uando vengono meno le condizioni che hanno giustificato il suo rilascio.
+
+## Che cos’è il Programma unico di emersione, assistenza
+
+## e integrazione sociale?
+
+Il programma unico di emersione, assistenza e integrazione sociale ha lo scopo di fornire accoglienza e protezione alla persone nella fase preliminare di accertamento della condizione di vittima di tratta e, successivamente, di fornirle gli strumenti necessari al raggiungimento della piena autonomia. Su tutto il territorio nazionale sono attivi progetti che realizzano il programma unico.
+
+## Quali diritti garantisce il Programma unico di
+
+## emersione, assistenza e integrazione sociale?
+
+Il programma garantisce alla vittima, in via transitoria (tre mesi, eventual-mente prorogabili di altri tre mesi), adeguate condizioni di vitto, alloggio e assistenza sanitaria e, successivamente, la prosecuzione dell’assistenza sino al raggiungimento di una situazione di completa integrazione abitativa, la-vorativa e sociale.
+
+Quali sono gli enti autorizzati a svolgere il programma
+
+## unico di emersione, assistenza e integrazione sociale?
+
+Gli unici soggetti autorizzati a prendere in carico le vittime di tratta nello svolgimento del programma unico di emersione, assistenza e integrazione sociale sono i Servizi Sociali degli enti locali, nonché gli enti del privato so-ciale iscritti nella Seconda Sezione del Registro nazionale istituito presso il Ministero del Lavoro e delle Politiche Sociali (l’iscrizione al Registro attesta la solidit organizzativa e patrimoniale degli enti che operano nel campo dell’integrazione sociale degli stranieri).
+
+## La vittima di tratta può ottenere il riconoscimento
+
+## della protezione internazionale?
+
+La vittima di tratta che, nel caso di rientro nel paese d’origine, rischi di subi-re persecuzioni per uno dei motivi previsti dalla Convenzione di Ginevra del 1951, ha diritto a ottenere la protezione internazionale. In particolare, secondo l’Alto Commissariato delle Nazioni Unite per i Rifu-giati (UNHCR) il reclutamento forzato o con l’inganno di donne e minori per il loro sfruttamento sessuale può costituire persecuzione legata al “genere” e dà diritto alla protezione internazionale se le autorità del paese d’origine non sono in grado di o rire alla vittima una protezione e ficace dai tra fican-ti. In ogni caso, la valutazione della domanda di protezione internazionale di una vittima di tratta è completamente indipendente dalla volontà della stessa di denunciare i suoi tra ficanti
+
+Quali sono i diritti della vittima di tratta che fa
+
+## richiesta di protezione internazionale?
+
+La legge italiana considera le vittime di tratta che fanno richiesta di prote-zione internazionale una categoria vulnera ile, riconoscendo loro specifiche garanzie procedurali e particolari enefici in termini di accoglienza Per avorire l emersione e l identificazione delle vittime di tratta tra coloro che presentano domanda di protezione internazionale ed il loro rapido invio al Sistema Antitratta, l’UNHCR e la Commissione Nazionale per il Diritto d silo hanno ela orato le Linee uida per L identificazione delle vittime di tratta tra i richiedenti protezione internazionale e procedure di referral, che stabiliscono delle Procedure Operative Standard che le Commissioni Terri-toriali devono adottare nell’esame di queste particolari domande.
+
+## Come si svolge l’esame della domanda di protezione
+
+## internazionale di una potenziale vittima di tratta?
+
+L’audizione avviene secondo le Procedure Operative Standard contenute nelle Linee Guida. L’intervista deve essere condotta da un componente della Commissione Territoriale e da un interprete dello stesso sesso della potenziale vittima di tratta, soprattutto nei casi di tratta per sfruttamento sessuale. L’intervistatore deve informare il/la richiedente dei diritti previsti dalla legge italiana in favore delle vittime di tratta e, dopo averne ricevuto il consenso scritto, deve segnalare il caso a un ente autorizzato a svolgere programmi di emersione, assistenza e integrazione sociale e sospendere l’esame. L’ente effettuerà dei colloqui con il/la richiedente e, all’esito, invierà una relazio-ne alla Commissione contenente il proprio parere. Ricevuta la relazione, la
+
+Commissione Territoriale potrà riavviare il procedimento e decidere sulla domanda. Se il/la richiedente ha già aderito ad un programma di emersione, assi-stenza e integrazione sociale (dunque, è già stato/a preso/a in carico da un ente antitratta), la sua domanda di protezione internazionale deve essere trattata dalla Commissione Territoriale in via prioritaria; nel caso in cui la persona abbia aderito al programma da poco tempo, il procedimento può essere sospeso per un massimo di tre mesi per verificare l andamento del programma e, all esito, la ommissione assume la decisione
+
+## Come funziona l’accoglienza in favore della vittima di
+
+## tratta che fa richiesta di protezione internazionale?
+
+La persona che richiede protezione internazionale identificata come vittima di tratta ha diritto ad accedere al programma unico di emersione, assistenza e integrazione sociale e ad essere accolta in una struttura protetta gestita da un ente autorizzato allo svolgimento di tale programma. uttavia, nel caso in cui l incolumit della vittima non sia a rischio, l acco-glienza può eventualmente proseguire in una struttura di accoglienza per richiedenti protezione internazionale, purché sia idonea ad ospitare perso-ne vulnerabili.

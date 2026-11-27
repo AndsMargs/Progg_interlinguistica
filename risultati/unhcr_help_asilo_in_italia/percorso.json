@@ -1,0 +1,366 @@
+{
+  "id": "unhcr_help_asilo_in_italia",
+  "nome_file": "unhcr_help_asilo_in_italia.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T16:25:16.783758+00:00",
+  "usage": {
+    "prompt_tokens": 9521,
+    "completion_tokens": 1247,
+    "total_tokens": 10768
+  },
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "estratti": [
+        {
+          "testo": "Puoi comunicare la tua volontà di chiedere asilo alle autorità italiane:\n\n- alla Polizia di Frontiera, quando arrivi in Italia;\n\n- oppure, se sei già in Italia, presso l’Ufficio Immigrazione della Questura competente per il luogo in cui ti trovi.\n\nDopo lo screening e gli altri controlli previsti, la tua domanda di protezione internazionale sarà registrata e presa in esame dalle autorità competenti. In alcuni casi previsti dalla legge, la domanda può essere esaminata attraverso una procedura di frontiera, che si svolge vicino al confine o nei punti di arrivo.",
+          "inizio": 3887,
+          "fine": 4451
+        },
+        {
+          "testo": "Puoi esprimere la tua intenzione di richiedere protezione internazionale oralmente o per iscritto, nella tua lingua, con l’aiuto di un interprete.",
+          "inizio": 5023,
+          "fine": 5169
+        },
+        {
+          "testo": "Le autorità registreranno le tue informazioni personali (nome, cognome, data e luogo di nascita, nazionalità), ti chiederanno i motivi per cui stai chiedendo protezione e scatteranno una fotografia. Se hai 6 anni o più, verranno raccolte anche le tue impronte digitali e registrate nella banca dati europea Eurodac, secondo le norme attualmente in vigore nell’Unione Europea.",
+          "inizio": 5909,
+          "fine": 6284
+        },
+        {
+          "testo": "Ricorda che:\n\n- Se non parli italiano, hai diritto all’assistenza gratuita di un interprete.\n\n- Se possiedi un passaporto o altri documenti di identità, le autorità potrebbero chiederti di consegnarli o di mostrarli.\n\n- Puoi presentare qualsiasi documento, fotografia, certificato o altra prova che ritieni utile per sostenere la tua domanda.\n\n- Se lo desideri, puoi consegnare una dichiarazione scritta (in italiano o in un’altra lingua) che racconta la tua storia e spiega i motivi della tua richiesta di protezione.\n\n- Se hai esigenze particolari o ti trovi in una situazione di vulnerabilità (ad esempio sei minorenne, sei incinta, hai una disabilità, una malattia, hai subito violenze o torture, oppure hai bisogno di assistenza specifica), informane subito le autorità affinché possano offrirti il supporto adeguato.",
+          "inizio": 6286,
+          "fine": 7108
+        }
+      ],
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.5,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "estratti": [
+        {
+          "testo": "Per accedere ad un centro d’accoglienza dovrai richiederlo al momento della presentazione della domanda di protezione internazionale. Dovrai considerare che, seppure le tue esigenze personali verranno tenute in considerazione, una volta richiesto l’accesso alle misure di accoglienza, non potrai scegliere il luogo in cui si trova il centro poiché ciò dipende dalla disponibilità di posti all’interno del sistema nazionale di accoglienza.",
+          "inizio": 11425,
+          "fine": 11863
+        },
+        {
+          "testo": "Se hai provato a parlare con l’Ente che gestisce il centro di accoglienza ma il problema non si è risolto, puoi contattare direttamente la Prefettura territoriale competente.",
+          "inizio": 13260,
+          "fine": 13434
+        },
+        {
+          "testo": "Se hai domande riguardanti l’accoglienza o hai bisogno di ulteriore assistenza, puoi contattare il Numero verde per richiedenti asilo e rifugiati, gestito da ARCI in partnership con UNHCR, ai seguenti recapiti: 📞** 800 905 570** o **📞** +39 3511376335** per utenti Lycamobile/**Whatsapp**, e-mail numeroverderifugiati@arci.it.",
+          "inizio": 13499,
+          "fine": 13825
+        }
+      ],
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.5,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+          "condizioni": [],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 7,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "estratti": [],
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "id": "la_guida_in_italiano",
+  "nome_file": "la_guida_in_italiano.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T16:58:23.570289+00:00",
+  "usage": {
+    "prompt_tokens": 22835,
+    "completion_tokens": 4803,
+    "total_tokens": 27638
+  },
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "estratti": [
+        {
+          "testo": "Puoi manifestare la tua volontà di richiedere protezione internazionale al momento dell’arrivo in Italia presso la Polizia di Frontiera o, se già ti trovi in Italia, presso la Questura - Ufficio Immigrazione di Polizia- più vicina.",
+          "inizio": 4436,
+          "fine": 4667
+        },
+        {
+          "testo": "La domanda è individuale: ogni persona adulta deve presentare la domanda personalmente. Se hai figli minorenni in Italia avvisa le Autorità della loro presenza: in questo modo la tua domanda sarà valida anche per loro. Se hai meno di 18 anni e sei da solo qui in Italia, puoi comunque presentare subito la tua domanda di protezione internazionale con l’assistenza della persona responsabile del centro dove ti trovi.",
+          "inizio": 4828,
+          "fine": 5244
+        },
+        {
+          "testo": "1) IDENTIFICAZIONE: dopo aver espresso la tua intenzione di chiedere protezione, la Polizia ti identifica: registra i tuoi dati anagrafici (nome, cognome, data, luogo di nascita, nazionalità), ti scatta alcune fotografie. Se hai un’età pari o superiore a 14 anni, le Autorità faranno anche una fotografia o un’immagine delle tue dita (“impronte digitali”), che sarà trasmessa ad una banca dati europea, chiamata Eurodac. Per svolgere queste procedure potresti essere trattenuto in una struttura specifica fino ad un massimo di 1 mese. Al termine di questo periodo, se non fosse stato ancora possibile accertare la tua identità e cittadinanza, potresti essere trasferito in un Centro di Permanenza per i Rimpatri, dove potrai essere trattenuto per un periodo massimo di 6 mesi.",
+          "inizio": 11971,
+          "fine": 12747
+        },
+        {
+          "testo": "2) FORMALIZZAZIONE DELLA DOMANDA: consiste nella compilazione di un modulo chiamato Modello C3. La Polizia ti pone alcune domande sulla tua identità e condizione personale (ad es. nome, cognome, data e luogo di nascita, nazionalità, domicilio attuale, recapiti, titoli di studio, lavoro, religione, luoghi di residenza, lingue conosciute), sulla tua famiglia, sul viaggio affrontato e ti chiede di raccontare brevemente i motivi per cui hai lasciato il tuo Paese e il perché non puoi farvi ritorno. Se desideri puoi anche consegnare un documento scritto (in italiano o in altra lingua) in cui spieghi la tua storia. Se non parli italiano hai diritto ad essere assistito da un interprete.",
+          "inizio": 12749,
+          "fine": 13436
+        },
+        {
+          "testo": "Il modello C3 sarà firmato da te, dal funzionario di Polizia e dall’interprete che ti ha assistito e nel caso tu abbia meno di 18 anni, dal tuo tutore (leggi a pag. 16 il significato di questa parola) o dal responsabile del centro in cui sei accolto. Riceverai una copia del modello firmato e dei documenti che hai depositato.",
+          "inizio": 14894,
+          "fine": 15220
+        },
+        {
+          "testo": "Se cambi i tuoi recapiti (il luogo in cui abiti o il numero di telefono) devi informare la Questura e la Commissione Territoriale per poter ricevere le comunicazioni relative alla tua domanda di protezione, come per esempio la data del tuo colloquio presso la Commissione Territoriale. A questo proposito leggi il paragrafo “Come mi viene comunicata la decisione?” che trovi a pag. 29.",
+          "inizio": 15239,
+          "fine": 15624
+        }
+      ],
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.35,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.25,
+          "livello": "Poco comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.45,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.7,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "estratti": [
+        {
+          "testo": "Dopo la tua identificazione da parte della Questura, se hai manifestato l’intenzione di presentare domanda di protezione e non hai risorse personali sufficienti per l’alloggio e i viveri, puoi essere trasferito in un centro di accoglienza per richiedenti asilo dove puoi soggiornare per tutta la durata della procedura per il riconoscimento della protezione internazionale (anche durante l’eventuale ricorso al giudice del Tribunale contro la decisione della Commissione Territoriale).",
+          "inizio": 23959,
+          "fine": 24444
+        },
+        {
+          "testo": "Se sei un minore non accompagnato hai diritto ad essere accolto in una struttura dedicata esclusivamente ai minorenni. Se non hai documenti che provano la minore età, chiedi maggiori informazioni al personale del centro in cui sei accolto.",
+          "inizio": 24446,
+          "fine": 24685
+        },
+        {
+          "testo": "Il regolamento del centro indica i tuoi diritti ed i tuoi doveri durante l’accoglienza.",
+          "inizio": 24761,
+          "fine": 24848
+        },
+        {
+          "testo": "Hai il diritto a: A. Alloggio dignitoso. Gli alloggi sono separati tra uomini e donne e se sei insieme ai tuoi familiari hai diritto a vivere con loro; B. Cibo sufficiente, possibilmente adeguato alle tue necessità e abitudini;",
+          "inizio": 24850,
+          "fine": 25077
+        },
+        {
+          "testo": "Nel centro hai il diritto di ricevere visita da parte dei rappresentanti dell’UNHCR, del tuo avvocato e di eventuali familiari. Possono entrare nel centro di accoglienza anche altre organizzazioni di tutela dei rifugiati e persone che abbiano chiesto ed ottenuto autorizzazione.",
+          "inizio": 25333,
+          "fine": 25611
+        },
+        {
+          "testo": "Se hai esigenze particolari puoi informare gli operatori del centro per ricevere assistenza. Per esempio se aspetti un bambino, hai problemi fisici o psicologici, hai subìto violenze fisiche, psicologiche o sessuali.",
+          "inizio": 25613,
+          "fine": 25829
+        },
+        {
+          "testo": "Durante la tua permanenza nel centro hai il dovere di: A. Mantenere sempre un comportamento rispettoso nei confronti degli altri ospiti e del personale che gestisce il centro di accoglienza; B. Rispettare sempre il regolamento. La grave violazione del regolamento potrebbe comportare la revoca dell’accoglienza. Per chiarimenti chiedi informazioni agli operatori legali.",
+          "inizio": 26122,
+          "fine": 26492
+        },
+        {
+          "testo": "Nel centro di accoglienza ci sono alcune regole, tra cui il rispetto degli orari. Durante il giorno sei libero di uscire dal centro rispettando gli orari previsti. In casi eccezionali, per stare fuori per un tempo più lungo puoi chiedere un permesso: rivolgiti agli operatori del centro per avere maggiori informazioni.",
+          "inizio": 26545,
+          "fine": 26864
+        },
+        {
+          "testo": "PRESENTARTI AL COLLOQUIO: hai l’obbligo di presentarti presso la Commissione Territoriale per sostenere il colloquio nel giorno e nell’orario di convocazione comunicato. Tuttavia, in caso di gravi motivi che non ti consentono di presentarti al colloquio, puoi chiedere di posticipare l’intervista. Avvisa la Commissione Territoriale al più presto; se sei accolto in un centro ti aiuteranno gli operatori.",
+          "inizio": 20122,
+          "fine": 20526
+        }
+      ],
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.95,
+          "livello": "Molto comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.68,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.8,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "estratti": [
+        {
+          "testo": "Dopo aver presentato la domanda di protezione internazionale, sarai convocato per un’intervista presso la Commissione Territoriale, autorità competente per la sua valutazione.",
+          "inizio": 27038,
+          "fine": 27213
+        },
+        {
+          "testo": "Sarai intervistato da un funzionario della Commissione Territoriale. Potrai chiedere di essere intervistato da un funzionario uomo o donna, a seconda di come ti senti più a tuo agio e, se possibile, verrai accontentato.",
+          "inizio": 27925,
+          "fine": 28144
+        },
+        {
+          "testo": "Sarai intervistato alla presenza di un interprete della tua lingua. Se non lo capisci bene o ci sono dei motivi per cui la sua presenza non ti fa sentire a tuo agio, fallo presente al funzionario che ti intervista.",
+          "inizio": 28283,
+          "fine": 28497
+        },
+        {
+          "testo": "L’interprete è un professionista indipendente ed imparziale che fornisce una traduzione letterale delle domande e delle risposte. È obbligato alla riservatezza e non partecipa alla valutazione del tuo caso.",
+          "inizio": 28499,
+          "fine": 28705
+        },
+        {
+          "testo": "L’intervista è individuale. Anche se un tuo coniuge o altri familiari sono stati convocati per il colloquio lo stesso giorno, ognuno sarà intervistato separatamente. Se hai meno di 18 anni e sei con i tuoi genitori, la Commissione Territoriale decide se ascoltarti o meno. Nel caso decidesse di ascoltarti, sarai intervistato alla presenza dei tuoi genitori.",
+          "inizio": 28707,
+          "fine": 29065
+        },
+        {
+          "testo": "Se non hai compiuto i 18 anni e non sei con un tuo genitore, sarai ascoltato alla presenza del tuo tutore (vedi pag. 16).",
+          "inizio": 29067,
+          "fine": 29188
+        },
+        {
+          "testo": "Puoi farti assistere dal tuo avvocato di fiducia (ricorda che, in questa fase, non è prevista l’assistenza legale gratuita).",
+          "inizio": 29190,
+          "fine": 29314
+        },
+        {
+          "testo": "Tutto ciò che viene detto durante il colloquio viene trascritto su un foglio, chiamato verbale dell’audizione. Alla fine dell’intervista ti viene riletto. Se ci sono imprecisioni o vuoi precisare qualcosa, chiedi che il verbale venga corretto.",
+          "inizio": 29700,
+          "fine": 29943
+        },
+        {
+          "testo": "Dopo la rilettura del verbale ne ricevi una copia. Solamente tu puoi decidere se e a chi farlo leggere (per esempio al tuo avvocato).",
+          "inizio": 30232,
+          "fine": 30365
+        },
+        {
+          "testo": "La Commissione Territoriale ha l’obbligo di riservatezza e non condividerà con nessuna persona esterna alla procedura (ad esempio: le autorità del tuo Paese, o la tua famiglia o il centro che ti ospita) nessuna informazione riservata senza il tuo consenso. Puoi dunque sempre esprimerti liberamente.",
+          "inizio": 30367,
+          "fine": 30666
+        }
+      ],
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.4,
+          "livello": "Poco comprensibile",
+          "frasi": 4
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.55,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 10
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.75,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": 0.6,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 4
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+          "condizioni": [],
+          "ordine": 6,
+          "punteggio": 0.75,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 5
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "estratti": [
+        {
+          "testo": "Il tuo caso è esaminato e valutato da un collegio di 4 persone composto dal Presidente della Commissione, da una persona designata da UNHCR, da due funzionari del Ministero dell’Interno (uno dei quali è la persona che ti ha intervistato). I possibili esiti della valutazione sono: Riconoscimento dello status di rifugiato",
+          "inizio": 32116,
+          "fine": 32437
+        },
+        {
+          "testo": "Riconoscimento della protezione sussidiaria",
+          "inizio": 32439,
+          "fine": 32482
+        },
+        {
+          "testo": "In base alla Convenzione di Ginevra del 1951, sei riconosciuto rifugiato se hai un timore fondato di essere perseguitato, nel tuo Paese di origine, per motivi di:\n\n- razza (ad esempio per il colore della pelle o per la appartenenza ad un gruppo etnico);\n- religione (ad esempio per la religione e riti che pratichi o che non pratichi);\n- nazionalità (ad esempio per la tua lingua, cultura, origini etniche);\n- opinione politica (ad esempio per la tua appartenenza a gruppi politici o per le tue idee politiche); appartenenza ad un determinato gruppo sociale, cioè un gruppo di persone che si identificano in caratteristiche comuni o sono percepite dalla società come gruppo distinto proprio per quelle caratteristiche\n\n(per esempio, in alcuni Paesi, uno specifico orientamento sessuale o un determinato lavoro o un determinato stile di vita); e non puoi ricevere protezione dal tuo Paese di origine.",
+          "inizio": 32584,
+          "fine": 33483
+        },
+        {
+          "testo": "Quando non ci sono i presupposti per lo status di rifugiato, ti viene riconosciuta la protezione sussidiaria se sussistono fondati motivi per ritenere che, in caso di ritorno nel tuo Paese di origine, correresti effettivamente il rischio di un danno grave (condanna a morte, tortura, trattamento inumano o degradante, pericolo di morte perché nel tuo Paese c’è un conflitto armato in corso) e non potresti ricevere protezione dal tuo Paese di origine.",
+          "inizio": 33946,
+          "fine": 34397
+        },
+        {
+          "testo": "Nel caso eccezionale in cui tu non possa essere riconosciuto titolare di una protezione internazionale, ma nel tuo Paese di origine saresti comunque a rischio di persecuzione, tortura o altre forme di trattamento inumano o degradante, può esserti riconosciuta la protezione speciale.",
+          "inizio": 34565,
+          "fine": 34848
+        },
+        {
+          "testo": "Nel caso in cui, valutati tutti gli elementi, la Commissione ritiene che non vi siano i presupposti per riconoscerti una forma di protezione, la tua domanda viene rigettata.",
+          "inizio": 34923,
+          "fine": 35096
+        },
+        {
+          "testo": "L’esito della tua domanda di protezione internazionale è contenuto in un provvedimento scritto e motivato dalla Commissione Territoriale che ti verrà notificato da un operatore del centro in cui sei accolto oppure tramite il servizio postale presso il domicilio privato che hai comunicato in Questura durante la fase di formalizzazione della tua domanda (vedi pag.12) o successivamente.",
+          "inizio": 36552,
+          "fine": 36938
+        },
+        {
+          "testo": "È di fondamentale importanza, dunque, informare la Questura e la Commissione Territoriale, ogni volta che cambi domicilio e attendere la decisione della Commissione presso il centro di accoglienza o il domicilio che hai comunicato. Se non lo fai, potresti non ricevere la comunicazione contenente la decisione sulla tua domanda di protezione.",
+          "inizio": 36940,
+          "fine": 37282
+        },
+        {
+          "testo": "Se non hai ricevuto la comunicazione perché non eri presente nel centro di accoglienza o al domicilio comunicato, potrai ritirarla presso la Questura, dove sarà disponibile nei venti giorni successivi all’avvenuta notifica.",
+          "inizio": 37296,
+          "fine": 37519
+        },
+        {
+          "testo": "Dopo il ventesimo giorno, il provvedimento è considerato consegnato e le autorità italiane applicheranno quanto in esso contenuto:\n\n- il tuo diritto di soggiornare sul territorio italiano oppure il tuo obbligo di abbandonare l’Italia dipenderà da quello che c’è scritto nel provvedimento;\n- inizieranno a decorrere i termini per presentare un ricorso contro la decisione della Commissione Territoriale (vedi paragrafo successivo).",
+          "inizio": 37521,
+          "fine": 37951
+        },
+        {
+          "testo": "### 2. PERMESSO PER CALAMITÀ: se non puoi tornare in sicurezza",
+          "inizio": 49123,
+          "fine": 49185
+        }
+      ],
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ],
+          "ordine": 1,
+          "punteggio": 0.48,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 6
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ],
+          "ordine": 3,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ],
+          "ordine": 4,
+          "punteggio": 0.58,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": 0.8,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 7,
+          "punteggio": 0.85,
+          "livello": "Molto comprensibile",
+          "frasi": 1
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "estratti": [
+        {
+          "testo": "Se non sei d’accordo con la decisione adottata dalla Commissione Territoriale, puoi chiedere al giudice di riesaminarla, facendoti assistere da un avvocato di tua fiducia. Fai attenzione ai termini di scadenza (30 o 15 giorni, a seconda dei casi), che sono indicati in fondo alla decisione.",
+          "inizio": 38112,
+          "fine": 38402
+        },
+        {
+          "testo": "Se non hai risorse economiche sufficienti, hai diritto ad essere assistito gratuitamente da un avvocato.",
+          "inizio": 38403,
+          "fine": 38507
+        },
+        {
+          "testo": "Fare ricorso contro la decisione di rigetto generalmente ti dà il diritto a permanere in Italia fino alla decisione del Tribunale.",
+          "inizio": 38508,
+          "fine": 38638
+        },
+        {
+          "testo": "In alcuni casi, invece, per rimanere in Italia il tuo avvocato deve fare una specifica richiesta al giudice che decide in proposito (per esempio se sei trattenuto in un Centro di Permanenza per il Rimpatrio oppure se la tua domanda è manifestamente infondata).",
+          "inizio": 38639,
+          "fine": 38899
+        }
+      ],
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.58,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.85,
+          "livello": "Molto comprensibile",
+          "frasi": 1
+        }
+      ]
+    }
+  ]
+}

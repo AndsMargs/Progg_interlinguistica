@@ -1,0 +1,7 @@
+chiave_gpt.txt
+__pycache__/
+*.pyc
+.DS_Store
+risultati/_caricamenti/
+strumento/dipendenze/
+*.zip

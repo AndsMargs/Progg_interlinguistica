@@ -1,0 +1,3247 @@
+{
+  "id": "regione_toscana_informazioni_richiedenti_asilo",
+  "nome_file": "Fonte: https://www2.immigrazione.regione.toscana.it/?q=Informazioni_richiedentiasilo",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T19:30:49.676027+00:00",
+  "stato": "completato",
+  "documento": "# Informazioni sulla Domanda di protezione internazionale\n\n(Pagina realizzata in collaborazione con la Commissione territoriale per il riconoscimento della protezione internazionale di Firenze)\n\nVedi anche: Glossario per richiedenti protezione internazionale.\n\n### Cos’è la protezione internazionale?\n\nÈ la possibilità di chiedere all’Italia rifugio per non tornare nel tuo Paese di origine perché hai paura per la tua vita.\n\n### Quando posso presentare la domanda di protezione internazionale?\n\nSe hai lasciato il tuo Paese di origine o il Paese in cui vivevi e se pensi di non volerci o poterci rientrare perché hai paura di:\n\n- essere perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per la tua opinione politica\n- di essere condannato a morte\n- di essere torturato\n- di subire violenze perché nel posto dove vivevi c’è la guerra\n\ne il tuo Paese non ti può o non ti vuole aiutare.\n\n### Come faccio a presentare la domanda di protezione internazionale e quali sono le fasi della procedura?\n\n#### 1. Domanda di protezione internazionale\n\nDevi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana\n\nLa domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.\n\nTi danno poi la ricevuta della domanda (cedolino) e dopo qualche tempo il vero e proprio permesso di soggiorno per richiedente asilo.\n\n#### 2. Convocazione da parte della Commissione territoriale (chiamata per essere ascoltati)\n\nDopo aver fatto la domanda sei accolto in un centro di accoglienza finché non sei ascoltato da una Commissione territoriale durante l’audizione (intervista).\n\nLa Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.\n\nSe decidi di rimanere nel centro di accoglienza, l’operatore del centro di accoglienza ti dice quando devi andare alla Commissione territoriale per raccontare la tua storia.\n\nSe non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).\n\n#### 3. Preparazione all’audizione (intervista)\n\nAppena sai la data dell’audizione:\n\n- Controlla che la lingua che hai comunicato alla polizia sul Modello C3 sia quella in cui vuoi essere ascoltato. Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli\n- Prepara i documenti che vuoi consegnare alla Commissione territoriale e che riguardano, per esempio, la tua età, la tua cittadinanza, i tuoi titoli di studio, i Paesi in cui hai vissuto, eventuali denunce, contratti, certificati medici\n- Puoi anche preparare una memoria scritta della tua storia con l’aiuto degli operatori del centro di accoglienza o, se vivi fuori dal centro, di un avvocato. Devi firmare e consegnare la memoria scritta alla Commissione territoriale, possibilmente qualche giorno prima dell’audizione (inviandola a rifugiati.firenze@interno.it e scrivendo il tuo nome nell’oggetto dell’e-mail)\n\n#### 4. Audizione (intervista)\n\nÈ il momento in cui racconti la tua storia a un membro della Commissione territoriale che ti ascolta con l’aiuto di un interprete che parla la tua lingua.\n\n- All’audizione partecipate tu, un membro della Commissione territoriale, un interprete e, se vuoi, anche un avvocato. Se sei minore di 18 anni partecipa anche il tuo tutore\n- L’interprete ti spiega come funziona l’audizione, cos’è la protezione internazionale e i possibili risultati dell'audizione\n- L’audizione è confidenziale, ma quello che dici viene scritto dal membro della Commissione territoriale in un verbale che ti viene consegnato alla fine dell’intervista\n- Durante l’audizione, dopo alcune domande generali (luogo di nascita, famiglia, studio e lavoro), puoi raccontare la tua storia dicendo la verità e il membro della Commissione territoriale ti fa altre domande per capire meglio la tua situazione\n- Alla fine dell’audizione rileggi tutto quello che è stato detto insieme all’interprete. Il membro della Commissione territoriale ti chiede di firmare il verbale e te ne dà una copia\n\n#### 5. Risultato dell’audizione\n\nDopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale. I possibili risultati sono questi:\n\n- Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile\n- Puoi avere lo status di protezione sussidiaria. La Questura ti dà un permesso di soggiorno per 5 anni. Per questo permesso devi chiedere il rinnovo\n- Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno\n- La Commissione territoriale decide che non puoi avere la protezione internazionale (rigetto)\n\n**Attenzione:** ricorda che se sei malato, se sei vittima di una calamità naturale nel tuo Paese, di violenza domestica (in Italia) o di sfruttamento lavorativo (in Italia) puoi chiedere un permesso per “casi speciali” in Questura.\n\nIl risultato dell’audizione ti viene comunicato:\n\n- dall’operatore se vivi nel centro di accoglienza\n- con una lettera a casa se vivi fuori dal centro di accoglienza\n\n#### 6. Ricorso\n\nSe non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.\n\n*Aggiornamento: maggio 2019*\n",
+  "aspetti": [
+    {
+      "id": "trasparenza_del_termine",
+      "nome": "Trasparenza del termine",
+      "famiglia": "complessita_linguistica",
+      "cosa_si_potra_osservare": "Se l’etichetta istituzionale è accompagnata da una glossa, da un sinonimo o da virgolette che ne sciolgono il senso.",
+      "punteggio": 0.7,
+      "punteggio_modello": 0.52,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Moderatamente comprensibile",
+      "motivazioni": [
+        "Uso di termini istituzionali spesso spiegati con glosse o sinonimi",
+        "Presenza di rinvii impliciti a concetti o enti non spiegati nella stessa pagina",
+        "Alcune frasi lunghe e complesse con condizioni multiple",
+        "Spiegazioni dettagliate ma con passaggi che richiedono attenzione e memoria",
+        "Buona presenza di esempi e indicazioni pratiche",
+        "Mancanza di definizioni immediate per alcuni termini chiave"
+      ],
+      "estratti": [
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1587,
+          "fine": 1697,
+          "effetto": "riduce",
+          "perche": "Il termine 'Modello C3' è istituzionale e non spiegato, richiede conoscenza esterna.",
+          "punteggio": 0.3
+        },
+        {
+          "testo": "Dopo aver fatto la domanda sei accolto in un centro di accoglienza finché non sei ascoltato da una Commissione territoriale durante l’audizione (intervista).",
+          "inizio": 1928,
+          "fine": 2085,
+          "effetto": "aumenta",
+          "perche": "Spiega il termine 'audizione' con sinonimo 'intervista' e descrive chiaramente la fase.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "L’audizione è confidenziale, ma quello che dici viene scritto dal membro della Commissione territoriale in un verbale che ti viene consegnato alla fine dell’intervista",
+          "inizio": 4181,
+          "fine": 4348,
+          "effetto": "aumenta",
+          "perche": "Spiega il termine 'confidenziale' in modo semplice e concreto.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno",
+          "inizio": 5353,
+          "fine": 5486,
+          "effetto": "aumenta",
+          "perche": "Definisce chiaramente il permesso per 'protezione speciale' e la durata.",
+          "punteggio": 0.7
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice la possibilità di ricorso e l’assistenza legale.",
+          "punteggio": 0.65
+        },
+        {
+          "testo": "Se decidi di rimanere nel centro di accoglienza, l’operatore del centro di accoglienza ti dice quando devi andare alla Commissione territoriale per raccontare la tua storia.",
+          "inizio": 2196,
+          "fine": 2369,
+          "effetto": "aumenta",
+          "perche": "Descrive in modo chiaro il ruolo dell’operatore e la convocazione.",
+          "punteggio": 0.7
+        },
+        {
+          "testo": "Il risultato dell’audizione ti viene comunicato:\n\n- dall’operatore se vivi nel centro di accoglienza\n- con una lettera a casa se vivi fuori dal centro di accoglienza",
+          "inizio": 5816,
+          "fine": 5981,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente come viene comunicato il risultato.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli",
+          "inizio": 2837,
+          "fine": 3073,
+          "effetto": "riduce",
+          "perche": "Presenza di istruzioni operative con rinvio a un indirizzo e-mail, che può confondere chi non conosce la procedura.",
+          "punteggio": 0.4
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "domanda",
+          "ascoltare",
+          "membro",
+          "anno",
+          "intervista",
+          "lingua",
+          "storia",
+          "consegnare",
+          "giorno",
+          "comunicare",
+          "fine",
+          "insieme",
+          "scrivere",
+          "confidenziale",
+          "decisione",
+          "dicare",
+          "rinnovare",
+          "scegliere"
+        ],
+        "frequenze": [
+          {
+            "parola": "domanda",
+            "frequenza": 10
+          },
+          {
+            "parola": "ascoltare",
+            "frequenza": 6
+          },
+          {
+            "parola": "membro",
+            "frequenza": 6
+          },
+          {
+            "parola": "anno",
+            "frequenza": 5
+          },
+          {
+            "parola": "intervista",
+            "frequenza": 4
+          },
+          {
+            "parola": "lingua",
+            "frequenza": 4
+          },
+          {
+            "parola": "storia",
+            "frequenza": 4
+          },
+          {
+            "parola": "consegnare",
+            "frequenza": 3
+          },
+          {
+            "parola": "giorno",
+            "frequenza": 3
+          },
+          {
+            "parola": "comunicare",
+            "frequenza": 2
+          },
+          {
+            "parola": "fine",
+            "frequenza": 2
+          },
+          {
+            "parola": "insieme",
+            "frequenza": 2
+          },
+          {
+            "parola": "scrivere",
+            "frequenza": 2
+          },
+          {
+            "parola": "confidenziale",
+            "frequenza": 1
+          },
+          {
+            "parola": "decisione",
+            "frequenza": 1
+          },
+          {
+            "parola": "dicare",
+            "frequenza": 1
+          },
+          {
+            "parola": "rinnovare",
+            "frequenza": 1
+          },
+          {
+            "parola": "scegliere",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "domanda",
+            "frequenza": 10
+          },
+          {
+            "parola": "ascoltare",
+            "frequenza": 6
+          },
+          {
+            "parola": "membro",
+            "frequenza": 6
+          },
+          {
+            "parola": "anno",
+            "frequenza": 5
+          },
+          {
+            "parola": "intervista",
+            "frequenza": 4
+          },
+          {
+            "parola": "lingua",
+            "frequenza": 4
+          },
+          {
+            "parola": "storia",
+            "frequenza": 4
+          },
+          {
+            "parola": "consegnare",
+            "frequenza": 3
+          },
+          {
+            "parola": "giorno",
+            "frequenza": 3
+          },
+          {
+            "parola": "comunicare",
+            "frequenza": 2
+          },
+          {
+            "parola": "fine",
+            "frequenza": 2
+          },
+          {
+            "parola": "insieme",
+            "frequenza": 2
+          },
+          {
+            "parola": "scrivere",
+            "frequenza": 2
+          },
+          {
+            "parola": "confidenziale",
+            "frequenza": 1
+          },
+          {
+            "parola": "decisione",
+            "frequenza": 1
+          },
+          {
+            "parola": "dicare",
+            "frequenza": 1
+          },
+          {
+            "parola": "rinnovare",
+            "frequenza": 1
+          },
+          {
+            "parola": "scegliere",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 18,
+          "richiesti": 3,
+          "voci": [
+            {
+              "etichetta": "Intervista e comunicazione",
+              "descrizione": "Parole legate al processo di intervista e comunicazione formale.",
+              "parole": [
+                "domanda",
+                "intervista",
+                "comunicare",
+                "confidenziale",
+                "consegnare",
+                "scrivere",
+                "dicare",
+                "giorno"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.8,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Partecipazione e membri",
+              "descrizione": "Termini che indicano la partecipazione e il ruolo dei membri in un contesto.",
+              "parole": [
+                "membro",
+                "ascoltare",
+                "decisione",
+                "rinnovare",
+                "insieme"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.8,
+                "specificita": 0.85,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Tempo e storia",
+              "descrizione": "Parole che si riferiscono al tempo e alla storia di un evento o contesto.",
+              "parole": [
+                "lingua",
+                "storia",
+                "anno",
+                "fine"
+              ],
+              "qualita": {
+                "coerenza": 0.8,
+                "copertura": 0.7,
+                "specificita": 0.75,
+                "distinguibilita": 0.85,
+                "ancoraggio": 0.85
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 6,
+        "concetti_presenti": 3,
+        "occorrenze_termini": 16,
+        "copertura_termini": 0.5,
+        "termini": [
+          {
+            "id": "audizione",
+            "termine": "Audizione",
+            "occorrenze": 14
+          },
+          {
+            "id": "confidenziale",
+            "termine": "Confidenziale",
+            "occorrenze": 1
+          },
+          {
+            "id": "motivi_di_persecuzione",
+            "termine": "motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_per_casi_speciali",
+            "termine": "Permesso per casi speciali",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_protezione_speciale",
+            "termine": "Permesso per protezione speciale",
+            "occorrenze": 0
+          },
+          {
+            "id": "rigetto",
+            "termine": "Rigetto",
+            "occorrenze": 1
+          }
+        ],
+        "estratti_validi": 8,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4945,
+        "completion_tokens": 1075
+      }
+    },
+    {
+      "id": "dipendenza_tra_definizioni",
+      "nome": "Dipendenza tra definizioni",
+      "famiglia": "complessita_linguistica",
+      "cosa_si_potra_osservare": "Se per capire una voce bisogna già conoscere altre voci del glossario.",
+      "punteggio": 0.6,
+      "punteggio_modello": 0.5,
+      "livello": "Moderatamente comprensibile",
+      "giudizio": "Il testo presenta spiegazioni semplici ma molte definizioni si rimandano a termini non spiegati o a voci del glossario. La presenza di numerosi rinvii e condizioni elencate rende difficile la comprensione immediata per chi non conosce la procedura.",
+      "motivazioni": [
+        "Molti termini chiave sono spiegati rimandando ad altre definizioni o glossari, creando dipendenza tra definizioni.",
+        "Sono presenti elenchi di condizioni che richiedono attenzione e comprensione simultanea, aumentando la complessità.",
+        "Il testo utilizza un linguaggio semplice e frasi brevi, facilitando la comprensione di singoli passaggi.",
+        "La procedura è descritta passo passo in modo lineare, aiutando a seguire il processo.",
+        "Alcuni passaggi importanti come 'audizione' e 'commissione territoriale' sono spiegati ma con rinvii reciproci, creando confusione.",
+        "La presenza di termini istituzionali non sempre spiegati nel testo ostacola la comprensione immediata."
+      ],
+      "estratti": [
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1587,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente chi aiuta a compilare il modulo e cosa serve per fare la domanda, senza rinvii.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "La Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.",
+          "inizio": 2087,
+          "fine": 2194,
+          "effetto": "aumenta",
+          "perche": "Fornisce un'informazione semplice e diretta sul tempo di attesa, senza termini complicati o rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale",
+          "inizio": 4836,
+          "fine": 5043,
+          "effetto": "riduce",
+          "perche": "Usa un termine ripetuto e istituzionale senza spiegare bene chi sono le altre persone, creando confusione.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile",
+          "inizio": 5083,
+          "fine": 5200,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice e diretto cosa succede se si ottiene lo status di rifugiato, senza rinvii.",
+          "punteggio": 0.9
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "riduce",
+          "perche": "Introduce termini come 'ricorso' e 'gratuito patrocinio' senza spiegazioni immediate, richiedendo conoscenze pregresse.",
+          "punteggio": 0.35
+        },
+        {
+          "testo": "Se hai lasciato il tuo Paese di origine o il Paese in cui vivevi e se pensi di non volerci o poterci rientrare perché hai paura di:\n\n- essere perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per la tua opinione politica",
+          "inizio": 811,
+          "fine": 1087,
+          "effetto": "riduce",
+          "perche": "Elenca condizioni complesse senza spiegare i termini, rendendo difficile la comprensione immediata.",
+          "punteggio": 0.4
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "internazionale",
+          "chiedere",
+          "persona",
+          "chiamare",
+          "decidere",
+          "appartenenza",
+          "comporre",
+          "determinata",
+          "lasciare",
+          "motivo",
+          "politico",
+          "rientrare",
+          "rinnovabile",
+          "soldo",
+          "tempo di attesa"
+        ],
+        "frequenze": [
+          {
+            "parola": "internazionale",
+            "frequenza": 11
+          },
+          {
+            "parola": "chiedere",
+            "frequenza": 5
+          },
+          {
+            "parola": "persona",
+            "frequenza": 3
+          },
+          {
+            "parola": "chiamare",
+            "frequenza": 2
+          },
+          {
+            "parola": "decidere",
+            "frequenza": 2
+          },
+          {
+            "parola": "appartenenza",
+            "frequenza": 1
+          },
+          {
+            "parola": "comporre",
+            "frequenza": 1
+          },
+          {
+            "parola": "determinata",
+            "frequenza": 1
+          },
+          {
+            "parola": "lasciare",
+            "frequenza": 1
+          },
+          {
+            "parola": "motivo",
+            "frequenza": 1
+          },
+          {
+            "parola": "politico",
+            "frequenza": 1
+          },
+          {
+            "parola": "rientrare",
+            "frequenza": 1
+          },
+          {
+            "parola": "rinnovabile",
+            "frequenza": 1
+          },
+          {
+            "parola": "soldo",
+            "frequenza": 1
+          },
+          {
+            "parola": "tempo di attesa",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "internazionale",
+            "frequenza": 11
+          },
+          {
+            "parola": "chiedere",
+            "frequenza": 5
+          },
+          {
+            "parola": "persona",
+            "frequenza": 3
+          },
+          {
+            "parola": "chiamare",
+            "frequenza": 2
+          },
+          {
+            "parola": "decidere",
+            "frequenza": 2
+          },
+          {
+            "parola": "appartenenza",
+            "frequenza": 1
+          },
+          {
+            "parola": "comporre",
+            "frequenza": 1
+          },
+          {
+            "parola": "determinata",
+            "frequenza": 1
+          },
+          {
+            "parola": "lasciare",
+            "frequenza": 1
+          },
+          {
+            "parola": "motivo",
+            "frequenza": 1
+          },
+          {
+            "parola": "politico",
+            "frequenza": 1
+          },
+          {
+            "parola": "rientrare",
+            "frequenza": 1
+          },
+          {
+            "parola": "rinnovabile",
+            "frequenza": 1
+          },
+          {
+            "parola": "soldo",
+            "frequenza": 1
+          },
+          {
+            "parola": "tempo di attesa",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 15,
+          "richiesti": 3,
+          "voci": [
+            {
+              "etichetta": "internazionale e appartenenza",
+              "descrizione": "Parole che riguardano il contesto internazionale e l'appartenenza a un gruppo o stato.",
+              "parole": [
+                "internazionale",
+                "appartenenza",
+                "politico",
+                "rientrare",
+                "rinnovabile"
+              ],
+              "qualita": {
+                "coerenza": 0.8,
+                "copertura": 0.7,
+                "specificita": 0.7,
+                "distinguibilita": 0.8,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 2,
+              "visibile": true
+            },
+            {
+              "etichetta": "decisione e richiesta",
+              "descrizione": "Termini legati al processo decisionale e alla richiesta di qualcosa.",
+              "parole": [
+                "chiedere",
+                "decidere",
+                "motivo",
+                "tempo di attesa",
+                "lasciare",
+                "chiamare"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.8,
+                "specificita": 0.75,
+                "distinguibilita": 0.85,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 2,
+              "visibile": true
+            },
+            {
+              "etichetta": "persona e caratteristiche",
+              "descrizione": "Parole che descrivono la persona e la sua composizione o stato.",
+              "parole": [
+                "persona",
+                "comporre",
+                "determinata",
+                "soldo"
+              ],
+              "qualita": {
+                "coerenza": 0.7,
+                "copertura": 0.6,
+                "specificita": 0.65,
+                "distinguibilita": 0.8,
+                "ancoraggio": 0.7
+              },
+              "criticita": "La parola 'soldo' è poco chiara nel contesto di 'persona e caratteristiche', potrebbe riferirsi a denaro e non a caratteristiche personali.",
+              "esito": "valida",
+              "tentativi": 2,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 18,
+        "concetti_presenti": 16,
+        "occorrenze_termini": 58,
+        "copertura_termini": 0.889,
+        "termini": [
+          {
+            "id": "audizione",
+            "termine": "Audizione",
+            "occorrenze": 14
+          },
+          {
+            "id": "cedolino",
+            "termine": "Cedolino",
+            "occorrenze": 1
+          },
+          {
+            "id": "commissione_territoriale",
+            "termine": "Commissione territoriale",
+            "occorrenze": 17
+          },
+          {
+            "id": "confidenziale",
+            "termine": "Confidenziale",
+            "occorrenze": 1
+          },
+          {
+            "id": "motivi_di_persecuzione",
+            "termine": "motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+            "occorrenze": 0
+          },
+          {
+            "id": "funzionario_della_polizia",
+            "termine": "Funzionario della polizia",
+            "occorrenze": 1
+          },
+          {
+            "id": "gratuito_patrocinio",
+            "termine": "Gratuito patrocinio",
+            "occorrenze": 1
+          },
+          {
+            "id": "interprete",
+            "termine": "Interprete",
+            "occorrenze": 5
+          },
+          {
+            "id": "lettera_di_convocazione",
+            "termine": "Lettera di convocazione",
+            "occorrenze": 1
+          },
+          {
+            "id": "membro_commissione_territoriale",
+            "termine": "Membro della Commissione territoriale",
+            "occorrenze": 6
+          },
+          {
+            "id": "modello_c3",
+            "termine": "Modello C3",
+            "occorrenze": 3
+          },
+          {
+            "id": "operatore_del_centro_di_accoglienza",
+            "termine": "Operatore del centro di accoglienza",
+            "occorrenze": 1
+          },
+          {
+            "id": "permesso_protezione_speciale",
+            "termine": "Permesso per protezione speciale",
+            "occorrenze": 0
+          },
+          {
+            "id": "ricorso",
+            "termine": "Ricorso",
+            "occorrenze": 2
+          },
+          {
+            "id": "rigetto",
+            "termine": "Rigetto",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_protezione_sussidiaria",
+            "termine": "Status di protezione sussidiaria",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_rifugiato",
+            "termine": "Status di rifugiato",
+            "occorrenze": 1
+          },
+          {
+            "id": "verbale",
+            "termine": "Verbale",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 5962,
+        "completion_tokens": 1063
+      }
+    },
+    {
+      "id": "condizioni_aggregate",
+      "nome": "Condizioni aggregate",
+      "famiglia": "complessita_linguistica",
+      "cosa_si_potra_osservare": "Se il senso della voce sta in un elenco di condizioni da tenere insieme.",
+      "punteggio": 0.75,
+      "punteggio_modello": 0.5,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo presenta un equilibrio tra spiegazioni chiare e passaggi complessi o con rinvii.",
+      "motivazioni": [
+        "Il testo spiega chiaramente le fasi della procedura con un linguaggio semplice e diretto.",
+        "Sono presenti elenchi di condizioni che richiedono di tenere insieme più elementi per comprendere il concetto.",
+        "Ci sono rinvii impliciti a termini e procedure non completamente spiegati nella pagina, come 'status di rifugiato' o 'Commissione territoriale'.",
+        "Alcune frasi sono lunghe e contengono più informazioni che possono confondere chi non conosce la procedura.",
+        "Il testo usa termini istituzionali senza sempre fornire definizioni immediate o esempi concreti.",
+        "L’uso di elenchi puntati aiuta la comprensione, ma la presenza di condizioni multiple accumulate riduce la chiarezza complessiva."
+      ],
+      "estratti": [
+        {
+          "testo": "Se hai lasciato il tuo Paese di origine o il Paese in cui vivevi e se pensi di non volerci o poterci rientrare perché hai paura di:\n\n- essere perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per la tua opinione politica\n- di essere condannato a morte\n- di essere torturato\n- di subire violenze perché nel posto dove vivevi c’è la guerra\n\ne il tuo Paese non ti può o non ti vuole aiutare.",
+          "inizio": 811,
+          "fine": 1255,
+          "effetto": "riduce",
+          "perche": "Elenco di condizioni multiple da tenere insieme per capire quando si può presentare la domanda, con termini complessi come 'perseguitato' e 'non ti può o non ti vuole aiutare' che richiedono interpretazione.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale. I possibili risultati sono questi:\n\n- Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile\n- Puoi avere lo status di protezione sussidiaria. La Questura ti dà un permesso di soggiorno per 5 anni. Per questo permesso devi chiedere il rinnovo\n- Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno\n- La Commissione territoriale decide che non puoi avere la protezione internazionale (rigetto)",
+          "inizio": 4814,
+          "fine": 5581,
+          "effetto": "riduce",
+          "perche": "Elenco di risultati con termini istituzionali (status di rifugiato, protezione sussidiaria, protezione speciale) non spiegati in dettaglio nella pagina, richiedendo conoscenze pregresse o rinvii.",
+          "punteggio": 0.35
+        },
+        {
+          "testo": "Devi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana\n\nLa domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.\n\nTi danno poi la ricevuta della domanda (cedolino) e dopo qualche tempo il vero e proprio permesso di soggiorno per richiedente asilo.",
+          "inizio": 1411,
+          "fine": 1832,
+          "effetto": "aumenta",
+          "perche": "Spiegazione chiara e sequenziale di come presentare la domanda, con indicazioni semplici e senza rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "È il momento in cui racconti la tua storia a un membro della Commissione territoriale che ti ascolta con l’aiuto di un interprete che parla la tua lingua.\n\n- All’audizione partecipate tu, un membro della Commissione territoriale, un interprete e, se vuoi, anche un avvocato. Se sei minore di 18 anni partecipa anche il tuo tutore\n- L’interprete ti spiega come funziona l’audizione, cos’è la protezione internazionale e i possibili risultati dell'audizione\n- L’audizione è confidenziale, ma quello che dici viene scritto dal membro della Commissione territoriale in un verbale che ti viene consegnato alla fine dell’intervista",
+          "inizio": 3723,
+          "fine": 4348,
+          "effetto": "aumenta",
+          "perche": "Descrizione dettagliata e semplice dell’audizione, con spiegazioni sul ruolo delle persone presenti e sul verbale, senza termini oscuri o rinvii.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Spiegazione sintetica e chiara della possibilità di ricorso e del gratuito patrocinio, senza complicazioni o rinvii.",
+          "punteggio": 0.75
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "volere",
+          "italia",
+          "possibile",
+          "paese di origine",
+          "città",
+          "minore",
+          "posto",
+          "proprio",
+          "puòpere",
+          "richiedente asilo",
+          "sociale",
+          "subire",
+          "vero"
+        ],
+        "frequenze": [
+          {
+            "parola": "volere",
+            "frequenza": 5
+          },
+          {
+            "parola": "italia",
+            "frequenza": 4
+          },
+          {
+            "parola": "possibile",
+            "frequenza": 3
+          },
+          {
+            "parola": "paese di origine",
+            "frequenza": 2
+          },
+          {
+            "parola": "città",
+            "frequenza": 1
+          },
+          {
+            "parola": "minore",
+            "frequenza": 1
+          },
+          {
+            "parola": "posto",
+            "frequenza": 1
+          },
+          {
+            "parola": "proprio",
+            "frequenza": 1
+          },
+          {
+            "parola": "puòpere",
+            "frequenza": 1
+          },
+          {
+            "parola": "richiedente asilo",
+            "frequenza": 1
+          },
+          {
+            "parola": "sociale",
+            "frequenza": 1
+          },
+          {
+            "parola": "subire",
+            "frequenza": 1
+          },
+          {
+            "parola": "vero",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "volere",
+            "frequenza": 5
+          },
+          {
+            "parola": "italia",
+            "frequenza": 4
+          },
+          {
+            "parola": "possibile",
+            "frequenza": 3
+          },
+          {
+            "parola": "paese di origine",
+            "frequenza": 2
+          },
+          {
+            "parola": "città",
+            "frequenza": 1
+          },
+          {
+            "parola": "minore",
+            "frequenza": 1
+          },
+          {
+            "parola": "posto",
+            "frequenza": 1
+          },
+          {
+            "parola": "proprio",
+            "frequenza": 1
+          },
+          {
+            "parola": "puòpere",
+            "frequenza": 1
+          },
+          {
+            "parola": "richiedente asilo",
+            "frequenza": 1
+          },
+          {
+            "parola": "sociale",
+            "frequenza": 1
+          },
+          {
+            "parola": "subire",
+            "frequenza": 1
+          },
+          {
+            "parola": "vero",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 13,
+          "richiesti": 3,
+          "voci": [
+            {
+              "etichetta": "Paesi e luoghi",
+              "descrizione": "Parole che indicano luoghi geografici o nazioni di riferimento.",
+              "parole": [
+                "italia",
+                "paese di origine",
+                "città"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Condizioni personali e sociali",
+              "descrizione": "Termini che riguardano lo stato personale o sociale di un individuo.",
+              "parole": [
+                "minore",
+                "richiedente asilo",
+                "sociale",
+                "subire"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.8,
+                "specificita": 0.85,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Possibilità e volontà",
+              "descrizione": "Parole che esprimono possibilità, volontà o affermazioni di verità.",
+              "parole": [
+                "possibile",
+                "puòpere",
+                "proprio",
+                "posto",
+                "vero",
+                "volere"
+              ],
+              "qualita": {
+                "coerenza": 0.8,
+                "copertura": 0.85,
+                "specificita": 0.8,
+                "distinguibilita": 0.85,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 4,
+        "concetti_presenti": 2,
+        "occorrenze_termini": 2,
+        "copertura_termini": 0.5,
+        "termini": [
+          {
+            "id": "motivi_di_persecuzione",
+            "termine": "motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_per_casi_speciali",
+            "termine": "Permesso per casi speciali",
+            "occorrenze": 0
+          },
+          {
+            "id": "status_di_protezione_sussidiaria",
+            "termine": "Status di protezione sussidiaria",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_rifugiato",
+            "termine": "Status di rifugiato",
+            "occorrenze": 1
+          }
+        ],
+        "estratti_validi": 5,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4826,
+        "completion_tokens": 1402
+      }
+    },
+    {
+      "id": "mediazione_e_resa_del_racconto",
+      "nome": "Mediazione e resa del racconto",
+      "famiglia": "complessita_linguistica",
+      "cosa_si_potra_osservare": "Se la voce riguarda il passaggio dalla storia detta alla storia capita, tradotta o scritta.",
+      "punteggio": 0.73,
+      "punteggio_modello": 0.52,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo spiega in modo abbastanza chiaro il processo di mediazione e resa del racconto, ma presenta diversi ostacoli che ne riducono la comprensibilità complessiva.",
+      "motivazioni": [
+        "Uso di termini istituzionali non sempre spiegati direttamente nel testo (es. Commissione territoriale, verbale).",
+        "Presenza di rinvii impliciti a concetti spiegati altrove o in glossari non inclusi nel testo.",
+        "Frasi lunghe e complesse che ammassano condizioni e informazioni in un unico passaggio.",
+        "Alcune spiegazioni sono chiare e dettagliate, facilitando la comprensione del ruolo di interprete e membro della Commissione.",
+        "Indicazioni pratiche chiare su cosa fare prima e durante l’audizione aiutano la comprensione.",
+        "La presenza di più soggetti e passaggi può confondere chi non ha familiarità con la procedura."
+      ],
+      "estratti": [
+        {
+          "testo": "È il momento in cui racconti la tua storia a un membro della Commissione territoriale che ti ascolta con l’aiuto di un interprete che parla la tua lingua.",
+          "inizio": 3723,
+          "fine": 3877,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice e diretto chi sono i soggetti coinvolti e cosa succede durante l’audizione.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "L’audizione è confidenziale, ma quello che dici viene scritto dal membro della Commissione territoriale in un verbale che ti viene consegnato alla fine dell’intervista",
+          "inizio": 4181,
+          "fine": 4348,
+          "effetto": "aumenta",
+          "perche": "Chiarisce il concetto di confidenzialità e la funzione del verbale in modo comprensibile.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale.",
+          "inizio": 4814,
+          "fine": 5044,
+          "effetto": "riduce",
+          "perche": "La frase è lunga e introduce più soggetti senza spiegare bene il loro ruolo, creando confusione.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Se non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2371,
+          "fine": 2636,
+          "effetto": "riduce",
+          "perche": "Introduce condizioni e azioni da compiere in modo ammassato, con termini istituzionali non spiegati nel testo.",
+          "punteggio": 0.35
+        },
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1587,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice cosa è il Modello C3 e chi aiuta a compilarlo.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "Il membro della Commissione territoriale ti chiede di firmare il verbale e te ne dà una copia",
+          "inizio": 4685,
+          "fine": 4778,
+          "effetto": "aumenta",
+          "perche": "Descrive chiaramente un passaggio importante della procedura che aiuta a capire come viene resa la storia raccontata.",
+          "punteggio": 0.7
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "consegnare",
+          "firmare",
+          "campanello",
+          "cassetta della posta",
+          "cognome",
+          "copia",
+          "racconto"
+        ],
+        "frequenze": [
+          {
+            "parola": "consegnare",
+            "frequenza": 3
+          },
+          {
+            "parola": "firmare",
+            "frequenza": 2
+          },
+          {
+            "parola": "campanello",
+            "frequenza": 1
+          },
+          {
+            "parola": "cassetta della posta",
+            "frequenza": 1
+          },
+          {
+            "parola": "cognome",
+            "frequenza": 1
+          },
+          {
+            "parola": "copia",
+            "frequenza": 1
+          },
+          {
+            "parola": "racconto",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "consegnare",
+            "frequenza": 3
+          },
+          {
+            "parola": "firmare",
+            "frequenza": 2
+          },
+          {
+            "parola": "campanello",
+            "frequenza": 1
+          },
+          {
+            "parola": "cassetta della posta",
+            "frequenza": 1
+          },
+          {
+            "parola": "cognome",
+            "frequenza": 1
+          },
+          {
+            "parola": "copia",
+            "frequenza": 1
+          },
+          {
+            "parola": "racconto",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 7,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "consegna e firma",
+              "descrizione": "Parole che riguardano l'atto di consegnare e firmare documenti o oggetti.",
+              "parole": [
+                "consegnare",
+                "firmare",
+                "copia"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.8,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "luogo e identificazione",
+              "descrizione": "Parole che indicano elementi fisici e identificativi legati al racconto.",
+              "parole": [
+                "campanello",
+                "cassetta della posta",
+                "cognome",
+                "racconto"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.85,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.7
+              },
+              "criticita": "L'etichetta include 'racconto' che è un termine più astratto e narrativo, meno ancorato agli elementi fisici e identificativi indicati dalle altre parole.",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 7,
+        "concetti_presenti": 7,
+        "occorrenze_termini": 32,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "audizione",
+            "termine": "Audizione",
+            "occorrenze": 14
+          },
+          {
+            "id": "confidenziale",
+            "termine": "Confidenziale",
+            "occorrenze": 1
+          },
+          {
+            "id": "interprete",
+            "termine": "Interprete",
+            "occorrenze": 5
+          },
+          {
+            "id": "membro_commissione_territoriale",
+            "termine": "Membro della Commissione territoriale",
+            "occorrenze": 6
+          },
+          {
+            "id": "modello_c3",
+            "termine": "Modello C3",
+            "occorrenze": 3
+          },
+          {
+            "id": "rigetto",
+            "termine": "Rigetto",
+            "occorrenze": 1
+          },
+          {
+            "id": "verbale",
+            "termine": "Verbale",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4805,
+        "completion_tokens": 975
+      }
+    },
+    {
+      "id": "attori_della_procedura",
+      "nome": "Attori della procedura",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Chi interviene e quale compito ha nel percorso della domanda.",
+      "punteggio": 0.78,
+      "punteggio_modello": 0.5,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo spiega in modo abbastanza chiaro chi sono gli attori della procedura e i loro ruoli, ma la comprensione è ostacolata da numerosi rinvii a termini non spiegati direttamente e da alcune condizioni complesse.",
+      "motivazioni": [
+        "Presenza di definizioni chiare per i principali attori come funzionario della polizia, interprete, membro della Commissione territoriale e operatore del centro di accoglienza.",
+        "Spiegazioni semplici e dirette su chi fa cosa durante le varie fasi della procedura.",
+        "Molti rinvii a termini e pagine esterne (es. audizione, modello C3, questura) che obbligano il lettore a cercare altrove per comprendere appieno.",
+        "Uso di termini istituzionali senza sempre fornire spiegazioni immediate (es. verbale, permesso di soggiorno, gratuito patrocinio).",
+        "Condizioni e passaggi multipli descritti in modo lineare ma con alcune frasi lunghe e complesse.",
+        "Indicazioni pratiche utili ma con dettagli che possono confondere chi non conosce la procedura."
+      ],
+      "estratti": [
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1587,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente chi aiuta a compilare la domanda e con quale documento, senza rinvii.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "All’audizione partecipate tu, un membro della Commissione territoriale, un interprete e, se vuoi, anche un avvocato. Se sei minore di 18 anni partecipa anche il tuo tutore",
+          "inizio": 3881,
+          "fine": 4052,
+          "effetto": "aumenta",
+          "perche": "Descrive in modo semplice chi è presente all’audizione e il ruolo del tutore per i minorenni.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale.",
+          "inizio": 4814,
+          "fine": 5044,
+          "effetto": "aumenta",
+          "perche": "Spiega chi decide sulla domanda e che la decisione non è presa da una sola persona.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "La Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.",
+          "inizio": 2087,
+          "fine": 2194,
+          "effetto": "riduce",
+          "perche": "Non specifica chiaramente chi compone la Commissione e cosa fa, rinviando implicitamente a definizioni esterne.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana",
+          "inizio": 1421,
+          "fine": 1585,
+          "effetto": "aumenta",
+          "perche": "Indica chiaramente dove e quando presentare la domanda, senza termini oscuri.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Ti danno poi la ricevuta della domanda (cedolino) e dopo qualche tempo il vero e proprio permesso di soggiorno per richiedente asilo.",
+          "inizio": 1699,
+          "fine": 1832,
+          "effetto": "riduce",
+          "perche": "Introduce termini come 'cedolino' e 'permesso di soggiorno' senza spiegazioni immediate, che possono confondere.",
+          "punteggio": 0.35
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "commissione",
+          "interprete",
+          "avvocato",
+          "operatore",
+          "funzionario della polizia",
+          "tutore"
+        ],
+        "frequenze": [
+          {
+            "parola": "commissione",
+            "frequenza": 17
+          },
+          {
+            "parola": "interprete",
+            "frequenza": 5
+          },
+          {
+            "parola": "avvocato",
+            "frequenza": 3
+          },
+          {
+            "parola": "operatore",
+            "frequenza": 3
+          },
+          {
+            "parola": "funzionario della polizia",
+            "frequenza": 1
+          },
+          {
+            "parola": "tutore",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "commissione",
+            "frequenza": 17
+          },
+          {
+            "parola": "interprete",
+            "frequenza": 5
+          },
+          {
+            "parola": "avvocato",
+            "frequenza": 3
+          },
+          {
+            "parola": "operatore",
+            "frequenza": 3
+          },
+          {
+            "parola": "funzionario della polizia",
+            "frequenza": 1
+          },
+          {
+            "parola": "tutore",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 6,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "Autorità e istituzioni",
+              "descrizione": "Parole che indicano enti o figure istituzionali coinvolte nella procedura.",
+              "parole": [
+                "commissione",
+                "funzionario della polizia"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.8,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Operatori e supporto legale",
+              "descrizione": "Parole che indicano persone che supportano o assistono nella procedura.",
+              "parole": [
+                "interprete",
+                "avvocato",
+                "operatore",
+                "tutore"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 8,
+        "concetti_presenti": 8,
+        "occorrenze_termini": 38,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "commissione_territoriale",
+            "termine": "Commissione territoriale",
+            "occorrenze": 17
+          },
+          {
+            "id": "funzionario_della_polizia",
+            "termine": "Funzionario della polizia",
+            "occorrenze": 1
+          },
+          {
+            "id": "interprete",
+            "termine": "Interprete",
+            "occorrenze": 5
+          },
+          {
+            "id": "membro_commissione_territoriale",
+            "termine": "Membro della Commissione territoriale",
+            "occorrenze": 6
+          },
+          {
+            "id": "operatore_del_centro_di_accoglienza",
+            "termine": "Operatore del centro di accoglienza",
+            "occorrenze": 1
+          },
+          {
+            "id": "polizia_di_frontiera",
+            "termine": "Polizia di frontiera",
+            "occorrenze": 1
+          },
+          {
+            "id": "questura",
+            "termine": "Questura",
+            "occorrenze": 6
+          },
+          {
+            "id": "tutore",
+            "termine": "Tutore",
+            "occorrenze": 1
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4834,
+        "completion_tokens": 1045
+      }
+    },
+    {
+      "id": "documenti_e_atti",
+      "nome": "Documenti e atti",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Quali carte fissano la domanda, la convocazione, il racconto o la decisione.",
+      "punteggio": 0.73,
+      "punteggio_modello": 0.5,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo spiega in modo dettagliato le fasi della procedura, ma l'uso di termini tecnici non sempre definiti in loco e la presenza di rinvii impliciti rendono la comprensione moderata.",
+      "motivazioni": [
+        "Il testo descrive chiaramente le fasi della procedura in ordine cronologico.",
+        "Sono presenti spiegazioni semplici per alcuni termini chiave come 'cedolino' e 'Modello C3'.",
+        "Ci sono rinvii impliciti a enti e documenti non spiegati direttamente nel testo (es. Questura, Commissione territoriale).",
+        "Alcune frasi sono lunghe e contengono molte condizioni che possono confondere il lettore.",
+        "Il testo richiede di ricordare azioni da compiere in momenti diversi, senza un riassunto sintetico.",
+        "Non sempre è chiaro quali documenti sono necessari e quando esattamente vanno consegnati."
+      ],
+      "estratti": [
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.\n\nTi danno poi la ricevuta della domanda (cedolino) e dopo qualche tempo il vero e proprio permesso di soggiorno per richiedente asilo.",
+          "inizio": 1587,
+          "fine": 1832,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo diretto e semplice quali documenti si usano e cosa si riceve subito dopo la domanda.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Se non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2371,
+          "fine": 2636,
+          "effetto": "aumenta",
+          "perche": "Fornisce un'indicazione pratica e chiara su cosa fare per ricevere la convocazione.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "La Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.",
+          "inizio": 2087,
+          "fine": 2194,
+          "effetto": "riduce",
+          "perche": "L'informazione è vaga e non aiuta a capire quando aspettarsi la convocazione.",
+          "punteggio": 0.3
+        },
+        {
+          "testo": "Puoi anche preparare una memoria scritta della tua storia con l’aiuto degli operatori del centro di accoglienza o, se vivi fuori dal centro, di un avvocato. Devi firmare e consegnare la memoria scritta alla Commissione territoriale, possibilmente qualche giorno prima dell’audizione (inviandola a rifugiati.firenze@interno.it e scrivendo il tuo nome nell’oggetto dell’e-mail)",
+          "inizio": 3314,
+          "fine": 3689,
+          "effetto": "riduce",
+          "perche": "L'indicazione è dettagliata ma complessa e richiede di ricordare tempi e modalità precise, senza semplificazioni.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale.",
+          "inizio": 4814,
+          "fine": 5044,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice chi decide e cosa succede dopo l'audizione.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Indica chiaramente la possibilità di ricorso e l'assistenza legale gratuita.",
+          "punteggio": 0.7
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "permesso",
+          "modello c3",
+          "lettera",
+          "memoria scritta",
+          "verbale",
+          "cedolino",
+          "certificato",
+          "contratto",
+          "denuncia",
+          "ricevuta"
+        ],
+        "frequenze": [
+          {
+            "parola": "permesso",
+            "frequenza": 7
+          },
+          {
+            "parola": "modello c3",
+            "frequenza": 3
+          },
+          {
+            "parola": "lettera",
+            "frequenza": 2
+          },
+          {
+            "parola": "memoria scritta",
+            "frequenza": 2
+          },
+          {
+            "parola": "verbale",
+            "frequenza": 2
+          },
+          {
+            "parola": "cedolino",
+            "frequenza": 1
+          },
+          {
+            "parola": "certificato",
+            "frequenza": 1
+          },
+          {
+            "parola": "contratto",
+            "frequenza": 1
+          },
+          {
+            "parola": "denuncia",
+            "frequenza": 1
+          },
+          {
+            "parola": "ricevuta",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "permesso",
+            "frequenza": 7
+          },
+          {
+            "parola": "modello c3",
+            "frequenza": 3
+          },
+          {
+            "parola": "lettera",
+            "frequenza": 2
+          },
+          {
+            "parola": "memoria scritta",
+            "frequenza": 2
+          },
+          {
+            "parola": "verbale",
+            "frequenza": 2
+          },
+          {
+            "parola": "cedolino",
+            "frequenza": 1
+          },
+          {
+            "parola": "certificato",
+            "frequenza": 1
+          },
+          {
+            "parola": "contratto",
+            "frequenza": 1
+          },
+          {
+            "parola": "denuncia",
+            "frequenza": 1
+          },
+          {
+            "parola": "ricevuta",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 10,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "Documenti ufficiali",
+              "descrizione": "Documenti formali e certificati utilizzati per attestare o autorizzare situazioni.",
+              "parole": [
+                "permesso",
+                "modello c3",
+                "certificato",
+                "contratto",
+                "denuncia",
+                "ricevuta",
+                "cedolino"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Documenti scritti e verbali",
+              "descrizione": "Documenti che riportano comunicazioni, memorie e verbali di incontri o eventi.",
+              "parole": [
+                "lettera",
+                "memoria scritta",
+                "verbale"
+              ],
+              "qualita": {
+                "coerenza": 1.0,
+                "copertura": 1.0,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 8,
+        "concetti_presenti": 8,
+        "occorrenze_termini": 17,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "cedolino",
+            "termine": "Cedolino",
+            "occorrenze": 1
+          },
+          {
+            "id": "funzionario_della_polizia",
+            "termine": "Funzionario della polizia",
+            "occorrenze": 1
+          },
+          {
+            "id": "lettera_di_convocazione",
+            "termine": "Lettera di convocazione",
+            "occorrenze": 1
+          },
+          {
+            "id": "membro_commissione_territoriale",
+            "termine": "Membro della Commissione territoriale",
+            "occorrenze": 6
+          },
+          {
+            "id": "modello_c3",
+            "termine": "Modello C3",
+            "occorrenze": 3
+          },
+          {
+            "id": "ricorso",
+            "termine": "Ricorso",
+            "occorrenze": 2
+          },
+          {
+            "id": "rigetto",
+            "termine": "Rigetto",
+            "occorrenze": 1
+          },
+          {
+            "id": "verbale",
+            "termine": "Verbale",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4838,
+        "completion_tokens": 1104
+      }
+    },
+    {
+      "id": "luoghi",
+      "nome": "Luoghi",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Dove la persona presenta la domanda, viene accolta o riceve le comunicazioni.",
+      "punteggio": 0.6,
+      "punteggio_modello": 0.52,
+      "livello": "Moderatamente comprensibile",
+      "giudizio": "Il testo è moderatamente comprensibile",
+      "motivazioni": [
+        "Spiega chiaramente dove presentare la domanda (Polizia di frontiera e Questura) senza rinvii",
+        "Descrive in modo semplice il centro di accoglienza come luogo di ospitalità dopo la domanda",
+        "Fornisce indicazioni pratiche su cosa fare se si lascia il centro di accoglienza",
+        "Usa termini istituzionali spiegati nel testo o nel glossario",
+        "Presenza di rinvii a indirizzi email e altre pagine per dettagli linguistici e documenti",
+        "Alcune frasi sono lunghe e con molte condizioni ammassate",
+        "La procedura è descritta in più passaggi che richiedono attenzione per essere seguiti",
+        "Non sempre è immediato capire chi comunica cosa e quando"
+      ],
+      "estratti": [
+        {
+          "testo": "Devi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana",
+          "inizio": 1411,
+          "fine": 1585,
+          "effetto": "aumenta",
+          "perche": "Indica chiaramente i luoghi dove presentare la domanda, senza rinvii o termini oscuri",
+          "punteggio": 0.9
+        },
+        {
+          "testo": "Dopo aver fatto la domanda sei accolto in un centro di accoglienza finché non sei ascoltato da una Commissione territoriale durante l’audizione (intervista).",
+          "inizio": 1928,
+          "fine": 2085,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice il ruolo del centro di accoglienza come luogo di accoglienza dopo la domanda",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Se non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2371,
+          "fine": 2636,
+          "effetto": "aumenta",
+          "perche": "Fornisce indicazioni pratiche e concrete per chi non vive nel centro di accoglienza",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Appena sai la data dell’audizione:\n\n- Controlla che la lingua che hai comunicato alla polizia sul Modello C3 sia quella in cui vuoi essere ascoltato. Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli",
+          "inizio": 2687,
+          "fine": 3073,
+          "effetto": "riduce",
+          "perche": "Introduce un rinvio a un indirizzo email e una condizione temporale che può confondere chi non conosce la procedura",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "La domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.\n\nTi danno poi la ricevuta della domanda (cedolino) e dopo qualche tempo il vero e proprio permesso di soggiorno per richiedente asilo.",
+          "inizio": 1587,
+          "fine": 1832,
+          "effetto": "riduce",
+          "perche": "Introduce termini come 'Modello C3' e 'cedolino' senza spiegazioni immediate, e 'dopo qualche tempo' è vago",
+          "punteggio": 0.35
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale.",
+          "inizio": 4814,
+          "fine": 5044,
+          "effetto": "riduce",
+          "perche": "Descrive la composizione della Commissione in modo ripetitivo e poco chiaro, senza spiegare il ruolo preciso di ogni membro",
+          "punteggio": 0.3
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "centro di accoglienza",
+          "questura",
+          "casa",
+          "frontiera",
+          "indirizzo"
+        ],
+        "frequenze": [
+          {
+            "parola": "centro di accoglienza",
+            "frequenza": 7
+          },
+          {
+            "parola": "questura",
+            "frequenza": 6
+          },
+          {
+            "parola": "casa",
+            "frequenza": 2
+          },
+          {
+            "parola": "frontiera",
+            "frequenza": 1
+          },
+          {
+            "parola": "indirizzo",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "centro di accoglienza",
+            "frequenza": 7
+          },
+          {
+            "parola": "questura",
+            "frequenza": 6
+          },
+          {
+            "parola": "casa",
+            "frequenza": 2
+          },
+          {
+            "parola": "frontiera",
+            "frequenza": 1
+          },
+          {
+            "parola": "indirizzo",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 5,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "Strutture di accoglienza",
+              "descrizione": "Luoghi dove si fornisce accoglienza e assistenza alle persone.",
+              "parole": [
+                "centro di accoglienza",
+                "casa",
+                "indirizzo"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.8,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Luoghi di controllo e confine",
+              "descrizione": "Posti dedicati al controllo delle persone e al passaggio tra stati.",
+              "parole": [
+                "questura",
+                "frontiera"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 3,
+        "concetti_presenti": 3,
+        "occorrenze_termini": 14,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "centro_di_accoglienza",
+            "termine": "Centro di accoglienza",
+            "occorrenze": 7
+          },
+          {
+            "id": "polizia_di_frontiera",
+            "termine": "Polizia di frontiera",
+            "occorrenze": 1
+          },
+          {
+            "id": "questura",
+            "termine": "Questura",
+            "occorrenze": 6
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 4340,
+        "completion_tokens": 1057
+      }
+    },
+    {
+      "id": "momenti_della_procedura",
+      "nome": "Momenti della procedura",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "In quale passaggio della procedura il concetto entra in gioco.",
+      "punteggio": 0.8,
+      "punteggio_modello": 0.52,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Moderatamente comprensibile",
+      "motivazioni": [
+        "Il testo presenta una struttura chiara con passaggi numerati che aiutano a seguire la procedura.",
+        "I termini tecnici sono spesso spiegati con definizioni semplici e esempi concreti.",
+        "Sono presenti rinvii a termini e concetti non spiegati direttamente nel testo, che possono confondere chi non conosce la procedura.",
+        "Alcune frasi sono lunghe e contengono molte condizioni o dettagli che appesantiscono la comprensione immediata.",
+        "L'uso di termini istituzionali come 'Commissione territoriale' o 'Questura' è frequente e non sempre accompagnato da spiegazioni immediate.",
+        "Il testo richiede attenzione per collegare le varie fasi e comprendere i passaggi, senza però risultare eccessivamente ostico."
+      ],
+      "estratti": [
+        {
+          "testo": "Devi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana\n\nLa domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1411,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente dove e come presentare la domanda, con un elenco semplice e diretto.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Dopo aver fatto la domanda sei accolto in un centro di accoglienza finché non sei ascoltato da una Commissione territoriale durante l’audizione (intervista).\n\nLa Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.",
+          "inizio": 1928,
+          "fine": 2194,
+          "effetto": "aumenta",
+          "perche": "Descrive in modo semplice la fase successiva alla domanda, senza termini complicati o rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Se non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2371,
+          "fine": 2636,
+          "effetto": "aumenta",
+          "perche": "Fornisce un'indicazione pratica e chiara su cosa fare in caso di cambiamento di residenza, con un consiglio esplicito.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "Appena sai la data dell’audizione:\n\n- Controlla che la lingua che hai comunicato alla polizia sul Modello C3 sia quella in cui vuoi essere ascoltato. Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli",
+          "inizio": 2687,
+          "fine": 3073,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo dettagliato e concreto come prepararsi all'audizione, con istruzioni precise e senza termini oscuri.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale. I possibili risultati sono questi:\n\n- Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile\n- Puoi avere lo status di protezione sussidiaria. La Questura ti dà un permesso di soggiorno per 5 anni. Per questo permesso devi chiedere il rinnovo\n- Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno\n- La Commissione territoriale decide che non puoi avere la protezione internazionale (rigetto)",
+          "inizio": 4814,
+          "fine": 5581,
+          "effetto": "riduce",
+          "perche": "Elenca molte opzioni e condizioni in un unico passaggio, che può risultare pesante e difficile da assimilare per un lettore inesperto.",
+          "punteggio": 0.35
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "audizione",
+          "risultato",
+          "tempo",
+          "chiamare",
+          "convocazione",
+          "presentare",
+          "ricorso",
+          "attesa",
+          "preparazione"
+        ],
+        "frequenze": [
+          {
+            "parola": "audizione",
+            "frequenza": 14
+          },
+          {
+            "parola": "risultato",
+            "frequenza": 4
+          },
+          {
+            "parola": "tempo",
+            "frequenza": 3
+          },
+          {
+            "parola": "chiamare",
+            "frequenza": 2
+          },
+          {
+            "parola": "convocazione",
+            "frequenza": 2
+          },
+          {
+            "parola": "presentare",
+            "frequenza": 2
+          },
+          {
+            "parola": "ricorso",
+            "frequenza": 2
+          },
+          {
+            "parola": "attesa",
+            "frequenza": 1
+          },
+          {
+            "parola": "preparazione",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "audizione",
+            "frequenza": 14
+          },
+          {
+            "parola": "risultato",
+            "frequenza": 4
+          },
+          {
+            "parola": "tempo",
+            "frequenza": 3
+          },
+          {
+            "parola": "chiamare",
+            "frequenza": 2
+          },
+          {
+            "parola": "convocazione",
+            "frequenza": 2
+          },
+          {
+            "parola": "presentare",
+            "frequenza": 2
+          },
+          {
+            "parola": "ricorso",
+            "frequenza": 2
+          },
+          {
+            "parola": "attesa",
+            "frequenza": 1
+          },
+          {
+            "parola": "preparazione",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 9,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "Fase di convocazione",
+              "descrizione": "Parole che indicano la chiamata e la preparazione per la procedura.",
+              "parole": [
+                "convocazione",
+                "attesa",
+                "chiamare",
+                "preparazione"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Fase di audizione e risultato",
+              "descrizione": "Parole che riguardano l'audizione, la presentazione del ricorso e il risultato finale.",
+              "parole": [
+                "audizione",
+                "tempo",
+                "presentare",
+                "ricorso",
+                "risultato"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.85,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 11,
+        "concetti_presenti": 11,
+        "occorrenze_termini": 58,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "audizione",
+            "termine": "Audizione",
+            "occorrenze": 14
+          },
+          {
+            "id": "cedolino",
+            "termine": "Cedolino",
+            "occorrenze": 1
+          },
+          {
+            "id": "centro_di_accoglienza",
+            "termine": "Centro di accoglienza",
+            "occorrenze": 7
+          },
+          {
+            "id": "commissione_territoriale",
+            "termine": "Commissione territoriale",
+            "occorrenze": 17
+          },
+          {
+            "id": "confidenziale",
+            "termine": "Confidenziale",
+            "occorrenze": 1
+          },
+          {
+            "id": "interprete",
+            "termine": "Interprete",
+            "occorrenze": 5
+          },
+          {
+            "id": "lettera_di_convocazione",
+            "termine": "Lettera di convocazione",
+            "occorrenze": 1
+          },
+          {
+            "id": "modello_c3",
+            "termine": "Modello C3",
+            "occorrenze": 3
+          },
+          {
+            "id": "polizia_di_frontiera",
+            "termine": "Polizia di frontiera",
+            "occorrenze": 1
+          },
+          {
+            "id": "questura",
+            "termine": "Questura",
+            "occorrenze": 6
+          },
+          {
+            "id": "verbale",
+            "termine": "Verbale",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 5,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 5025,
+        "completion_tokens": 1323
+      }
+    },
+    {
+      "id": "presupposti",
+      "nome": "Presupposti",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Quali situazioni aprono o escludono una forma di protezione o un permesso.",
+      "punteggio": 0.7,
+      "punteggio_modello": 0.52,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo è moderatamente comprensibile, con spiegazioni chiare ma anche diversi ostacoli che rallentano la comprensione.",
+      "motivazioni": [
+        "Spiegazioni semplici e dirette su quando e come presentare la domanda di protezione internazionale.",
+        "Uso di elenchi puntati per chiarire i motivi di richiesta di protezione.",
+        "Presenza di rinvii impliciti a concetti non completamente spiegati nel testo (es. status di rifugiato, protezione sussidiaria).",
+        "Condizioni complesse e multiple elencate senza sintesi o esempi concreti.",
+        "Presenza di termini istituzionali e procedure (Commissione territoriale, Questura) non sempre spiegati in modo autonomo.",
+        "Indicazioni pratiche utili ma con alcune istruzioni condizionate e rinvii a email o altri documenti."
+      ],
+      "estratti": [
+        {
+          "testo": "Se hai lasciato il tuo Paese di origine o il Paese in cui vivevi e se pensi di non volerci o poterci rientrare perché hai paura di:\n\n- essere perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per la tua opinione politica\n- di essere condannato a morte\n- di essere torturato\n- di subire violenze perché nel posto dove vivevi c’è la guerra\n\ne il tuo Paese non ti può o non ti vuole aiutare.",
+          "inizio": 811,
+          "fine": 1255,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente e con un elenco semplice le situazioni che aprono alla protezione internazionale, senza termini opachi.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Devi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana\n\nLa domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1411,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Indica in modo diretto dove e come presentare la domanda, con passaggi concreti e senza rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Dopo averti ascoltato la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale. I possibili risultati sono questi:\n\n- Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile\n- Puoi avere lo status di protezione sussidiaria. La Questura ti dà un permesso di soggiorno per 5 anni. Per questo permesso devi chiedere il rinnovo\n- Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno\n- La Commissione territoriale decide che non puoi avere la protezione internazionale (rigetto)",
+          "inizio": 4814,
+          "fine": 5581,
+          "effetto": "aumenta",
+          "perche": "Descrive in modo chiaro e sintetico i possibili esiti della procedura e la durata dei permessi.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "Attenzione:** ricorda che se sei malato, se sei vittima di una calamità naturale nel tuo Paese, di violenza domestica (in Italia) o di sfruttamento lavorativo (in Italia) puoi chiedere un permesso per “casi speciali” in Questura",
+          "inizio": 5585,
+          "fine": 5813,
+          "effetto": "aumenta",
+          "perche": "Fornisce un'informazione importante in modo semplice e senza rinvii, chiarendo un'eccezione alla procedura principale.",
+          "punteggio": 0.7
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo diretto e comprensibile la possibilità di ricorso e l'assistenza legale gratuita.",
+          "punteggio": 0.7
+        },
+        {
+          "testo": "La Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.\n\nSe decidi di rimanere nel centro di accoglienza, l’operatore del centro di accoglienza ti dice quando devi andare alla Commissione territoriale per raccontare la tua storia.\n\nSe non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2087,
+          "fine": 2636,
+          "effetto": "riduce",
+          "perche": "Introduce condizioni multiple e rinvii a comportamenti da tenere, con istruzioni che possono confondere chi non conosce la procedura.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Appena sai la data dell’audizione:\n\n- Controlla che la lingua che hai comunicato alla polizia sul Modello C3 sia quella in cui vuoi essere ascoltato. Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli\n- Prepara i documenti che vuoi consegnare alla Commissione territoriale e che riguardano, per esempio, la tua età, la tua cittadinanza, i tuoi titoli di studio, i Paesi in cui hai vissuto, eventuali denunce, contratti, certificati medici\n- Puoi anche preparare una memoria scritta della tua storia con l’aiuto degli operatori del centro di accoglienza o, se vivi fuori dal centro, di un avvocato. Devi firmare e consegnare la memoria scritta alla Commissione territoriale, possibilmente qualche giorno prima dell’audizione (inviandola a rifugiati.firenze@interno.it e scrivendo il tuo nome nell’oggetto dell’e-mail)",
+          "inizio": 2687,
+          "fine": 3689,
+          "effetto": "riduce",
+          "perche": "Contiene molte condizioni e passaggi tecnici, con rinvii a email e richieste di documenti che possono risultare complessi senza supporto.",
+          "punteggio": 0.35
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "paese di origine",
+          "paura",
+          "aiutare",
+          "calamità naturale",
+          "condannare",
+          "gratuito patrocinio",
+          "gruppo",
+          "guerra",
+          "malare",
+          "morta",
+          "nazionalità",
+          "opinione",
+          "perseguitare",
+          "razza",
+          "religione",
+          "sfruttamento lavorativo",
+          "torturare",
+          "violenza domestica"
+        ],
+        "frequenze": [
+          {
+            "parola": "paese di origine",
+            "frequenza": 2
+          },
+          {
+            "parola": "paura",
+            "frequenza": 2
+          },
+          {
+            "parola": "aiutare",
+            "frequenza": 1
+          },
+          {
+            "parola": "calamità naturale",
+            "frequenza": 1
+          },
+          {
+            "parola": "condannare",
+            "frequenza": 1
+          },
+          {
+            "parola": "gratuito patrocinio",
+            "frequenza": 1
+          },
+          {
+            "parola": "gruppo",
+            "frequenza": 1
+          },
+          {
+            "parola": "guerra",
+            "frequenza": 1
+          },
+          {
+            "parola": "malare",
+            "frequenza": 1
+          },
+          {
+            "parola": "morta",
+            "frequenza": 1
+          },
+          {
+            "parola": "nazionalità",
+            "frequenza": 1
+          },
+          {
+            "parola": "opinione",
+            "frequenza": 1
+          },
+          {
+            "parola": "perseguitare",
+            "frequenza": 1
+          },
+          {
+            "parola": "razza",
+            "frequenza": 1
+          },
+          {
+            "parola": "religione",
+            "frequenza": 1
+          },
+          {
+            "parola": "sfruttamento lavorativo",
+            "frequenza": 1
+          },
+          {
+            "parola": "torturare",
+            "frequenza": 1
+          },
+          {
+            "parola": "violenza domestica",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "paese di origine",
+            "frequenza": 2
+          },
+          {
+            "parola": "paura",
+            "frequenza": 2
+          },
+          {
+            "parola": "aiutare",
+            "frequenza": 1
+          },
+          {
+            "parola": "calamità naturale",
+            "frequenza": 1
+          },
+          {
+            "parola": "condannare",
+            "frequenza": 1
+          },
+          {
+            "parola": "gratuito patrocinio",
+            "frequenza": 1
+          },
+          {
+            "parola": "gruppo",
+            "frequenza": 1
+          },
+          {
+            "parola": "guerra",
+            "frequenza": 1
+          },
+          {
+            "parola": "malare",
+            "frequenza": 1
+          },
+          {
+            "parola": "morta",
+            "frequenza": 1
+          },
+          {
+            "parola": "nazionalità",
+            "frequenza": 1
+          },
+          {
+            "parola": "opinione",
+            "frequenza": 1
+          },
+          {
+            "parola": "perseguitare",
+            "frequenza": 1
+          },
+          {
+            "parola": "razza",
+            "frequenza": 1
+          },
+          {
+            "parola": "religione",
+            "frequenza": 1
+          },
+          {
+            "parola": "sfruttamento lavorativo",
+            "frequenza": 1
+          },
+          {
+            "parola": "torturare",
+            "frequenza": 1
+          },
+          {
+            "parola": "violenza domestica",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 18,
+          "richiesti": 3,
+          "voci": [
+            {
+              "etichetta": "Origine e identità",
+              "descrizione": "Parole che riguardano l'origine personale e le caratteristiche identitarie di una persona.",
+              "parole": [
+                "paese di origine",
+                "nazionalità",
+                "razza",
+                "religione",
+                "gruppo"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Condizioni di rischio e persecuzione",
+              "descrizione": "Termini che indicano situazioni di pericolo, violenza o persecuzione subite da una persona.",
+              "parole": [
+                "paura",
+                "perseguitare",
+                "condannare",
+                "torturare",
+                "violenza domestica",
+                "guerra",
+                "calamità naturale",
+                "sfruttamento lavorativo",
+                "morta",
+                "malare"
+              ],
+              "qualita": {
+                "coerenza": 0.85,
+                "copertura": 0.9,
+                "specificita": 0.85,
+                "distinguibilita": 0.85,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Assistenza e supporto legale",
+              "descrizione": "Parole relative all'aiuto e al supporto legale offerto a chi ne ha bisogno.",
+              "parole": [
+                "aiutare",
+                "gratuito patrocinio",
+                "opinione"
+              ],
+              "qualita": {
+                "coerenza": 0.8,
+                "copertura": 0.7,
+                "specificita": 0.75,
+                "distinguibilita": 0.85,
+                "ancoraggio": 0.7
+              },
+              "criticita": "L'etichetta include 'opinione' che è poco ancorata al concetto di supporto legale.",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 7,
+        "concetti_presenti": 4,
+        "occorrenze_termini": 4,
+        "copertura_termini": 0.571,
+        "termini": [
+          {
+            "id": "calamita_naturale",
+            "termine": "Calamità naturale",
+            "occorrenze": 1
+          },
+          {
+            "id": "motivi_di_persecuzione",
+            "termine": "motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_per_casi_speciali",
+            "termine": "Permesso per casi speciali",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_protezione_speciale",
+            "termine": "Permesso per protezione speciale",
+            "occorrenze": 0
+          },
+          {
+            "id": "status_di_protezione_sussidiaria",
+            "termine": "Status di protezione sussidiaria",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_rifugiato",
+            "termine": "Status di rifugiato",
+            "occorrenze": 1
+          },
+          {
+            "id": "tutore",
+            "termine": "Tutore",
+            "occorrenze": 1
+          }
+        ],
+        "estratti_validi": 7,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 5124,
+        "completion_tokens": 1738
+      }
+    },
+    {
+      "id": "esiti_possibili",
+      "nome": "Esiti possibili",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Quale risultato della domanda il concetto descrive.",
+      "punteggio": 0.75,
+      "punteggio_modello": 0.55,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Moderatamente comprensibile",
+      "motivazioni": [
+        "Il testo spiega chiaramente i possibili esiti della domanda di protezione internazionale con un elenco semplice e diretto.",
+        "Sono presenti rinvii a termini e concetti non spiegati direttamente nella pagina, come 'status di rifugiato' e 'status di protezione sussidiaria', che richiedono ulteriori letture.",
+        "L'uso di termini istituzionali come 'Commissione territoriale' è spiegato ma con rinvii ad altre definizioni e pagine.",
+        "Le condizioni per ottenere i diversi permessi sono elencate ma non sempre spiegate nel dettaglio, creando potenziali difficoltà di comprensione.",
+        "La presenza di molte fasi e passaggi procedurali rende il quadro complessivo complesso per chi non conosce la procedura.",
+        "Il testo è abbastanza lineare e usa un linguaggio semplice, ma la necessità di consultare altre pagine o glossari riduce la comprensibilità immediata."
+      ],
+      "estratti": [
+        {
+          "testo": "I possibili risultati sono questi:\n\n- Puoi avere lo status di rifugiato. La Questura ti dà un permesso di soggiorno per 5 anni, automaticamente rinnovabile\n- Puoi avere lo status di protezione sussidiaria. La Questura ti dà un permesso di soggiorno per 5 anni. Per questo permesso devi chiedere il rinnovo\n- Puoi avere un permesso per “protezione speciale”. La Questura ti dà un permesso di soggiorno per 1 anno, che devi rinnovare ogni anno\n- La Commissione territoriale decide che non puoi avere la protezione internazionale (rigetto)",
+          "inizio": 5045,
+          "fine": 5581,
+          "effetto": "aumenta",
+          "perche": "Elenca chiaramente e in modo semplice i possibili esiti della domanda, facilitando la comprensione.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "La Commissione territoriale ti chiama dopo un po’ di tempo. Il tempo di attesa cambia da persona a persona.\n\nSe decidi di rimanere nel centro di accoglienza, l’operatore del centro di accoglienza ti dice quando devi andare alla Commissione territoriale per raccontare la tua storia.\n\nSe non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2087,
+          "fine": 2636,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo concreto e diretto come avviene la convocazione, con indicazioni pratiche utili.",
+          "punteggio": 0.75
+        },
+        {
+          "testo": "la Commissione territoriale (composta non solo dal membro della Commissione territoriale che ti ha ascoltato ma anche da altre tre persone), decide se puoi avere o non puoi avere la protezione internazionale",
+          "inizio": 4836,
+          "fine": 5043,
+          "effetto": "riduce",
+          "perche": "Non spiega chi sono esattamente i membri della Commissione né come prendono la decisione, lasciando un po' di opacità.",
+          "punteggio": 0.4
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Indica chiaramente la possibilità di ricorso e le modalità di assistenza legale, facilitando la comprensione dei diritti.",
+          "punteggio": 0.7
+        },
+        {
+          "testo": "Se hai lasciato il tuo Paese di origine o il Paese in cui vivevi e se pensi di non volerci o poterci rientrare perché hai paura di:\n\n- essere perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per la tua opinione politica\n- di essere condannato a morte\n- di essere torturato\n- di subire violenze perché nel posto dove vivevi c’è la guerra\n\ne il tuo Paese non ti può o non ti vuole aiutare.",
+          "inizio": 811,
+          "fine": 1255,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice e diretto le condizioni per presentare la domanda di protezione internazionale.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Il risultato dell’audizione ti viene comunicato:\n\n- dall’operatore se vivi nel centro di accoglienza\n- con una lettera a casa se vivi fuori dal centro di accoglienza",
+          "inizio": 5816,
+          "fine": 5981,
+          "effetto": "aumenta",
+          "perche": "Fornisce informazioni pratiche e chiare su come viene comunicato l’esito, senza termini complicati.",
+          "punteggio": 0.75
+        }
+      ],
+      "estratti_scartati": [],
+      "concetto": {
+        "parole": [
+          "soggiorno",
+          "speciale",
+          "caso",
+          "protezione sussidiaria",
+          "rigetto",
+          "status di rifugiato",
+          "sussidiario"
+        ],
+        "frequenze": [
+          {
+            "parola": "soggiorno",
+            "frequenza": 4
+          },
+          {
+            "parola": "speciale",
+            "frequenza": 2
+          },
+          {
+            "parola": "caso",
+            "frequenza": 1
+          },
+          {
+            "parola": "protezione sussidiaria",
+            "frequenza": 1
+          },
+          {
+            "parola": "rigetto",
+            "frequenza": 1
+          },
+          {
+            "parola": "status di rifugiato",
+            "frequenza": 1
+          },
+          {
+            "parola": "sussidiario",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "soggiorno",
+            "frequenza": 4
+          },
+          {
+            "parola": "speciale",
+            "frequenza": 2
+          },
+          {
+            "parola": "caso",
+            "frequenza": 1
+          },
+          {
+            "parola": "protezione sussidiaria",
+            "frequenza": 1
+          },
+          {
+            "parola": "rigetto",
+            "frequenza": 1
+          },
+          {
+            "parola": "status di rifugiato",
+            "frequenza": 1
+          },
+          {
+            "parola": "sussidiario",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 7,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "Protezione legale",
+              "descrizione": "Parole relative ai diversi tipi di protezione e status legale riconosciuti.",
+              "parole": [
+                "protezione sussidiaria",
+                "sussidiario",
+                "status di rifugiato",
+                "speciale"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "Esiti procedurali",
+              "descrizione": "Termini che indicano possibili esiti o situazioni legate al soggiorno e alle decisioni.",
+              "parole": [
+                "soggiorno",
+                "caso",
+                "rigetto"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.8,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 0.9
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 7,
+        "concetti_presenti": 4,
+        "occorrenze_termini": 20,
+        "copertura_termini": 0.571,
+        "termini": [
+          {
+            "id": "commissione_territoriale",
+            "termine": "Commissione territoriale",
+            "occorrenze": 17
+          },
+          {
+            "id": "motivi_di_persecuzione",
+            "termine": "motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_per_casi_speciali",
+            "termine": "Permesso per casi speciali",
+            "occorrenze": 0
+          },
+          {
+            "id": "permesso_protezione_speciale",
+            "termine": "Permesso per protezione speciale",
+            "occorrenze": 0
+          },
+          {
+            "id": "rigetto",
+            "termine": "Rigetto",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_protezione_sussidiaria",
+            "termine": "Status di protezione sussidiaria",
+            "occorrenze": 1
+          },
+          {
+            "id": "status_di_rifugiato",
+            "termine": "Status di rifugiato",
+            "occorrenze": 1
+          }
+        ],
+        "estratti_validi": 6,
+        "estratti_scartati": 0
+      },
+      "usage": {
+        "prompt_tokens": 5142,
+        "completion_tokens": 1340
+      }
+    },
+    {
+      "id": "adempimenti_della_persona",
+      "nome": "Adempimenti della persona",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Che cosa la persona deve fare, consegnare, firmare, denunciare o controllare.",
+      "punteggio": 0.8,
+      "punteggio_modello": 0.55,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo spiega chiaramente cosa deve fare la persona per presentare la domanda e seguire la procedura, ma presenta diversi ostacoli che ne riducono la comprensibilità complessiva.",
+      "motivazioni": [
+        "Spiegazione passo passo delle azioni da compiere (es. compilare Modello C3 con funzionario di polizia).",
+        "Uso di termini spiegati nel testo o nel glossario (es. Modello C3, Questura, Polizia di frontiera).",
+        "Presenza di rinvii a termini e concetti collegati che richiedono ulteriori consultazioni.",
+        "Condizioni complesse e ammassate per il permesso per casi speciali, che possono confondere.",
+        "Indicazioni su cosa fare in caso di cambi di indirizzo o audizione, ma con dettagli che richiedono attenzione.",
+        "Frasi lunghe e con molte informazioni in un solo passaggio, che possono ostacolare la comprensione immediata."
+      ],
+      "estratti": [
+        {
+          "testo": "Devi fare la domanda di protezione internazionale appena entri in Italia o il prima possibile:\n\n- alla Polizia di frontiera oppure\n- alla Questura di qualsiasi città italiana\n\nLa domanda viene fatta con il Modello C3 che compili insieme a un funzionario della polizia e a un interprete.",
+          "inizio": 1411,
+          "fine": 1697,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente cosa deve fare la persona e con chi, senza rinvii.",
+          "punteggio": 0.9
+        },
+        {
+          "testo": "Se non vai nel centro di accoglienza o decidi di lasciarlo, ricorda di avvisare la Questura dell’indirizzo dove vivi perché riceverai una lettera di convocazione a casa tua (Attenzione: ricorda di mettere il tuo cognome sul campanello e sulla cassetta della posta).",
+          "inizio": 2371,
+          "fine": 2636,
+          "effetto": "aumenta",
+          "perche": "Fornisce un'indicazione pratica e importante senza rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Se vuoi parlare con la Commissione territoriale in una lingua diversa da quella indicata nel Modello C3, almeno una settimana prima del giorno dell'audizione, manda una e-mail a rifugiati.firenze@interno.it e scrivi la lingua che scegli",
+          "inizio": 2837,
+          "fine": 3073,
+          "effetto": "aumenta",
+          "perche": "Istruzione chiara e concreta su come modificare la lingua dell'audizione.",
+          "punteggio": 0.85
+        },
+        {
+          "testo": "Il risultato dell’audizione ti viene comunicato:\n\n- dall’operatore se vivi nel centro di accoglienza\n- con una lettera a casa se vivi fuori dal centro di accoglienza",
+          "inizio": 5816,
+          "fine": 5981,
+          "effetto": "aumenta",
+          "perche": "Spiega in modo semplice come viene comunicato il risultato, senza rinvii.",
+          "punteggio": 0.8
+        },
+        {
+          "testo": "Se non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 6000,
+          "fine": 6185,
+          "effetto": "riduce",
+          "perche": "Introduce termini come 'ricorso' e 'gratuito patrocinio' che richiedono ulteriori spiegazioni o conoscenze.",
+          "punteggio": 0.4
+        }
+      ],
+      "estratti_scartati": [
+        "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate."
+      ],
+      "concetto": {
+        "parole": [
+          "raccontare",
+          "avvisare",
+          "controllare",
+          "mandare",
+          "posta",
+          "rileggare",
+          "scrivare"
+        ],
+        "frequenze": [
+          {
+            "parola": "raccontare",
+            "frequenza": 3
+          },
+          {
+            "parola": "avvisare",
+            "frequenza": 1
+          },
+          {
+            "parola": "controllare",
+            "frequenza": 1
+          },
+          {
+            "parola": "mandare",
+            "frequenza": 1
+          },
+          {
+            "parola": "posta",
+            "frequenza": 1
+          },
+          {
+            "parola": "rileggare",
+            "frequenza": 1
+          },
+          {
+            "parola": "scrivare",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "raccontare",
+            "frequenza": 3
+          },
+          {
+            "parola": "avvisare",
+            "frequenza": 1
+          },
+          {
+            "parola": "controllare",
+            "frequenza": 1
+          },
+          {
+            "parola": "mandare",
+            "frequenza": 1
+          },
+          {
+            "parola": "posta",
+            "frequenza": 1
+          },
+          {
+            "parola": "rileggare",
+            "frequenza": 1
+          },
+          {
+            "parola": "scrivare",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 7,
+          "richiesti": 2,
+          "voci": [
+            {
+              "etichetta": "comunicazione",
+              "descrizione": "Azioni legate all'invio e alla trasmissione di informazioni.",
+              "parole": [
+                "raccontare",
+                "avvisare",
+                "mandare",
+                "posta"
+              ],
+              "qualita": {
+                "coerenza": 0.9,
+                "copertura": 0.9,
+                "specificita": 0.8,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            },
+            {
+              "etichetta": "verifica e scrittura",
+              "descrizione": "Attività di controllo e produzione di testi scritti.",
+              "parole": [
+                "controllare",
+                "rileggare",
+                "scrivare"
+              ],
+              "qualita": {
+                "coerenza": 0.95,
+                "copertura": 0.95,
+                "specificita": 0.9,
+                "distinguibilita": 0.9,
+                "ancoraggio": 1.0
+              },
+              "criticita": "",
+              "esito": "valida",
+              "tentativi": 1,
+              "visibile": true
+            }
+          ]
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 11,
+        "concetti_presenti": 10,
+        "occorrenze_termini": 19,
+        "copertura_termini": 0.909,
+        "termini": [
+          {
+            "id": "funzionario_della_polizia",
+            "termine": "Funzionario della polizia",
+            "occorrenze": 1
+          },
+          {
+            "id": "gratuito_patrocinio",
+            "termine": "Gratuito patrocinio",
+            "occorrenze": 1
+          },
+          {
+            "id": "lettera_di_convocazione",
+            "termine": "Lettera di convocazione",
+            "occorrenze": 1
+          },
+          {
+            "id": "modello_c3",
+            "termine": "Modello C3",
+            "occorrenze": 3
+          },
+          {
+            "id": "operatore_del_centro_di_accoglienza",
+            "termine": "Operatore del centro di accoglienza",
+            "occorrenze": 1
+          },
+          {
+            "id": "permesso_per_casi_speciali",
+            "termine": "Permesso per casi speciali",
+            "occorrenze": 0
+          },
+          {
+            "id": "polizia_di_frontiera",
+            "termine": "Polizia di frontiera",
+            "occorrenze": 1
+          },
+          {
+            "id": "questura",
+            "termine": "Questura",
+            "occorrenze": 6
+          },
+          {
+            "id": "ricorso",
+            "termine": "Ricorso",
+            "occorrenze": 2
+          },
+          {
+            "id": "tutore",
+            "termine": "Tutore",
+            "occorrenze": 1
+          },
+          {
+            "id": "verbale",
+            "termine": "Verbale",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 5,
+        "estratti_scartati": 1
+      },
+      "usage": {
+        "prompt_tokens": 5160,
+        "completion_tokens": 1057
+      }
+    },
+    {
+      "id": "rimedi",
+      "nome": "Rimedi",
+      "famiglia": "complessita_procedurale",
+      "cosa_si_potra_osservare": "Come si può contestare una decisione o ottenere assistenza per farlo.",
+      "punteggio": 0.75,
+      "punteggio_modello": 0.5,
+      "livello": "Abbastanza comprensibile",
+      "giudizio": "Il testo spiega chiaramente che si può fare ricorso entro 30 giorni con l'aiuto di un avvocato e che si può chiedere il gratuito patrocinio, ma non dettaglia come fare concretamente il ricorso. Ci sono rinvii impliciti e termini non completamente spiegati, come 'ricorso' e 'gratuito patrocinio'.",
+      "motivazioni": [
+        "Il testo indica che si può fare ricorso entro 30 giorni con l'aiuto di un avvocato.",
+        "Viene menzionato il gratuito patrocinio per chi non ha soldi, ma senza spiegare come ottenerlo.",
+        "Non sono forniti dettagli pratici su come presentare il ricorso.",
+        "Non ci sono istruzioni passo-passo o moduli specifici per il ricorso.",
+        "Il termine 'ricorso' è usato senza spiegazioni immediate nel testo principale.",
+        "Il testo non spiega chi esattamente riceve il ricorso o come viene gestito."
+      ],
+      "estratti": [
+        {
+          "testo": "#### 6. Ricorso\n\nSe non sei d’accordo con la decisione della Commissione Territoriale puoi fare ricorso entro 30 giorni con l’aiuto di un avvocato. Se non hai soldi puoi chiedere il gratuito patrocinio.",
+          "inizio": 5983,
+          "fine": 6185,
+          "effetto": "aumenta",
+          "perche": "Spiega chiaramente che è possibile fare ricorso entro 30 giorni e che si può avere assistenza legale gratuita se non si hanno soldi.",
+          "punteggio": 0.75
+        }
+      ],
+      "estratti_scartati": [
+        "Il termine 'ricorso' è usato senza spiegazioni immediate nel testo principale.",
+        "Non sono forniti dettagli pratici su come presentare il ricorso."
+      ],
+      "concetto": {
+        "parole": [
+          "territoriale",
+          "aiuto",
+          "gratuito patrocinio"
+        ],
+        "frequenze": [
+          {
+            "parola": "territoriale",
+            "frequenza": 17
+          },
+          {
+            "parola": "aiuto",
+            "frequenza": 3
+          },
+          {
+            "parola": "gratuito patrocinio",
+            "frequenza": 1
+          }
+        ],
+        "aggregato": [
+          {
+            "parola": "territoriale",
+            "frequenza": 17
+          },
+          {
+            "parola": "aiuto",
+            "frequenza": 3
+          },
+          {
+            "parola": "gratuito patrocinio",
+            "frequenza": 1
+          }
+        ],
+        "topic": {
+          "metodo": "STM-LLM",
+          "versione": 1,
+          "parole": 3,
+          "richiesti": 0,
+          "voci": []
+        }
+      },
+      "quantitativo": {
+        "concetti_collegati": 2,
+        "concetti_presenti": 2,
+        "occorrenze_termini": 3,
+        "copertura_termini": 1.0,
+        "termini": [
+          {
+            "id": "gratuito_patrocinio",
+            "termine": "Gratuito patrocinio",
+            "occorrenze": 1
+          },
+          {
+            "id": "ricorso",
+            "termine": "Ricorso",
+            "occorrenze": 2
+          }
+        ],
+        "estratti_validi": 1,
+        "estratti_scartati": 2
+      },
+      "usage": {
+        "prompt_tokens": 4283,
+        "completion_tokens": 771
+      }
+    }
+  ],
+  "errori": [],
+  "usage": {
+    "prompt_tokens": 77657,
+    "completion_tokens": 20742
+  }
+}

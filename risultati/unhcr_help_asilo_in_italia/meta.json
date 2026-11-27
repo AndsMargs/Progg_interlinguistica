@@ -1,0 +1,13 @@
+{
+  "id": "unhcr_help_asilo_in_italia",
+  "nome_file": "unhcr_help_asilo_in_italia.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T14:33:21.863065+00:00",
+  "stato": "completato",
+  "caratteri": 19915,
+  "usage": {
+    "prompt_tokens": 175607,
+    "completion_tokens": 20205
+  },
+  "percorso": "completato"
+}

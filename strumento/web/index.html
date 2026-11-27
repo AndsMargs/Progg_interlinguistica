@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quanto si fa capire il testo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/stile.css?v=21">
+</head>
+<body class="in-copertina">
+  <header class="testata">
+    <div class="marca">
+      <h1><span>Capire è farsi capire: Comunicazione, diritti linguistici</span><span>e decisioni nelle audizioni per la protezione internazionale</span></h1>
+      <p class="autori">Dott. Fabrizio Gallai,<br/>Dott.ssa Alessia Forciniti<strong> (*)</strong>, <br/>Dott. Enrico Palumbo, <br/>Dott. Giacomo Pozzi</p>
+    </div>
+    <button class="vai" type="button" id="vai-analisi">Vai all'analisi</button>
+    <div class="linguette" role="tablist">
+      <button class="linguella" type="button" role="tab" id="tab-chiarezza" aria-selected="false" aria-controls="vista-chiarezza">Complessità documentale</button>
+      <button class="linguella" type="button" role="tab" id="tab-percorso" aria-selected="false" aria-controls="vista-percorso">Iter Procedurale</button>
+    </div>
+  </header>
+
+  <div class="barra" id="barra" hidden>
+    <p id="stato-testo">Sto leggendo il testo</p>
+    <div class="traccia"><div id="stato-barra"></div></div>
+  </div>
+
+  <main class="palco" id="lettore">
+    <div class="sfoglia">
+      <div class="leggio">
+        <button class="freccia" type="button" id="pagina-prima" aria-label="Pagine precedenti">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 6 8.5 12l6 6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="facciate">
+          <div class="facciata">
+            <canvas id="tela-sinistra" hidden></canvas>
+          </div>
+          <div class="facciata">
+            <canvas id="tela-destra" hidden></canvas>
+          </div>
+        </div>
+        <p class="numero-pagina" id="numero-pagina"></p>
+        <button class="freccia" type="button" id="pagina-dopo" aria-label="Pagine successive">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9.5 6 15.5 12l-6 6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+    </div>
+    <p class="messaggio-pdf" id="messaggio-pdf" hidden></p>
+  </main>
+
+  <main class="layout" id="layout" hidden>
+    <section class="colonna-testo">
+      <h3 id="nome-doc">Documento</h3>
+      <article id="documento" class="documento"></article>
+    </section>
+    <section class="colonna-indicatori">
+      <div id="vista-chiarezza" class="vista-chiarezza">
+        <div class="lato-sezioni">
+          <div id="famiglie"></div>
+        </div>
+        <aside class="lato-spiegazione" id="lato-spiegazione">
+          <div id="spiegazione-complessita">
+            <h2>Che cos'è la complessità documentale?</h2>
+            <p>I documenti relativi alla protezione internazionale contengono informazioni importanti per chi richiede asilo. Spiegano come funziona la procedura, quali soggetti sono coinvolti, quali documenti sono necessari, come si svolge l'audizione e quali decisioni possono essere adottate.</p>
+            <p>Queste informazioni, tuttavia, non sono sempre facili da comprendere, soprattutto quando vengono comunicate attraverso lingue diverse o richiedono conoscenze giuridiche e amministrative specifiche.</p>
+            <p><strong>Per complessità documentale intendiamo l'insieme delle caratteristiche linguistiche e procedurali che possono facilitare o ostacolare la comprensione di un documento:</strong>il modo in cui le informazioni sono formulate, organizzate e comunicate.</p>
+            <p>L'obiettivo è individuare gli elementi che rendono un documento più o meno accessibile, anche nei contesti di traduzione, interpretazione e mediazione linguistico-culturale.</p>
+
+            <h2>Due dimensioni della complessità</h2>
+            <h3>Complessità linguistica</h3>
+            <p>Riguarda il modo in cui le informazioni sono espresse attraverso la lingua. Considera, ad esempio, la presenza di termini specialistici, la lunghezza e la struttura delle frasi, la chiarezza delle definizioni, i riferimenti impliciti e le relazioni tra concetti. Tiene inoltre conto delle possibili difficoltà di comprensione e interpretazione che possono emergere quando le informazioni passano da una lingua all'altra.</p>
+            <h3>Complessità procedurale</h3>
+            <p>Riguarda il modo in cui il documento descrive e organizza le informazioni relative alla procedura di protezione internazionale. Considera, ad esempio, la chiarezza delle indicazioni sui soggetti coinvolti, sui documenti richiesti, sulle fasi della procedura, sui tempi, sui diritti e sugli obblighi della persona e sui possibili esiti della domanda. Valuta inoltre quanto sia semplice ricostruire il percorso procedurale e comprendere quali azioni siano necessarie nelle diverse fasi.</p>
+
+
+            <h3>Come leggere i colori</h3>
+            <p>La scala del livello di chiarezza è la seguente:</p>
+            <ul class="scala">
+              <li><i style="background:#c2212a"></i>Per niente</li>
+              <li><i style="background:#cf4500"></i>Poco</li>
+              <li><i style="background:#f29300"></i>Moderatamente</li>
+              <li><i style="background:#76b72a"></i>Abbastanza</li>
+              <li><i style="background:#2f6b22"></i>Molto</li>
+            </ul>
+          </div>
+          <div id="dettaglio-aspetto" hidden></div>
+        </aside>
+      </div>
+      <div id="vista-percorso" class="vista-chiarezza" hidden>
+        <div class="lato-sezioni">
+          <div id="fasi"></div>
+        </div>
+        <aside class="lato-spiegazione">
+          <div id="spiegazione-percorso">
+            <h2>Che cos'è l'Iter Procedurale?</h2>
+            <p>La procedura di protezione internazionale comprende diverse fasi. In ciascuna fase, la persona richiedente incontra soggetti istituzionali, documenti, termini giuridici e adempimenti che possono risultare difficili da comprendere, soprattutto quando le informazioni richiedono conoscenze amministrative e giuridiche specifiche.</p>
+            <p><strong>L'analisi dell'Iter Procedurale valuta quanto il documento renda comprensibili i termini e i concetti associati alle diverse fasi.</strong></p>
+            <p>L'obiettivo è individuare se le informazioni siano presentate in modo da consentire a una persona che non conosce la procedura di comprenderne il significato e la funzione.</p>
+            <h2>Le cinque fasi della procedura</h2>
+            <ul>
+              <li><strong>1. Presentazione della domanda: </strong>Riguarda l'avvio della richiesta di protezione internazionale, i soggetti coinvolti e la documentazione necessaria.</li>
+              <li><strong>2. Attesa e convocazione: </strong>Comprende le informazioni relative al periodo precedente all'audizione e alla convocazione della persona richiedente.</li>
+              <li><strong>3. Audizione: </strong>Riguarda il colloquio personale, i soggetti che vi partecipano e le modalità attraverso cui vengono raccolte le dichiarazioni.</li>
+              <li><strong>4. Decisione: </strong>Comprende la valutazione della domanda, i possibili esiti e le modalità di comunicazione della decisione.</li>
+              <li><strong>5. Impugnazione: </strong>Riguarda gli strumenti attraverso cui la persona può contestare una decisione negativa e le relative procedure.</li>
+            </ul>
+            <p>La scala del livello di chiarezza è la seguente:</p>
+            <ul class="scala">
+              <li><i style="background:#c2212a"></i>Per niente</li>
+              <li><i style="background:#cf4500"></i>Poco</li>
+              <li><i style="background:#f29300"></i>Moderatamente</li>
+              <li><i style="background:#76b72a"></i>Abbastanza</li>
+              <li><i style="background:#2f6b22"></i>Molto</li>
+            </ul>
+          </div>
+          <div id="dettaglio-termine" hidden></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer class="corpora">
+    <div class="scelta" id="scelta">
+      <label for="archivio">Corpora elaborati:</label>
+      <select id="archivio"></select>
+    </div>
+    <form id="carica" class="nuovo">
+      <label class="piu" for="file" aria-label="Aggiungi un documento">+</label>
+      <input id="file" type="file" accept=".md,.txt,.markdown,.pdf,text/markdown,text/plain,application/pdf">
+    </form>
+  </footer>
+  <div id="finestra-testo" class="finestra" hidden>
+    <button class="finestra-sfondo" type="button" aria-label="Chiudi il testo"></button>
+    <div class="finestra-pannello" role="dialog" aria-modal="true" aria-labelledby="finestra-titolo">
+      <div class="finestra-testa">
+        <h3 id="finestra-titolo">Testo</h3>
+        <button class="chiudi" type="button" id="chiudi-testo">Chiudi</button>
+      </div>
+      <div id="finestra-corpo"></div>
+    </div>
+  </div>
+  <div id="nube" class="nube-modal" hidden>
+    <button class="nube-sfondo" type="button" aria-label="Chiudi il concetto"></button>
+    <div class="nube-pannello" role="dialog" aria-modal="true" aria-labelledby="nube-titolo">
+      <p class="occhi">Concetto</p>
+      <h3 id="nube-titolo"></h3>
+      <div class="nube-corpo">
+        <div id="nube-parole" class="nube-parole"></div>
+        <div id="nube-topic" class="nube-topic" aria-live="polite"></div>
+      </div>
+    </div>
+  </div>
+  <script src="/pdfjs/pdf.min.js"></script>
+  <script src="/app.js?v=23"></script>
+</body>
+</html>

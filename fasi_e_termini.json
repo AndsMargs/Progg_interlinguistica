@@ -1,0 +1,252 @@
+{
+  "fonte": "dizionario_concetti_protezione.json",
+  "criterio": "L'ordine segue la procedura di protezione internazionale, dal momento in cui si chiede protezione fino all'eventuale contestazione della decisione.",
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "ordine": 1,
+          "perche_qui": "È il primo ufficio a cui ci si può rivolgere appena si entra in Italia, nei porti e negli aeroporti.",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani."
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "ordine": 2,
+          "perche_qui": "Se la persona è già in una città italiana, la domanda si presenta in Questura.",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno."
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "ordine": 3,
+          "perche_qui": "È la persona, in frontiera o in Questura, che raccoglie la domanda.",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale."
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "ordine": 4,
+          "perche_qui": "È il modulo con cui la domanda viene messa per iscritto.",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...)."
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "ordine": 5,
+          "perche_qui": "È il documento che la Questura consegna dopo la domanda, mentre si aspetta il permesso.",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno."
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "ordine": 1,
+          "perche_qui": "È il posto in cui si è ospitati dopo aver presentato la domanda.",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale."
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "ordine": 2,
+          "perche_qui": "Durante l'attesa è la persona del centro a cui si possono chiedere informazioni.",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale."
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "ordine": 3,
+          "perche_qui": "Chiude l'attesa: indica il giorno in cui presentarsi in Commissione.",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione."
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "ordine": 1,
+          "perche_qui": "È l'organo davanti al quale si svolge l'audizione e che poi decide.",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR)."
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "ordine": 2,
+          "perche_qui": "È la persona con cui si parla durante il colloquio.",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale."
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "ordine": 3,
+          "perche_qui": "È il momento stesso del racconto.",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale."
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "ordine": 4,
+          "perche_qui": "È presente nell'audizione per tradurre domande e risposte.",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale."
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "ordine": 5,
+          "perche_qui": "Dice come si svolge l'audizione: ciò che viene raccontato non esce dalla Commissione.",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere."
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "ordine": 6,
+          "perche_qui": "È l'atto che chiude l'audizione: la storia viene messa per iscritto e riletta.",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti."
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "ordine": 1,
+          "perche_qui": "Sono i motivi che aprono lo status di rifugiato, quindi il primo criterio che viene guardato.",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ]
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "ordine": 2,
+          "perche_qui": "È un'altra situazione di fatto che può essere considerata nella decisione, diversa dalla persecuzione.",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano."
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "ordine": 3,
+          "perche_qui": "È il primo esito possibile, se ricorrono i motivi di persecuzione.",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ]
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "ordine": 4,
+          "perche_qui": "Si valuta se non c'è lo status di rifugiato, ma resta un pericolo grave in caso di ritorno.",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ]
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "ordine": 5,
+          "perche_qui": "Arriva dopo gli status di rifugiato e di protezione sussidiaria, quando nessuno dei due può essere riconosciuto ma il pericolo resta.",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno."
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "ordine": 6,
+          "perche_qui": "Riguarda situazioni particolari, diverse dalla protezione internazionale in senso stretto.",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ]
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "ordine": 7,
+          "perche_qui": "È l'esito negativo, quando la Commissione decide che la protezione non spetta.",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale."
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "ordine": 1,
+          "perche_qui": "È l'atto con cui si contesta la decisione.",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale."
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "ordine": 2,
+          "perche_qui": "È il modo per fare il ricorso quando non si hanno i soldi per l'avvocato.",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo."
+        }
+      ]
+    }
+  ]
+}

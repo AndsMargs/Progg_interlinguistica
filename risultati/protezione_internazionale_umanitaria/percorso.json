@@ -1,0 +1,494 @@
+{
+  "id": "protezione_internazionale_umanitaria",
+  "nome_file": "protezione_internazionale_umanitaria.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T19:43:20.692280+00:00",
+  "usage": {
+    "prompt_tokens": 15056,
+    "completion_tokens": 3941,
+    "total_tokens": 18997
+  },
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "estratti": [
+        {
+          "testo": "La domanda di protezione internazionale è presentata personalmente dal richiedente presso l’ufficio di polizia di frontiera, all’atto dell’ingresso nel territorio nazionale, oppure all’ufficio della Questura competente in base al luogo di dimora del richiedente. Al momento della domanda l’autorità che la riceve è tenuta ad informare il richiedente sulla procedura da seguire, sui suoi diritti e doveri durante la procedura, sui tempi ed a consegnare un opuscolo informativo. La domanda può essere presentata in ogni momento e non può essere respinta, né esclusa, per il solo fatto di non essere stata presentata tempestivamente. La verbalizzazione della domanda di protezione avviene attraverso la sottoscrizione di un modello, chiamato “C3” nel quale, il richiedente, dovrà fornire i suoi dati anagrafici, l’indicazione dei suoi più stretti familiari, della sua cittadinanza, della lingua parlata, dell’eventuale orientamento religioso e/o appartenenza etnica, nonché dei Paesi da lui attraversati prima di arrivare in Italia.",
+          "inizio": 4498,
+          "fine": 5527
+        },
+        {
+          "testo": "Se il modello “C3” presenta degli errori di traduzione e/o di trascrizione, il richiedente, innanzi alla Commissione Territoriale per il riconoscimento della protezione Internazionale, confermerà o meno i suoi dati anagrafici ed i motivi posti a fondamento della sua domanda di protezione. Il C3 rappresenta pertanto il necessario presupposto per l’avvio della procedura che porterà all’audizione del richiedente innanzi alla Commissione Territoriale.",
+          "inizio": 5529,
+          "fine": 5980
+        },
+        {
+          "testo": "Il richiedente che ha formalizzato la domanda di protezione internazionale e che risulta privo di mezzi sufficienti a garantire una qualità di vita adeguata per il sostentamento proprio e dei propri familiari, ha accesso, con i propri familiari, alle misure di accoglienza, che devono garantire il rispetto della sfera privata - comprese le differenze di genere, e delle esigenze connesse all’età - la tutela della salute fisica e mentale dei richiedenti, l’unità dei nuclei familiari, l’apprestamento delle misure necessarie per le persone portatrici di particolari esigenze e idonee a prevenire ogni forma di violenza per garantire la sicurezza e la protezione dei richiedenti.",
+          "inizio": 13625,
+          "fine": 14304
+        }
+      ],
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.8,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.8,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.5,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "estratti": [
+        {
+          "testo": "Al richiedente è rilasciato un permesso di soggiorno per richiesta asilo di durata semestrale, rinnovabile, che ha validità limitatamente al territorio italiano.",
+          "inizio": 23562,
+          "fine": 23723
+        },
+        {
+          "testo": "Il richiedente la protezione internazionale è altresì tenuto ad informare le autorità competenti in ordine ad ogni suo mutamento di residenza o domicilio, per consentire di ricevere le comunicazioni inerenti alla sua domanda.",
+          "inizio": 23958,
+          "fine": 24183
+        },
+        {
+          "testo": "Il richiedente è tenuto a comparire personalmente avanti alla Commissione Territoriale per lo svolgimento del colloquio personale finalizzato all’esame della sua domanda di protezione internazionale e, in caso di regolare convocazione e mancata comparizione, senza una preventiva richiesta di rinvio, la Commissione Territoriale decide la domanda sulla base della documentazione a sua disposizione.",
+          "inizio": 24184,
+          "fine": 24582
+        }
+      ],
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.4,
+          "livello": "Poco comprensibile",
+          "frasi": 2
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "estratti": [
+        {
+          "testo": "L’audizione del richiedente si svolge innanzi alla Commissione Territoriale per il riconoscimento della protezione Internazionale in una lingua da lui indicata. Il richiedente ha l’obbligo di comparire personalmente e di consegnare tutti i documenti in suo possesso pertinenti alla sua domanda, incluso il passaporto.",
+          "inizio": 9511,
+          "fine": 9828
+        },
+        {
+          "testo": "Il colloquio si svolge in seduta non pubblica, alla presenza del componente funzionario amministrativo, ove possibile dello stesso sesso del richiedente.",
+          "inizio": 9829,
+          "fine": 9982
+        },
+        {
+          "testo": "Il colloquio può essere rinviato qualora le condizioni di salute del cittadino straniero non lo rendano possibile o l’interessato ne faccia richiesta per gravi motivi.",
+          "inizio": 9983,
+          "fine": 10150
+        },
+        {
+          "testo": "In presenza di richiedente vulnerabile perché portatore di particolari esigenze, al colloquio può essere ammesso personale di sostegno per prestare la necessaria assistenza.",
+          "inizio": 10151,
+          "fine": 10324
+        },
+        {
+          "testo": "La Commissione territoriale può comunque omettere l’audizione del richiedente quando ritiene di avere sufficienti motivi per accogliere la domanda in relazione agli elementi da lui forniti.",
+          "inizio": 10325,
+          "fine": 10514
+        },
+        {
+          "testo": "In base alle norme introdotte con la L. 46 del 2017, il colloquio è videoregistrato con mezzi audiovisivi e trascritto in lingua italiana con l’ausilio di sistemi automatici di riconoscimento vocale.",
+          "inizio": 10515,
+          "fine": 10714
+        },
+        {
+          "testo": "Il richiedente può proporre un’istanza motivata e chiedere di non avvalersi della videoregistrazione.",
+          "inizio": 10715,
+          "fine": 10816
+        },
+        {
+          "testo": "Della trascrizione del colloquio è data lettura al richiedente in una lingua a lui comprensibile ed in ogni caso, tramite interprete.",
+          "inizio": 10817,
+          "fine": 10950
+        },
+        {
+          "testo": "Il componente della Commissione territoriale che ha condotto il colloquio, subito dopo la lettura e in cooperazione con il richiedente e l’interprete, verifica la correttezza della trascrizione, vi apporta le correzioni necessarie e rilascia copia della trascrizione al richiedente in lingua italiana.",
+          "inizio": 10951,
+          "fine": 11252
+        }
+      ],
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.68,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.5,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.55,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 8
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": 0.6,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 2
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+          "condizioni": [],
+          "ordine": 6,
+          "punteggio": 0.75,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "estratti": [
+        {
+          "testo": "Le CT hanno il compito di ascoltare il richiedente in una lingua da lui indicata, esaminare la domanda in modo obiettivo ed imparziale ed adottare un provvedimento motivato in relazione alle circostanze di fatto e di diritto, sulla sua domanda di protezione. La decisione della Commissione deve essere presa con riferimento alla situazione aggiornata del Paese di origine e/o di provenienza del richiedente. La decisione può essere di accoglimento o di rigetto.",
+          "inizio": 9016,
+          "fine": 9477
+        },
+        {
+          "testo": "La decisione può essere di accoglimento o di rigetto. Nel caso di accoglimento la Commissione riconosce il diritto del richiedente a ricevere una protezione internazionale – e relativo permesso di soggiorno della durata di 5 anni – accertando lo status di rifugiato o la protezione sussidiaria.",
+          "inizio": 19020,
+          "fine": 19314
+        },
+        {
+          "testo": "Qualora la Commissione ritenga di non riconoscere la protezione internazionale, dovrà accertare se il richiedente ha diritto al riconoscimento della protezione speciale, e quindi al rilascio di un permesso di soggiorno di durata annuale che, pur consentendo lo svolgimento dell’attività lavorativa, non è convertibile in altro tipo di permesso di soggiorno.",
+          "inizio": 19316,
+          "fine": 19673
+        },
+        {
+          "testo": "Se invece la CT ritenga che il richiedente non abbia diritto ad alcuna forma di protezione internazionale e speciale, adotterà un decreto di rigetto impugnabile innanzi al Tribunale ordinario.",
+          "inizio": 19674,
+          "fine": 19866
+        },
+        {
+          "testo": "## Che cos’è il permesso di soggiorno per calamità?",
+          "inizio": 3413,
+          "fine": 3464
+        },
+        {
+          "testo": "È un permesso di soggiorno rilasciato nei casi in cui il Paese verso il quale lo straniero dovrebbe fare ritorno si trova in una situazione di contingente ed eccezionale calamità che non consente il rientro e la permanenza in condizioni di sicurezza. Ha durata di sei mesi rinnovabile per ulteriori sei mesi se permangono le condizioni ma non è convertibile in permesso per motivi di lavoro. Consente l’iscrizione al Servizio Sanitario Nazionale.",
+          "inizio": 3466,
+          "fine": 3912
+        },
+        {
+          "testo": "- i minori non accompagnati;\n- i titolari di permesso di soggiorno per cure mediche, calamità, atti di particolare valore civile;\n- i titolari di permesso di soggiorno per casi speciali rilasciati ai sensi degli articoli 18 (protezione sociale), 18 bis (vittime di violenza domestica), 22, co. 12-quater (sfruttamento lavorativo) d.lgs. 286/98, qualora non accedano a sistemi di protezione specificamente dedicati;\n- i titolari di permesso di soggiorno per richiesta di asilo o per motivi umanitari che al 5 ottobre 2018 già si trovavano ospitati in una struttura SPRAR e fino alla conclusione del progetto.",
+          "inizio": 14516,
+          "fine": 15123
+        },
+        {
+          "testo": "- i richiedenti asilo;\n- i titolari di permesso di soggiorno per motivi umanitari o di permesso di soggiorno per casi speciali rilasciato in seguito a decisione sulla protezione umanitaria adottata dalla Commissione territoriale prima del 5.10.18 e consegnata dopo;\n- i titolari di permesso di soggiorno per protezione speciale.",
+          "inizio": 15164,
+          "fine": 15492
+        },
+        {
+          "testo": "I richiedenti asilo potranno quindi essere accolti unicamente nei Centri di Accoglienza Straordinaria (CAS) o nei centri governativi di prima accoglienza, mentre per coloro ai quali sia già stata riconosciuta una forma di protezione (motivi umanitari, casi speciali ex-umanitari, protezione speciale) non è prevista neanche tale possibilità.",
+          "inizio": 15494,
+          "fine": 15835
+        }
+      ],
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 4
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ],
+          "ordine": 3,
+          "punteggio": 0.7,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ],
+          "ordine": 4,
+          "punteggio": 0.7,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": 0.75,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ],
+          "ordine": 6,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 4
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 7,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 3
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "estratti": [
+        {
+          "testo": "In caso di rigetto della domanda di protezione internazionale il richiedente può presentare ricorso al Tribunale territorialmente competente.",
+          "inizio": 19945,
+          "fine": 20086
+        },
+        {
+          "testo": "Per la presentazione del ricorso è necessaria l’assistenza di un avvocato, ma il richiedente privo delle risorse necessarie per sostenere il pagamento delle spese legali può presentare istanza di ammissione al patrocinio a spese dello Stato, personalmente o tramite l’avvocato incaricato.",
+          "inizio": 20087,
+          "fine": 20375
+        },
+        {
+          "testo": "Il ricorso deve essere presentato, a pena d’inammissibilità, nel termine di 30 giorni dalla data di notificazione della decisione della Commissione Territoriale, ovvero nel termine ridotto di 15 giorni se la domanda è stata esaminata dalla Commissione Territoriale secondo una procedura accelerata.",
+          "inizio": 20376,
+          "fine": 20674
+        },
+        {
+          "testo": "Il richiedente protezione internazionale ha diritto a rimanere sul territorio italiano sino alla scadenza del termine per proporre il ricorso.",
+          "inizio": 20675,
+          "fine": 20817
+        },
+        {
+          "testo": "La presentazione del ricorso sospende automaticamente l’efficacia esecutiva del provvedimento impugnato, fatta eccezione per le ipotesi in cui il ricorso è proposto contro la decisione della Commissione Territoriale che dichiara inammissibile la domanda di protezione internazionale oppure avverso la decisione adottata a seguito di procedura accelerata, ed in questi ultimi casi il provvedimento impugnato può essere sospeso dal Tribunale previa presentazione di apposita istanza.",
+          "inizio": 20818,
+          "fine": 21299
+        },
+        {
+          "testo": "Il richiedente autorizzato a permanere sul territorio a seguito della presentazione del ricorso ha diritto al rilascio del permesso di soggiorno per richiesta asilo, tranne nell’ipotesi in cui si trovi trattenuto in un C.P.R.",
+          "inizio": 21300,
+          "fine": 21525
+        },
+        {
+          "testo": "Quando nel corso del procedimento giurisdizionale il richiedente è condannato anche con sentenza non definitiva per alcuni specifici reati oppure è sottoposto ad un procedimento penale per i medesimi reati e ricorrono i presupposti per il suo trattenimento, cessano gli effetti della sospensione e perde il diritto a rimanere sul territorio in attesa della decisione sul ricorso.",
+          "inizio": 21526,
+          "fine": 21905
+        },
+        {
+          "testo": "Il ricorso contro la decisione della Commissione Territoriale può essere presentato sia nel caso in cui la Commissione Territoriale abbia negato il riconoscimento della protezione internazionale e di quella speciale, sia nel caso in cui sia stata riconosciuta al richiedente una forma di protezione, ma lo stesso ritenga di aver diritto ad una protezione maggiore.",
+          "inizio": 21906,
+          "fine": 22270
+        }
+      ],
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.45,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 5
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.75,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 1
+        }
+      ]
+    }
+  ]
+}

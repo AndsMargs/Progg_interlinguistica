@@ -1,0 +1,519 @@
+{
+  "id": "linee_guida_commissioni_territoriali",
+  "nome_file": "linee_guida_commissioni_territoriali.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T16:51:35.948526+00:00",
+  "usage": {
+    "prompt_tokens": 27117,
+    "completion_tokens": 4848,
+    "total_tokens": 31965
+  },
+  "fasi": [
+    {
+      "id": "presentazione_della_domanda",
+      "nome": "Presentazione della domanda",
+      "ordine": 1,
+      "perche_qui": "Si comincia quando la persona manifesta la volontà di chiedere protezione e formalizza la domanda.",
+      "estratti": [
+        {
+          "testo": "Una volta registrata la domanda con il modello C3, al Presidente della Commissione o Sezione Territoriale è affidato il compito di stabilire (art. 28, comma 1, del decreto procedure) quale sia la procedura applicabile al caso di specie sulla base di un esame preliminare della domanda.",
+          "inizio": 23629,
+          "fine": 23914
+        },
+        {
+          "testo": "Nell’esercizio di tale compito, il Presidente verifica, altresì, se il richiedente appartenga a categorie di persone vulnerabili, ovvero che necessitano di garanzie particolari, accertamento essenziale per stabilire se possa applicarsi una procedura accelerata o se sia necessario un esame in via prioritaria.",
+          "inizio": 23916,
+          "fine": 24225
+        },
+        {
+          "testo": "La legge prevede infatti che, anche qualora ne ricorrano i presupposti, le procedure accelerate non possono tuttavia mai trovare applicazione se il richiedente appartiene a una delle seguenti categorie (art. 28-bis, comma 6):\n\n- Minori non accompagnati;\n- Persone “portatrici di esigenze particolari” ai sensi dell’art. 17 del d. lgs. 142/2015, che, oltre ai minori non accompagnati, menziona quali persone vulnerabili, i minori, i disabili, gli anziani, le donne con priorità per quelle in stato di gravidanza, i genitori singoli con figli minori, le vittime della tratta di esseri umani, le persone affette da gravi malattie o da disturbi mentali, le persone per le quali è stato accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale o legata all’orientamento sessuale o all’identità di genere, le vittime di mutilazioni genitali.",
+          "inizio": 24226,
+          "fine": 25110
+        },
+        {
+          "testo": "Al termine di tale accertamento, nel caso in cui si stabilisca che ricorrono le condizioni per l’applicazione di una procedura accelerata, e non sussistano cause di esenzione (sopra menzionate), il Presidente mediante un apposito atto di determina, stabilisce la procedura applicabile.",
+          "inizio": 25400,
+          "fine": 25685
+        },
+        {
+          "testo": "Anche qualora sia stata determinata l’applicazione di una procedura accelerata, è possibile disporne, in ogni fase del procedimento, sia prima che dopo l’audizione, il “passaggio” in procedura ordinaria.",
+          "inizio": 25687,
+          "fine": 25890
+        },
+        {
+          "testo": "Andrà disposta, in particolare, la prosecuzione del procedimento in procedura ordinaria qualora:\n\n- nel corso della procedura vengano meno le condizioni per l’applicazione delle procedure accelerate (ad esempio, è emerso il giustificato motivo per il ritardo nella presentazione della domanda nel caso di cui all’art. 28-bis, co. 2, lett. e-bis);\n- nel corso della procedura siano emerse cause di esenzione dalle procedure accelerate (art. 28 bis, comma 6). Per esempio, in caso di emersione di una vulnerabilità in fase di audizione;\n- nel corso della procedura, siano emersi elementi di complessità, di fatto o in diritto, che rendano necessaria una trattazione in procedura ordinaria per assicurare un esame adeguato e completo;\n- il procedimento iniziato in procedura accelerata non si concluda entro i termini previsti dall’articolo 28-bis.",
+          "inizio": 25891,
+          "fine": 26736
+        },
+        {
+          "testo": "Allo stesso modo, nel caso in cui solo a seguito dell’atto di determina presidenziale sia emersa un’esigenza particolare del richiedente, tale da richiedere la trattazione in via prioritaria, il Presidente potrà stabilire che l’esame della domanda prosegua con quest’ultima modalità, prevedendo una consona calendarizzazione dell’audizione e delle eventuali altre attività necessarie\n\n(es. necessità parere di un esperto ai sensi dell’art. 8, c. 3-bis, del decreto procedure).",
+          "inizio": 26738,
+          "fine": 27214
+        }
+      ],
+      "termini": [
+        {
+          "id": "polizia_di_frontiera",
+          "termine": "Polizia di frontiera",
+          "nome_breve": "Polizia di frontiera",
+          "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "questura",
+          "termine": "Questura",
+          "nome_breve": "Questura",
+          "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "funzionario_della_polizia",
+          "termine": "Funzionario della polizia",
+          "nome_breve": "Funzionario della polizia",
+          "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "modello_c3",
+          "termine": "Modello C3",
+          "nome_breve": "Modello C3",
+          "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "cedolino",
+          "termine": "Cedolino",
+          "nome_breve": "Cedolino",
+          "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "attesa_e_convocazione",
+      "nome": "Attesa e convocazione",
+      "ordine": 2,
+      "perche_qui": "Dopo la domanda si viene accolti e si aspetta il giorno dell'audizione.",
+      "estratti": [
+        {
+          "testo": "La decisione sul tipo di procedura applicabile deve essere comunicata tempestivamente al richiedente.",
+          "inizio": 27282,
+          "fine": 27383
+        },
+        {
+          "testo": "In particolare, per quanto riguarda la procedura accelerata e quella accelerata alla frontiera, a seguito della determinazione della procedura applicabile da parte del Presidente, la Questura notifica al richiedente l’atto di determina e la convocazione all’audizione.",
+          "inizio": 27385,
+          "fine": 27653
+        },
+        {
+          "testo": "In caso di persone con esigenze specifiche, inclusi i minori non accompagnati (in procedura ordinaria o con esame in via prioritaria) è buona prassi informare il richiedente in merito alla procedura che sarà applicata e al conseguente iter, secondo la modalità più opportuna in base al caso di specie (es. comunicazione al centro di accoglienza e richiesta di supporto da parte di personale specializzato).",
+          "inizio": 27862,
+          "fine": 28268
+        },
+        {
+          "testo": "Secondo le indicazioni fornite dalla Commissione Nazionale, fatto salvo il pieno rispetto dei criteri di esame in via prioritaria delle domande stabiliti dall’articolo 28, nella definizione dei calendari di audizione, sia con riferimento alle procedure ordinarie che per quelle accelerate, occorre assegnare priorità alle istanze dei richiedenti ospitati nei centri di accoglienza e trattenimento e nelle strutture del sistema di accoglienza e integrazione (SAI), al fine di contribuire a garantire un’adeguata capacità del sistema statale nell’assicurare accoglienza ai richiedenti che ne abbiano necessità.",
+          "inizio": 33429,
+          "fine": 34037
+        },
+        {
+          "testo": "Coerentemente con la ratio di questo istituto, la legge non stabilisce scadenze precise entro cui deve essere svolto l’esame dei casi in via prioritaria.",
+          "inizio": 34039,
+          "fine": 34192
+        },
+        {
+          "testo": "L’ esame in via prioritaria costituisce quindi uno strumento in base al quale la CT potrà anticipare l’esame prioritizzandolo rispetto ai criteri ordinari di esame e di calendarizzazione delle audizioni, e organizzare i tempi dell’atti-vità istruttoria nel modo che risulti più idoneo al caso di specie.",
+          "inizio": 34193,
+          "fine": 34496
+        },
+        {
+          "testo": "Nel caso in cui la prioritizzazione sia dovuta alla vulnerabilità o alle esigenze procedurali particolari del richiedente, l’intervista sarà in particolare programmata in base allo stato di salute psicofisica del richiedente e alla sua effettiva capacità di partecipare alla procedura.",
+          "inizio": 34497,
+          "fine": 34782
+        },
+        {
+          "testo": "A tal fine, è importante mantenere uno scambio costante di aggiornamenti sulle condizioni del richiedente con la struttura di accoglienza e/o i servizi sul territorio.",
+          "inizio": 34783,
+          "fine": 34950
+        }
+      ],
+      "termini": [
+        {
+          "id": "centro_di_accoglienza",
+          "termine": "Centro di accoglienza",
+          "nome_breve": "Centro di accoglienza",
+          "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 3
+        },
+        {
+          "id": "operatore_del_centro_di_accoglienza",
+          "termine": "Operatore del centro di accoglienza",
+          "nome_breve": "Operatore del centro",
+          "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "lettera_di_convocazione",
+          "termine": "Lettera di convocazione",
+          "nome_breve": "Lettera di convocazione",
+          "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.45,
+          "livello": "Moderatamente comprensibile",
+          "frasi": 1
+        }
+      ]
+    },
+    {
+      "id": "audizione",
+      "nome": "Audizione",
+      "ordine": 3,
+      "perche_qui": "È il colloquio in cui si racconta la propria storia a chi deve decidere.",
+      "estratti": [
+        {
+          "testo": "al Presidente, che - in questo particolare caso - è chiamato a procedere sempre, a tal fine, anche all’audizione del richiedente sui motivi addotti a sostegno dell’ammissibilità (art. 29, co. 1-bis ultimo periodo",
+          "inizio": 4530,
+          "fine": 4742
+        },
+        {
+          "testo": "Durante l’audizione, verranno raccolti elementi utili a valutare diversi aspetti, quali:\n\n- a) l’effettivo riconoscimento dello status di rifugiato o di beneficiario di protezione sussidiaria nel paese di primo asilo;\n- b) l’attualità di tale riconoscimento;\n- c) l’effettiva ed attuale protezione da parte del Paese in cui il riconoscimento è avvenuto;\n- d) l’effettivo godimento dei diritti spettanti ai rifugiati e titolari di protezione sussidiaria nel medesimo Paese;\n- e) le ragioni dell’allontanamento da tale Paese;\n- f) la possibilità di farvi ritorno.",
+          "inizio": 4746,
+          "fine": 5307
+        },
+        {
+          "testo": "La Questura trasmette senza ritardo la documentazione necessaria all’esame del caso e la Commissione Territoriale provvede all’audizione entro i successivi 7 giorni e alla decisione nei 2 giorni successivi nei seguenti casi:",
+          "inizio": 40779,
+          "fine": 41003
+        },
+        {
+          "testo": "La Questura trasmette senza ritardo la documentazione necessaria all’esame del caso e la Commissione Territoriale è chiamata a decidere entro i successivi 5 giorni, nei casi che seguono:",
+          "inizio": 44620,
+          "fine": 44806
+        },
+        {
+          "testo": "Nei casi di cui all’art. 28-bis, co. 1, lett. b), il decreto procedure richiede espressamente che la decisione venga assunta previa audizione del richiedente.",
+          "inizio": 45699,
+          "fine": 45857
+        },
+        {
+          "testo": "Nel caso previsto dalla lett. a), nei 5 giorni dalla trasmissione della documentazione la Commissione è in particolare chiamata a: 1) svolgere l’esame preliminare di ammissibilità della domanda reiterata e\n\n2) adottare la relativa decisione (sull’ esame preliminare si veda il paragrafo 2.2).",
+          "inizio": 46033,
+          "fine": 46325
+        },
+        {
+          "testo": "Se decide per l’ammissibilità della domanda, la Commissione prosegue l’esame nel merito della stessa secondo i termini previsti per la procedura ordinaria.",
+          "inizio": 46327,
+          "fine": 46482
+        },
+        {
+          "testo": "Nei casi di cui alla lett. b), invece, nei 5 giorni previsti la Commissione Territoriale è chiamata a: 1) effettuare l’esame preliminare della domanda e determinare la procedura applicabile; 2) svolgere l’audizione; 3) decidere collegialmente; 4) caricare la decisione e apporre la firma su Vesta.net; 5) inviare la decisione per la notifica.",
+          "inizio": 46484,
+          "fine": 46826
+        }
+      ],
+      "termini": [
+        {
+          "id": "commissione_territoriale",
+          "termine": "Commissione territoriale",
+          "nome_breve": "Commissione territoriale",
+          "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.25,
+          "livello": "Poco comprensibile",
+          "frasi": 6
+        },
+        {
+          "id": "membro_commissione_territoriale",
+          "termine": "Membro della Commissione territoriale",
+          "nome_breve": "Membro della Commissione",
+          "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "audizione",
+          "termine": "Audizione (intervista)",
+          "nome_breve": "Audizione",
+          "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 3,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 5
+        },
+        {
+          "id": "interprete",
+          "termine": "Interprete",
+          "nome_breve": "Interprete",
+          "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+          "condizioni": [],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "confidenziale",
+          "termine": "Confidenziale (audizione)",
+          "nome_breve": "Confidenziale",
+          "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "verbale",
+          "termine": "Verbale",
+          "nome_breve": "Verbale",
+          "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+          "condizioni": [],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    },
+    {
+      "id": "decisione",
+      "nome": "Decisione",
+      "ordine": 4,
+      "perche_qui": "Dopo l'audizione la Commissione valuta i motivi e sceglie un esito.",
+      "estratti": [
+        {
+          "testo": "Nel caso di applicazione della procedura ordinaria, la Commissione Territoriale è chiamata a provvedere al colloquio con il richiedente entro 30 giorni dal ricevimento della domanda e decidere entro i 3 giorni feriali successivi (art. 27 del decreto procedure).",
+          "inizio": 28668,
+          "fine": 28929
+        },
+        {
+          "testo": "Il termine per completare la procedura può esser prorogato a 6 mesi qualora sopraggiunga la necessità di acquisire nuovi elementi, e dunque non sia possibile rispettare i termini appena menzionati. In tal caso, la Commissione è tenuta a informare il richiedente e la Questura.",
+          "inizio": 28931,
+          "fine": 29207
+        },
+        {
+          "testo": "Il termine è prorogato di ulteriori 9 mesi (totale di 15 mesi) quando:\n\n- L’esame della domanda richiede la valutazione di questioni complesse in fatto o in diritto;\n- Un numero elevato di domande viene presentato simultaneamente;\n- Il ritardo è da attribuire all’inosservanza da parte del richiedente dei seguenti obblighi: di cooperare con le autorità ai fini dell’accertamento dell’identità e di esibire o produrre gli elementi in suo possesso relativi all’età, all’identità e alla cittadinanza, nonché ai Paesi in cui ha soggiornato o è transitato, consentendo, quando è necessario per acquisire i predetti elementi, l’accesso ai dispositivi o supporti elettronici o digitali in suo possesso; consegnare i documenti in suo possesso pertinenti ai fini della domanda; informare l’autorità competente in ordine ad ogni suo mutamento di residenza o domicilio (art. 11 decreto procedure).",
+          "inizio": 29209,
+          "fine": 30096
+        },
+        {
+          "testo": "In casi eccezionali, debitamente motivati, il termine può essere infine prorogato di ulteriori 3 mesi, giungendo così a 18 mesi complessivi, laddove necessario per assicurare un esame adeguato e completo della domanda.",
+          "inizio": 30098,
+          "fine": 30316
+        },
+        {
+          "testo": "La CT, di norma, deve adottare la decisione entro 3 giorni feriali dall’audizione (30 gg dalla ricezione della domanda per provvedere al colloquio + 3 gg feriali successivi al colloquio per adottare la decisione).",
+          "inizio": 30393,
+          "fine": 30606
+        },
+        {
+          "testo": "Se sussiste la necessità di acquisire nuovi elementi, i tempi possono essere più lunghi; in tal caso la Commissione informa del ritardo il richiedente e la Questura competente. La procedura dovrà comunque concludersi entro 6 mesi.",
+          "inizio": 30608,
+          "fine": 30838
+        },
+        {
+          "testo": "È possibile una proroga di ulteriori 9 mesi nei seguenti casi:\n\n- l’esame richiede la valutazione di questioni complesse in fatto o in diritto;\n- si è in presenza di un numero elevato di domande presentate simultaneamente;\n- il ritardo è dovuto all’inosservanza degli obblighi di cooperazione da parte del richiedente.",
+          "inizio": 31092,
+          "fine": 31410
+        },
+        {
+          "testo": "Il termine può essere ulteriormente prorogato di 3 mesi (quindi fino a 18 mesi complessivi) in casi eccezionali debitamente motivati.",
+          "inizio": 31654,
+          "fine": 31787
+        },
+        {
+          "testo": "Oltre a tutti i requisiti di completezza del provvedimento (art. 9, co. 2, decreto procedure), in considerazione delle conseguenze prodotte sulla sfera giuridica del richiedente da una decisione di rigetto adottata in applicazione della procedura accelerata o alla frontiera di cui all’art. 28- bis è sempre necessario che il provvedimento di decisione, notificato al richiedente, contenga anche indicazioni complete in merito a:\n\n- procedura applicata e presupposti applicativi\n- provvedimento di determina del Presidente.",
+          "inizio": 39586,
+          "fine": 40109
+        },
+        {
+          "testo": "È altresì necessario che il provvedimento indichi chiaramente quando, in seguito all’iniziale determina di applicazione di una procedura accelerata, è stata invece disposta la prosecuzione del procedimento in procedura ordinaria, perché sono stati superati i termini di cui all’art. 28 -bis, o sono venute meno le condizioni previste o sono emerse cause di inapplicabilità delle procedure accelerate (vedasi per approfondimenti paragrafo 3.1 su La determinazione della procedura applicabile).",
+          "inizio": 40111,
+          "fine": 40603
+        },
+        {
+          "testo": "In considerazione delle conseguenze che una decisione di rigetto adottata con dichiarazione di manifesta infondatezza può produrre nella sfera giuridica del richiedente, è necessario che il provvedimento contenga sempre indicazioni complete in merito a: procedura applicata; applicazione della manifesta infondatezza alla decisione e i presupposti normativi per tale applicazione; modalità e tempi per il ricorso, nonché indicazioni sulle limitazioni al diritto di restare sul territorio.",
+          "inizio": 70018,
+          "fine": 70506
+        }
+      ],
+      "termini": [
+        {
+          "id": "motivi_di_persecuzione",
+          "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+          "nome_breve": "Motivi di persecuzione",
+          "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+          "condizioni": [
+            "per la tua etnia/tribù",
+            "per la tua religione",
+            "per il Paese a cui appartieni",
+            "per la tua attività politica",
+            "perchè hai le caratteristiche di un determinato gruppo sociale"
+          ],
+          "ordine": 1,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "calamita_naturale",
+          "termine": "Calamità naturale",
+          "nome_breve": "Calamità naturale",
+          "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_rifugiato",
+          "termine": "Status di rifugiato",
+          "nome_breve": "Status di rifugiato",
+          "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+          "condizioni": [
+            "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+            "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+            "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+          ],
+          "ordine": 3,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "status_di_protezione_sussidiaria",
+          "termine": "Status di protezione sussidiaria",
+          "nome_breve": "Protezione sussidiaria",
+          "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+          "condizioni": [
+            "condanna a morte",
+            "tortura",
+            "minaccia alla vita in caso di guerra interna o internazionale"
+          ],
+          "ordine": 4,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_protezione_speciale",
+          "termine": "Permesso per “protezione speciale”",
+          "nome_breve": "Protezione speciale",
+          "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+          "condizioni": [],
+          "ordine": 5,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "permesso_per_casi_speciali",
+          "termine": "Permesso “per casi speciali”",
+          "nome_breve": "Casi speciali",
+          "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+          "condizioni": [
+            "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+            "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+            "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+          ],
+          "ordine": 6,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        },
+        {
+          "id": "rigetto",
+          "termine": "Rigetto (della domanda di protezione internazionale)",
+          "nome_breve": "Rigetto",
+          "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 7,
+          "punteggio": 0.65,
+          "livello": "Abbastanza comprensibile",
+          "frasi": 5
+        }
+      ]
+    },
+    {
+      "id": "impugnazione",
+      "nome": "Impugnazione",
+      "ordine": 5,
+      "perche_qui": "Se la decisione non riconosce la protezione, si può chiedere a un giudice di cambiarla.",
+      "estratti": [
+        {
+          "testo": "l’articolo 35bis stabilisce per ciascuna tipologia di procedura accelerata il particolare regime applicabile alla fase di impugnazione",
+          "inizio": 38356,
+          "fine": 38490
+        },
+        {
+          "testo": "Altri casi di particolare accelerazione sono poi previsti dall’articolo 29-bis, per le sole domande reiterate.",
+          "inizio": 38492,
+          "fine": 38602
+        },
+        {
+          "testo": "caso di decisione negativa, in fase di ricorso si applicherà la specifica disciplina prevista per questa procedura",
+          "inizio": 59452,
+          "fine": 59566
+        }
+      ],
+      "termini": [
+        {
+          "id": "ricorso",
+          "termine": "Ricorso",
+          "nome_breve": "Ricorso",
+          "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+          "condizioni": [],
+          "ordine": 1,
+          "punteggio": 0.3,
+          "livello": "Poco comprensibile",
+          "frasi": 1
+        },
+        {
+          "id": "gratuito_patrocinio",
+          "termine": "Gratuito patrocinio",
+          "nome_breve": "Gratuito patrocinio",
+          "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+          "condizioni": [],
+          "ordine": 2,
+          "punteggio": null,
+          "livello": null,
+          "frasi": 0
+        }
+      ]
+    }
+  ]
+}

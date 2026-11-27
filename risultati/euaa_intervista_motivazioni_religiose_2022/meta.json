@@ -1,0 +1,14 @@
+{
+  "id": "euaa_intervista_motivazioni_religiose_2022",
+  "nome_file": "euaa_intervista_motivazioni_religiose_2022.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T17:03:19.012421+00:00",
+  "stato": "completato",
+  "caratteri": 265057,
+  "usage": {
+    "prompt_tokens": 909873,
+    "completion_tokens": 23095
+  },
+  "percorso": "completato",
+  "pdf": "new_document/EUAA_intervista_motivazioni_religiose_2022.pdf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "guida_pratica_2026",
+  "nome_file": "guida_pratica_2026.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T15:00:18.589672+00:00",
+  "stato": "completato",
+  "caratteri": 78287,
+  "usage": {
+    "prompt_tokens": 544803,
+    "completion_tokens": 27286
+  },
+  "percorso": "completato",
+  "pdf": "new_document/CNA_guida_pratica_2026.pdf"
+}

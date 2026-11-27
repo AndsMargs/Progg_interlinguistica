@@ -1,0 +1,13 @@
+{
+  "id": "regione_toscana_informazioni_richiedenti_asilo",
+  "nome_file": "regione_toscana_informazioni_richiedenti_asilo.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-11T19:30:49.676027+00:00",
+  "stato": "completato",
+  "caratteri": 6216,
+  "usage": {
+    "prompt_tokens": 77657,
+    "completion_tokens": 20742
+  },
+  "percorso": "completato"
+}

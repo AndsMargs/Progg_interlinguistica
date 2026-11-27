@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "fonte": "Gloassario_Info_Protezione.md",
+    "origine": "Glossario per richiedenti protezione internazionale, Regione Toscana (PAeSI)",
+    "scopo": "Dizionario di concetti da usare in seguito come aspetti su cui osservare la complessità linguistica e la complessità procedurale. Non contiene misure, confronti né punteggi.",
+    "raccolta": "2026-10-11",
+    "nota": "Le definizioni restano quelle del glossario, compresa la durata di un anno indicata per la protezione speciale."
+  },
+  "aspetti": [
+    {
+      "id": "trasparenza_del_termine",
+      "famiglia": "complessita_linguistica",
+      "nome": "Trasparenza del termine",
+      "cosa_si_potra_osservare": "Se l’etichetta istituzionale è accompagnata da una glossa, da un sinonimo o da virgolette che ne sciolgono il senso."
+    },
+    {
+      "id": "dipendenza_tra_definizioni",
+      "famiglia": "complessita_linguistica",
+      "nome": "Dipendenza tra definizioni",
+      "cosa_si_potra_osservare": "Se per capire una voce bisogna già conoscere altre voci del glossario."
+    },
+    {
+      "id": "condizioni_aggregate",
+      "famiglia": "complessita_linguistica",
+      "nome": "Condizioni aggregate",
+      "cosa_si_potra_osservare": "Se il senso della voce sta in un elenco di condizioni da tenere insieme."
+    },
+    {
+      "id": "mediazione_e_resa_del_racconto",
+      "famiglia": "complessita_linguistica",
+      "nome": "Mediazione e resa del racconto",
+      "cosa_si_potra_osservare": "Se la voce riguarda il passaggio dalla storia detta alla storia capita, tradotta o scritta."
+    },
+    {
+      "id": "attori_della_procedura",
+      "famiglia": "complessita_procedurale",
+      "nome": "Attori della procedura",
+      "cosa_si_potra_osservare": "Chi interviene e quale compito ha nel percorso della domanda."
+    },
+    {
+      "id": "documenti_e_atti",
+      "famiglia": "complessita_procedurale",
+      "nome": "Documenti e atti",
+      "cosa_si_potra_osservare": "Quali carte fissano la domanda, la convocazione, il racconto o la decisione."
+    },
+    {
+      "id": "luoghi",
+      "famiglia": "complessita_procedurale",
+      "nome": "Luoghi",
+      "cosa_si_potra_osservare": "Dove la persona presenta la domanda, viene accolta o riceve le comunicazioni."
+    },
+    {
+      "id": "momenti_della_procedura",
+      "famiglia": "complessita_procedurale",
+      "nome": "Momenti della procedura",
+      "cosa_si_potra_osservare": "In quale passaggio della procedura il concetto entra in gioco."
+    },
+    {
+      "id": "presupposti",
+      "famiglia": "complessita_procedurale",
+      "nome": "Presupposti",
+      "cosa_si_potra_osservare": "Quali situazioni aprono o escludono una forma di protezione o un permesso."
+    },
+    {
+      "id": "esiti_possibili",
+      "famiglia": "complessita_procedurale",
+      "nome": "Esiti possibili",
+      "cosa_si_potra_osservare": "Quale risultato della domanda il concetto descrive."
+    },
+    {
+      "id": "adempimenti_della_persona",
+      "famiglia": "complessita_procedurale",
+      "nome": "Adempimenti della persona",
+      "cosa_si_potra_osservare": "Che cosa la persona deve fare, consegnare, firmare, denunciare o controllare."
+    },
+    {
+      "id": "rimedi",
+      "famiglia": "complessita_procedurale",
+      "nome": "Rimedi",
+      "cosa_si_potra_osservare": "Come si può contestare una decisione o ottenere assistenza per farlo."
+    }
+  ],
+  "concetti": [
+    {
+      "id": "audizione",
+      "termine": "Audizione (intervista)",
+      "glossa": "intervista",
+      "definizione": "Momento in cui racconti la tua storia alla Commissione territoriale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "momento",
+      "fase": "audizione",
+      "rinvii": ["commissione_territoriale"],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "momenti_della_procedura"
+      ]
+    },
+    {
+      "id": "calamita_naturale",
+      "termine": "Calamità naturale",
+      "glossa": null,
+      "definizione": "Quando ci sono delle grandi difficoltà in un Paese per fatti naturali improvvisi, come ad esempio un terremoto, uno tsunami o l’eruzione di un vulcano.",
+      "forma_allocutiva": "impersonale",
+      "funzione": "presupposto",
+      "fase": "decisione",
+      "rinvii": [],
+      "aspetti": ["presupposti"]
+    },
+    {
+      "id": "cedolino",
+      "termine": "Cedolino",
+      "glossa": null,
+      "definizione": "Documento che la Questura ti dà mentre aspetti il permesso di soggiorno.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "documento",
+      "fase": "presentazione_della_domanda",
+      "rinvii": ["questura"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "documenti_e_atti",
+        "momenti_della_procedura"
+      ]
+    },
+    {
+      "id": "centro_di_accoglienza",
+      "termine": "Centro di accoglienza",
+      "glossa": null,
+      "definizione": "Posto in cui vieni ospitato dopo che hai fatto domanda di protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "luogo",
+      "fase": "attesa_e_convocazione",
+      "rinvii": [],
+      "aspetti": ["luoghi", "momenti_della_procedura"]
+    },
+    {
+      "id": "commissione_territoriale",
+      "termine": "Commissione territoriale",
+      "glossa": null,
+      "definizione": "Sono le persone che valutano la tua storia durante l’audizione e decidono se puoi avere la protezione internazionale. È composta dai funzionari del Ministero dell’Interno e dal rappresentante dell’Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR).",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "audizione",
+      "rinvii": ["audizione"],
+      "riferimenti_esterni": ["Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR)"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "attori_della_procedura",
+        "momenti_della_procedura",
+        "esiti_possibili"
+      ]
+    },
+    {
+      "id": "confidenziale",
+      "termine": "Confidenziale (audizione)",
+      "glossa": "audizione",
+      "definizione": "Vuol dire che le persone che ti stanno ascoltando, quindi l’interprete e il membro della Commissione, non possono raccontare la tua storia ad altre persone al di fuori della Commissione che deve decidere.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "proprieta",
+      "fase": "audizione",
+      "rinvii": ["interprete", "membro_commissione_territoriale", "commissione_territoriale"],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "momenti_della_procedura"
+      ]
+    },
+    {
+      "id": "motivi_di_persecuzione",
+      "termine": "(Essere perseguitato per) motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o opinione politica",
+      "glossa": "Essere perseguitato per",
+      "definizione": "Motivi per cui viene dato lo status di rifugiato. Ti trovi in una di queste situazioni se nel tuo Paese la polizia, lo Stato o le persone della comunità in cui vivi usano violenza fisica o psicologica su di te e sulla tua famiglia.",
+      "condizioni": [
+        "per la tua etnia/tribù",
+        "per la tua religione",
+        "per il Paese a cui appartieni",
+        "per la tua attività politica",
+        "perchè hai le caratteristiche di un determinato gruppo sociale"
+      ],
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "presupposto",
+      "fase": "decisione",
+      "rinvii": ["status_di_rifugiato"],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "dipendenza_tra_definizioni",
+        "condizioni_aggregate",
+        "presupposti",
+        "esiti_possibili"
+      ]
+    },
+    {
+      "id": "funzionario_della_polizia",
+      "termine": "Funzionario della polizia",
+      "glossa": null,
+      "definizione": "Persona della Polizia di frontiera o della Questura che ti aiuta a riempire il Modello C3 per presentare la domanda di protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "presentazione_della_domanda",
+      "rinvii": ["polizia_di_frontiera", "questura", "modello_c3"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "attori_della_procedura",
+        "documenti_e_atti",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "gratuito_patrocinio",
+      "termine": "Gratuito patrocinio",
+      "glossa": null,
+      "definizione": "Quando lo Stato italiano paga un avvocato per permetterti di fare ricorso perchè tu non hai soldi per pagarlo.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "strumento",
+      "fase": "impugnazione",
+      "rinvii": ["ricorso"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "rimedi",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "interprete",
+      "termine": "Interprete",
+      "glossa": null,
+      "definizione": "Persona che parla la tua lingua e che ti aiuta durante l’audizione a capire le domande che ti vengono fatte e che traduce le tue risposte alla Commissione territoriale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "audizione",
+      "rinvii": ["audizione", "commissione_territoriale"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "attori_della_procedura",
+        "momenti_della_procedura"
+      ]
+    },
+    {
+      "id": "lettera_di_convocazione",
+      "termine": "Lettera di convocazione",
+      "glossa": null,
+      "definizione": "Lettera che ti viene spedita all'indirizzo che hai dato alla Questura in cui è scritto il giorno in cui devi andare alla Commissione territoriale per l'audizione.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "documento",
+      "fase": "attesa_e_convocazione",
+      "rinvii": ["questura", "commissione_territoriale", "audizione"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "documenti_e_atti",
+        "momenti_della_procedura",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "membro_commissione_territoriale",
+      "termine": "Membro della Commissione territoriale",
+      "glossa": null,
+      "definizione": "Persona con cui parli durante l'audizione, che scrive il verbale e presenta poi la tua storia alla Commissione territoriale che decide sulla tua domanda di protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "audizione",
+      "rinvii": ["audizione", "verbale", "commissione_territoriale"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "attori_della_procedura",
+        "documenti_e_atti"
+      ]
+    },
+    {
+      "id": "modello_c3",
+      "termine": "Modello C3",
+      "glossa": null,
+      "definizione": "Documento con cui presenti la domanda di protezione internazionale in Italia che compili con la Polizia di frontiera o con la Questura e dove scrivi tutti i tuoi dati (nome, cognome, cittadinanza, ...).",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "documento",
+      "fase": "presentazione_della_domanda",
+      "rinvii": ["polizia_di_frontiera", "questura"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "documenti_e_atti",
+        "adempimenti_della_persona",
+        "momenti_della_procedura"
+      ]
+    },
+    {
+      "id": "operatore_del_centro_di_accoglienza",
+      "termine": "Operatore del centro di accoglienza",
+      "glossa": null,
+      "definizione": "Persona che lavora nel centro di accoglienza e che può aiutarti se hai bisogno di informazioni sulle procedure o sui documenti per la domanda di protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "attesa_e_convocazione",
+      "rinvii": ["centro_di_accoglienza"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "attori_della_procedura",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "permesso_per_casi_speciali",
+      "termine": "Permesso “per casi speciali”",
+      "glossa": "per casi speciali",
+      "definizione": "Permesso di soggiorno che ti viene dato quando si verifica una delle situazioni elencate.",
+      "condizioni": [
+        "sei stato vittima di reati di violenza o di grave sfruttamento e sei in pericolo per avere collaborato con la polizia o per essere sfuggito alle organizzazioni criminali e partecipi ad un programma di assistenza e integrazione sociale",
+        "sei vittima di violenza domestica (cioè violenza in casa) e denunci la persona che ti ha fatto violenza",
+        "sei molto sfruttato sul lavoro in Italia e denunci il datore di lavoro"
+      ],
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "esito",
+      "fase": "decisione",
+      "rinvii": [],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "condizioni_aggregate",
+        "esiti_possibili",
+        "presupposti",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "permesso_protezione_speciale",
+      "termine": "Permesso per “protezione speciale”",
+      "glossa": "protezione speciale",
+      "definizione": "Permesso di soggiorno che ti viene dato quando non puoi avere lo status di rifugiato e neanche lo status di protezione sussidiaria, ma la Commissione pensa che tu sia in pericolo per persecuzioni e torture. Questo permesso dura 1 anno.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "esito",
+      "fase": "decisione",
+      "rinvii": ["status_di_rifugiato", "status_di_protezione_sussidiaria", "commissione_territoriale"],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "dipendenza_tra_definizioni",
+        "esiti_possibili",
+        "presupposti"
+      ]
+    },
+    {
+      "id": "polizia_di_frontiera",
+      "termine": "Polizia di frontiera",
+      "glossa": null,
+      "definizione": "Polizia che si occupa del controllo delle persone e delle cose che attraversano le frontiere di uno Stato. Puoi andare alla Polizia di frontiera per presentare la domanda di protezione internazionale. Si trova ad esempio nei porti e negli aeroporti italiani.",
+      "forma_allocutiva": "mista",
+      "funzione": "attore",
+      "fase": "presentazione_della_domanda",
+      "rinvii": [],
+      "aspetti": [
+        "attori_della_procedura",
+        "luoghi",
+        "momenti_della_procedura",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "questura",
+      "termine": "Questura",
+      "glossa": null,
+      "definizione": "Polizia che si trova nelle città italiane. Puoi andare alla Questura per fare la domanda di protezione internazionale e per chiedere il permesso di soggiorno.",
+      "forma_allocutiva": "mista",
+      "funzione": "attore",
+      "fase": "presentazione_della_domanda",
+      "rinvii": [],
+      "aspetti": [
+        "attori_della_procedura",
+        "luoghi",
+        "momenti_della_procedura",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "ricorso",
+      "termine": "Ricorso",
+      "glossa": null,
+      "definizione": "Atto con cui puoi chiedere ad un giudice di cambiare la decisione della Commissione territoriale se ha deciso che non puoi avere la protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "atto",
+      "fase": "impugnazione",
+      "rinvii": ["commissione_territoriale"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "rimedi",
+        "documenti_e_atti",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "rigetto",
+      "termine": "Rigetto (della domanda di protezione internazionale)",
+      "glossa": "della domanda di protezione internazionale",
+      "definizione": "Quando la Commissione territoriale, in base alla storia che hai raccontato e ai documenti che hai portato, ha deciso che non puoi avere la protezione internazionale.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "esito",
+      "fase": "decisione",
+      "rinvii": ["commissione_territoriale"],
+      "aspetti": [
+        "trasparenza_del_termine",
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "esiti_possibili",
+        "documenti_e_atti"
+      ]
+    },
+    {
+      "id": "status_di_protezione_sussidiaria",
+      "termine": "Status di protezione sussidiaria",
+      "glossa": null,
+      "definizione": "Protezione che ti viene data se la Commissione territoriale pensa che tu non possa avere lo status rifugiato ma che tu sia molto in pericolo se torni nel tuo Paese (per condanna a morte, tortura, minaccia alla vita in caso di guerra interna o internazionale).",
+      "condizioni": [
+        "condanna a morte",
+        "tortura",
+        "minaccia alla vita in caso di guerra interna o internazionale"
+      ],
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "esito",
+      "fase": "decisione",
+      "rinvii": ["commissione_territoriale", "status_di_rifugiato"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "condizioni_aggregate",
+        "esiti_possibili",
+        "presupposti"
+      ]
+    },
+    {
+      "id": "status_di_rifugiato",
+      "termine": "Status di rifugiato",
+      "glossa": null,
+      "definizione": "Protezione che ti viene data se si verifica una delle condizioni elencate.",
+      "condizioni": [
+        "sei perseguitato per motivi di razza, religione, nazionalità, appartenenza ad un determinato gruppo sociale o per le tue opinioni politiche",
+        "ti trovi fuori del Paese di cui sei cittadino e per il rischio di persecuzione non puoi chiedere protezione al tuo Paese",
+        "non hai nessuna cittadinanza e ti trovi fuori dal Paese in cui vivevi e per il rischio di persecuzione non puoi chiedere protezione al Paese in cui vivevi"
+      ],
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "esito",
+      "fase": "decisione",
+      "rinvii": ["motivi_di_persecuzione"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "condizioni_aggregate",
+        "esiti_possibili",
+        "presupposti"
+      ]
+    },
+    {
+      "id": "tutore",
+      "termine": "Tutore",
+      "glossa": null,
+      "definizione": "Persona che ti viene assegnata da un giudice se hai meno di 18 anni e sei arrivato in Italia senza i tuoi genitori o altri parenti che hanno almeno 18 anni. Il tutore ti aiuta a presentare la domanda di protezione internazionale e a fare tutte le cose per cui in Italia è necessario avere almeno 18 anni.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "attore",
+      "fase": "trasversale",
+      "rinvii": [],
+      "aspetti": [
+        "attori_della_procedura",
+        "presupposti",
+        "adempimenti_della_persona"
+      ]
+    },
+    {
+      "id": "verbale",
+      "termine": "Verbale",
+      "glossa": null,
+      "definizione": "Documento scritto dal membro della Commissione territoriale che contiene la storia che hai raccontato durante l'audizione. Il verbale poi ti viene letto in modo che tu sia sicuro che quello che è stato scritto corrisponde alla tua storia e che non manchino parti che pensi siano importanti.",
+      "forma_allocutiva": "seconda_persona",
+      "funzione": "documento",
+      "fase": "audizione",
+      "rinvii": ["membro_commissione_territoriale", "audizione"],
+      "aspetti": [
+        "dipendenza_tra_definizioni",
+        "mediazione_e_resa_del_racconto",
+        "documenti_e_atti",
+        "adempimenti_della_persona",
+        "momenti_della_procedura"
+      ]
+    }
+  ]
+}

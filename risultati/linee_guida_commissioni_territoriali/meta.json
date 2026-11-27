@@ -1,0 +1,14 @@
+{
+  "id": "linee_guida_commissioni_territoriali",
+  "nome_file": "linee_guida_commissioni_territoriali.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T16:47:45.924999+00:00",
+  "stato": "completato",
+  "caratteri": 70730,
+  "usage": {
+    "prompt_tokens": 270039,
+    "completion_tokens": 20991
+  },
+  "percorso": "completato",
+  "pdf": "new_document/CNA_UNHCR_linee_guida_commissioni_territoriali.pdf"
+}

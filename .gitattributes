@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+strumento/dipendenze/it_core_news_lg/it_core_news_lg-3.8.0/vocab/vectors filter=lfs diff=lfs merge=lfs -text

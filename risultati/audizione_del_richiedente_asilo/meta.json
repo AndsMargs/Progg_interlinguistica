@@ -1,0 +1,14 @@
+{
+  "id": "audizione_del_richiedente_asilo",
+  "nome_file": "audizione_del_richiedente_asilo.md",
+  "modello": "gpt-4.1-mini",
+  "creato": "2026-10-31T17:00:02.363418+00:00",
+  "stato": "completato",
+  "caratteri": 20893,
+  "usage": {
+    "prompt_tokens": 109147,
+    "completion_tokens": 22248
+  },
+  "percorso": "completato",
+  "pdf": "new_document/SPRAR_ascolto_richiedenti_protezione_internazionale.pdf"
+}
